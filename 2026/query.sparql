@@ -1,0 +1,11 @@
+SELECT ?travelogue ?travelogueLabel (YEAR(?pubDate) AS ?publicationYear) ?subject ?subjectLabel ?ordinal ?coords WHERE {
+    ?travelogue wdt:P1343 wd:Q105102869.
+    ?travelogue wdt:P577 ?pubDate.
+    ?travelogue p:P921 ?stmt.
+    ?stmt ps:P921 ?subject;
+          prov:wasDerivedFrom ?ref.
+    ?ref pr:P1545 ?ordinal.
+    ?subject wdt:P625 ?coords.
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "en,de". }
+}
+ORDER BY ?travelogue xsd:integer(?publicationYear) xsd:integer(?ordinal)

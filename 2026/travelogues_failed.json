@@ -1,0 +1,12 @@
+[
+  {
+    "qid": "Q109943915",
+    "label": "Ein Schwede reist nach Deutschland und Italien. Jugenderinnerungen eines romantischen Dichters und Kunstgelehrten aus den Jahren 1817 bis 1819.",
+    "error": "HTTPSConnectionPool(host='query.wikidata.org', port=443): Read timed out. (read timeout=60)"
+  },
+  {
+    "qid": "Q109944026",
+    "label": "Reise aus dem Erzgebirge durch das Schönburgische und Altenburgische, das Vogtland, das Thüringsche über Naumburg, Zeitz und Leipzig zurück nach Wittenberg",
+    "error": "invalid literal for int() with base 10: 'http://www.wikidata.org/.well-known/genid/77d59a357c1b2f03fa829a2394e96b83'"
+  }
+]

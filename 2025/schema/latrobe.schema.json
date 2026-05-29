@@ -1,0 +1,133 @@
+{
+  "title": "Latrobe FeatureCollection",
+  "type": "object",
+  "required": [
+    "type",
+    "features"
+  ],
+  "properties": {
+    "type": {
+      "const": "FeatureCollection"
+    },
+    "conformsTo": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "coordRefSys": {
+      "type": "string",
+      "format": "uri"
+    },
+    "featureType": {
+      "type": "string"
+    },
+    "featureSchema": {
+      "type": "string",
+      "format": "uri"
+    },
+    "features": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "properties",
+          "geometry",
+          "time"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "properties": {
+            "type": "object",
+            "required": [
+              "title",
+              "note",
+              "role",
+              "wasDerivedFrom",
+              "closeMatch",
+              "certainty"
+            ],
+            "properties": {
+              "title": {
+                "type": "string"
+              },
+              "note": {
+                "type": "string"
+              },
+              "role": {
+                "type": "string",
+                "enum": [
+                  "visited",
+                  "visited_nearby"
+                ]
+              },
+              "wasDerivedFrom": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "closeMatch": {
+                "type": "array",
+                "items": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "format": "uri"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              },
+              "certainty": {
+                "type": "string",
+                "enum": [
+                  "certain",
+                  "uncertain"
+                ]
+              }
+            },
+            "additionalProperties": false
+          },
+          "time": {
+            "type": "string",
+            "format": "date"
+          },
+          "geometry": {
+            "type": "object",
+            "required": [
+              "type",
+              "coordinates"
+            ],
+            "properties": {
+              "type": {
+                "const": "Point"
+              },
+              "coordinates": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "number"
+                  },
+                  {
+                    "type": "number"
+                  }
+                ],
+                "minItems": 2,
+                "maxItems": 2
+              }
+            },
+            "additionalProperties": false
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
