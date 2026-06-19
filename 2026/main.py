@@ -53,18 +53,16 @@ class Travelogue:
             (longitude, latitude).
         """
         coordinates = [[loc.longitude, loc.latitude] for loc in self.locations]
-        coordinates = [coordinates[0], coordinates[-1]]
+        # coordinates = [coordinates[0], coordinates[-1]]
 
+        time = None
         if self.publication_year is not None:
-            time: dict | None = {
+            time = {
                 "interval": [
                     f"{self.publication_year}-01-01",
                     f"{self.publication_year}-12-31",
                 ]
             }
-        else:
-            time = None
-
         return {
             "type": "Feature",
             "id": self.qid,
@@ -132,6 +130,14 @@ def parse_wkt_point(wkt: str) -> tuple[float, float]:
     Raises:
         ValueError: If the string does not match the expected WKT Point format.
     """
+
+    # Matches "Point(<lon> <lat>)" (WKT axis order: longitude first, latitude second).
+    # Each capture group ([+-]?\d+\.?\d*) accepts an optional sign, then:
+    #   \d+  — one or more integer digits
+    #   \.?  — optional decimal point
+    #   \d*  — zero or more fractional digits
+    # Examples: "-13.73", "51", "0.5", "+180.0"
+    # Group 1 = longitude, group 2 = latitude.
     match = re.fullmatch(r"Point\(([+-]?\d+\.?\d*) ([+-]?\d+\.?\d*)\)", wkt.strip())
     if not match:
         raise ValueError(f"Unexpected WKT coordinate format: {wkt!r}")

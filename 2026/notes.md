@@ -1,3 +1,12 @@
+Lernziele:
+
+- Wissen was Geodaten von "normalen" Daten unterscheidet
+- Unterschied Vektor- und Rasterdaten kennen
+- Grundlagen der Datentransformation
+- Einen Geodatenvisualisierungsclient kennen (kepler.gl)
+- Räumlich Analyse als Methode kennen
+
+
 These reisen gehen nach osten
 
 1) start und endpunkte nehmen und longituden vergleichen. Zaehlen
@@ -7,3 +16,6 @@ These reisen gehen nach osten
 
 
 3) uber distnaz gehen (siehe 1)
+
+
+
