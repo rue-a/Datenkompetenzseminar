@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Graffiti Map</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+    <style>
+        #map {
+            height: 100%;
+            width: 100%;
+        }
+
+        html,
+        body {
+            margin: 0;
+            height: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script>
+        const map = L.map("map").setView([51.05, 13.74], 12);
+        L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+            attribution: "&copy; OpenStreetMap contributors"
+        }).addTo(map);
+
+        fetch("../../graffiti/graffiti.geojson")
+            .then(res => res.json())
+            .then(data => {
+                L.geoJSON(data, {
+                    onEachFeature: (feature, layer) => {
+                        const props = feature.properties;
+                        let popup = "<strong>" + (props.einrichtung || "Ohne Name") + "</strong><br>";
+                        popup += props.adresse ? props.adresse + "<br>" : "";
+                        popup += props.groesse ? "Größe: " + props.groesse + "<br>" : "";
+                        popup += props.bemerkung ? "<em>" + props.bemerkung + "</em>" : "";
+                        layer.bindPopup(popup);
+                    }
+                }).addTo(map);
+            })
+            .catch(err => console.error("GeoJSON load error:", err));
+    </script>
+</body>
+
+</html>

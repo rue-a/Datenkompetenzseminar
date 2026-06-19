@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Lustria&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+/* LIA Script starts a new slide with each heading regardless of heading level.
+Structurally the headings keep their level h1, h2, h3, etc., but there are all
+assigned a class h1 -- we change only the font for this class here */
+.h1 {
+    font-family: 'Monserrat', sans-serif !important;
+}

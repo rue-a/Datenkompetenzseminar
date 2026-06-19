@@ -100,7 +100,6 @@ def write_feature_collection(travelogues: list[Travelogue], output_path: Path) -
         "type": "FeatureCollection",
         "conformsTo": ["http://www.opengis.net/spec/json-fg-1/0.3/conf/core"],
         "featureType": "Travelogue",
-        "geometryDimension": 1,
         "features": [t.export_geojson() for t in travelogues],
     }
     output_path.write_text(json.dumps(collection, indent=2, ensure_ascii=False))
