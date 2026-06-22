@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "Q105102299",
+    "label": "Reise von Wien über Prag, Dresden und durch einen Theil der Lausitz nach Berlin und Potsdam",
+    "publication_year": 1787,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.45691,
+    "target_lon": 13.523319,
+    "west_to_east": 0.21482469999999942
+  },
+  {
+    "id": "Q105102559",
+    "label": "Reisen durch einige Theile von Deutschland, Polen, der Moldau und der Türkei. Ester Theil",
+    "publication_year": 1820,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.163611111,
+    "target_lon": 13.4775,
+    "west_to_east": 0.26064370000000103
+  },
+  {
+    "id": "Q109590352",
+    "label": "Briefe an deutsche Freunde von einer Reise durch Italien über Sachsen, Böhmen, und Oestreich, 1820 und 1821 geschrieben und als Skizzen zum Gemälde unserer Zeit herausgegeben.",
+    "publication_year": 1824,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 50.916666666,
+    "target_lon": 14.15,
+    "west_to_east": -1.7752671000000007
+  },
+  {
+    "id": "Q109728957",
+    "label": "Reise durch Deutschland und die Schweiz 1815/1816",
+    "publication_year": 1976,
+    "source_lat": 51.883333333,
+    "source_lon": 12.433333333,
+    "target_lat": 51.866666666,
+    "target_lon": 10.683333333,
+    "west_to_east": 1.75
+  },
+  {
+    "id": "Q109943910",
+    "label": "Reiseschatten von einem Ausfluge nach dem Harz, der Sächsischen Schweiz im Sommer 1831",
+    "publication_year": 1847,
+    "source_lat": 51.866666666,
+    "source_lon": 10.683333333,
+    "target_lat": 51.291944444,
+    "target_lon": 13.534166666,
+    "west_to_east": -2.8508333330000006
+  },
+  {
+    "id": "Q109943911",
+    "label": "Kleine Wanderungen auch größere Reisen der weiblichen Zöglinge zu Schnepfenthal",
+    "publication_year": 1788,
+    "source_lat": 50.864166666,
+    "source_lon": 10.619444444,
+    "target_lat": 50.85754,
+    "target_lon": 10.56507,
+    "west_to_east": 0.054374444000000466
+  },
+  {
+    "id": "Q109943912",
+    "label": "Beschreibung seiner Reise durch Ober- und Nieder-Sachsen und Hessen",
+    "publication_year": 1785,
+    "source_lat": 51.8671,
+    "source_lon": 12.6484,
+    "target_lat": 51.107777777,
+    "target_lon": 10.646111111,
+    "west_to_east": 2.002288889000001
+  },
+  {
+    "id": "Q109943913",
+    "label": "Reise von Dresden nach Töplitz und die umliegende Gegend",
+    "publication_year": 1802,
+    "source_lat": 50.954722222,
+    "source_lon": 13.8575,
+    "target_lat": 50.860277777,
+    "target_lon": 13.888888888,
+    "west_to_east": -0.03138888800000039
+  },
+  {
+    "id": "Q109943914",
+    "label": "Meine Reise durch Deutschland nebst pathognomischen Bemerkungen über meine gemachten Bekanntschaften",
+    "publication_year": 1806,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 50.948888888,
+    "target_lon": 10.718333333,
+    "west_to_east": 3.019810367
+  },
+  {
+    "id": "Q109943915",
+    "label": "Ein Schwede reist nach Deutschland und Italien. Jugenderinnerungen eines romantischen Dichters und Kunstgelehrten aus den Jahren 1817 bis 1819.",
+    "publication_year": 1867,
+    "source_lat": 52.516666666,
+    "source_lon": 13.383333333,
+    "target_lat": 50.316666666,
+    "target_lon": 11.916666666,
+    "west_to_east": 1.4666666670000001
+  },
+  {
+    "id": "Q109943916",
+    "label": "Eine Fußreise nach Prag im Jahre 1814, aus den Papieren eines alten Dresdners mitgeteilt",
+    "publication_year": 1902,
+    "source_lat": 50.9872,
+    "source_lon": 13.8064,
+    "target_lat": 51.025,
+    "target_lon": 13.7331,
+    "west_to_east": 0.0732999999999997
+  },
+  {
+    "id": "Q109943917",
+    "label": "Fränkische Harzreise 1785, Reisetagebuch des nachmaligen Künzelsauer Pfarrers und Dekans K. L. F. Bauer über seine Reise von Franken nach Sachsen",
+    "publication_year": 1970,
+    "source_lat": 51.5125,
+    "source_lon": 10.259722222,
+    "target_lat": 50.65,
+    "target_lon": 11.866666666,
+    "west_to_east": -1.6069444439999998
+  },
+  {
+    "id": "Q109943918",
+    "label": "Reise von Dresden nach Teplitz in Böhmen",
+    "publication_year": 1782,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 50.616666666,
+    "target_lon": 12.933333333,
+    "west_to_east": 0.804810367
+  },
+  {
+    "id": "Q109943919",
+    "label": "Des Herausgebers kleine Reise in die Nieder- und Ober-Lausitz im Sommer 1782",
+    "publication_year": 1784,
+    "source_lat": 51.760805555,
+    "source_lon": 14.331861111,
+    "target_lat": 51.95,
+    "target_lon": 13.9,
+    "west_to_east": 0.4318611109999999
+  },
+  {
+    "id": "Q109943920",
+    "label": "Curieuse Reise-Beschreibung des Herrn Androphili",
+    "publication_year": 1735,
+    "source_lat": 50.36399076,
+    "source_lon": 11.9990766,
+    "target_lat": 51.145,
+    "target_lon": 14.88,
+    "west_to_east": -2.8809234000000004
+  },
+  {
+    "id": "Q109943921",
+    "label": "Reise durch die Königreiche Sachsen und Böhmen in den Jahren 1822 und 1823",
+    "publication_year": 1825,
+    "source_lat": 50.863333333,
+    "source_lon": 12.186666666,
+    "target_lat": 50.85141,
+    "target_lon": 13.94455,
+    "west_to_east": -1.7578833339999989
+  },
+  {
+    "id": "Q109943923",
+    "label": "Boswells Große Reise. Deutschland und die Schweiz 1764",
+    "publication_year": 1953,
+    "source_lat": 51.8671,
+    "source_lon": 12.6484,
+    "target_lat": 51.107777777,
+    "target_lon": 10.646111111,
+    "west_to_east": 2.002288889000001
+  },
+  {
+    "id": "Q109943924",
+    "label": "Geographische Reise durch Deutschland",
+    "publication_year": 1783,
+    "source_lat": 51.560277777,
+    "source_lon": 13.005555555,
+    "target_lat": 51.016666666,
+    "target_lon": 14.741666666,
+    "west_to_east": -1.7361111109999996
+  },
+  {
+    "id": "Q109943925",
+    "label": "Bemerkungen auf einer Reise in Briefen an eine Freundinn",
+    "publication_year": 1798,
+    "source_lat": 51.482777777,
+    "source_lon": 11.969722222,
+    "target_lat": 51.834166666,
+    "target_lon": 12.246111111,
+    "west_to_east": -0.2763888889999997
+  },
+  {
+    "id": "Q109943926",
+    "label": "Bemerkungen auf einer Reise von Kopenhagen nach Wien im Jahr 1793",
+    "publication_year": 1795,
+    "source_lat": 51.291944444,
+    "source_lon": 13.534166666,
+    "target_lat": 50.9542,
+    "target_lon": 13.9569,
+    "west_to_east": -0.42273333399999835
+  },
+  {
+    "id": "Q109943927",
+    "label": "Auf angenehmgehaltenes Gutachten und Veranlassung der Kön. Engell. Medicinischen Gesellschaft in London gethane gantz sonderbare Reise",
+    "publication_year": 1686,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 52.1315889,
+    "target_lon": 11.6399609,
+    "west_to_east": 2.0981828
+  },
+  {
+    "id": "Q109943928",
+    "label": "Pitoreskische Reisen durch Sachsen oder Naturschönheiten sächsischer Gegenden auf einer gesellschaftlichen Reise",
+    "publication_year": 1800,
+    "source_lat": 51.0319,
+    "source_lon": 13.8217,
+    "target_lat": 50.983333333,
+    "target_lon": 13.580833333,
+    "west_to_east": 0.2408666670000006
+  },
+  {
+    "id": "Q109943929",
+    "label": "Bemerkungen auf einer Reise von Leipzig bis London an eine Freundin",
+    "publication_year": 1783,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 50.974722222,
+    "target_lon": 10.324444444,
+    "west_to_east": 2.0502884560000005
+  },
+  {
+    "id": "Q109943930",
+    "label": "Kurze Beschreibung einer Harzreise des Dessauischen Erziehungsinstituts",
+    "publication_year": 1786,
+    "source_lat": 51.834166666,
+    "source_lon": 12.246111111,
+    "target_lat": 51.834166666,
+    "target_lon": 12.246111111,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109943931",
+    "label": "Tagebuch einer musikalischen Reise durch Frankreich und Italien, durch Flandern, den Niederlanden und am Rhein bis Wien, durch Böhmen, Sachsen, Brandenburg, Hamburg und Holland 1770–1772",
+    "publication_year": 1772,
+    "source_lat": 50.962222222,
+    "source_lon": 13.940277777,
+    "target_lat": 51.3406321,
+    "target_lon": 12.3747329,
+    "west_to_east": 1.5655448770000007
+  },
+  {
+    "id": "Q109943932",
+    "label": "Reise von Braunschweig nach Karlsbad und durch Böhmen in Briefen von Eduard und Karl",
+    "publication_year": 1806,
+    "source_lat": 51.566666666,
+    "source_lon": 10.949722222,
+    "target_lat": 50.234902429,
+    "target_lon": 12.168078865,
+    "west_to_east": -1.218356643
+  },
+  {
+    "id": "Q109943933",
+    "label": "Herzog von Württemberg, Tagebücher seiner Rayßen in den Jahren 1783-1791",
+    "publication_year": 1968,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 50.948888888,
+    "target_lon": 10.718333333,
+    "west_to_east": 3.019810367
+  },
+  {
+    "id": "Q109943934",
+    "label": "Eine Reise durch Deutschland und Rußland seinen Freunden beschrieben",
+    "publication_year": 1787,
+    "source_lat": 50.433333333,
+    "source_lon": 11.85,
+    "target_lat": 52.964722222,
+    "target_lon": 10.565833333,
+    "west_to_east": 1.2841666669999992
+  },
+  {
+    "id": "Q109943935",
+    "label": "Chodowiecki in Dresden und Leipzig. Das Reisetagebuch des Künstlers vom 27. Oktober bis 15. November 1773",
+    "publication_year": 1916,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.3406321,
+    "target_lon": 12.3747329,
+    "west_to_east": 1.3634108000000005
+  },
+  {
+    "id": "Q109943936",
+    "label": "Meine Bemerkungen auf der Reise, über mannigfaltige mir vorgekommene Gegenstände aus dem Gesichtspunkte, wie ich sie fand und darüber dachte",
+    "publication_year": 1790,
+    "source_lat": 52.516666666,
+    "source_lon": 13.383333333,
+    "target_lat": 52.1315889,
+    "target_lon": 11.6399609,
+    "west_to_east": 1.7433724329999993
+  },
+  {
+    "id": "Q109943937",
+    "label": "Bemerkungen auf einer vorzüglich in landwirthschaftlicher Hinsicht im Sommer 1801 angestellten Reise",
+    "publication_year": 1805,
+    "source_lat": 52.1315889,
+    "source_lon": 11.6399609,
+    "target_lat": 50.55,
+    "target_lon": 10.416666666,
+    "west_to_east": 1.2232942340000008
+  },
+  {
+    "id": "Q109943938",
+    "label": "Spaziergang von Leipzig nach dem Harze und den umliegenden Gegenden. Vorzüglich in botanischer und mineralogischer Hinsicht",
+    "publication_year": 1819,
+    "source_lat": 51.354444444,
+    "source_lon": 11.992777777,
+    "target_lat": 51.516666666,
+    "target_lon": 11.55,
+    "west_to_east": 0.4427777769999999
+  },
+  {
+    "id": "Q109943939",
+    "label": "Skizzen einer Reise von Wien über Prag, Teplitz, Dresden, Berlin, Leipzig, Weimar, Frankfurt am Main, Darmstadt, Heidelberg, Mannheim, Karlsruhe, Stuttgart, München, Salzburg, Linz, und von dort nach Wien zurück",
+    "publication_year": 1831,
+    "source_lat": 50.82489,
+    "source_lon": 13.96906,
+    "target_lat": 50.974722222,
+    "target_lon": 10.324444444,
+    "west_to_east": 3.6446155560000015
+  },
+  {
+    "id": "Q109943940",
+    "label": "Beschreibung einer Wasserreise von Außig nach Dresden",
+    "publication_year": 1799,
+    "source_lat": 50.916666666,
+    "source_lon": 14.15,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": 0.4118563000000002
+  },
+  {
+    "id": "Q109943941",
+    "label": "Bemerkungen auf einer Reise durch die churbrandenburgischen und sächsischen Lande bis an die fränkischen Grenzen",
+    "publication_year": 1791,
+    "source_lat": 51.968055555,
+    "source_lon": 12.084444444,
+    "target_lat": 51.8671,
+    "target_lon": 12.6484,
+    "west_to_east": -0.5639555559999998
+  },
+  {
+    "id": "Q109943942",
+    "label": "Auszüge aus der Brieftasche eines Rheinländers, seinen Durchflug durch Sachsen betreffend",
+    "publication_year": 1816,
+    "source_lat": 51.25671,
+    "source_lon": 12.14164,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": -1.5965036999999995
+  },
+  {
+    "id": "Q109943943",
+    "label": "Mahlerische Reise von Dresden nach Pirna usw. Von einem Bedienten",
+    "publication_year": 1797,
+    "source_lat": 50.988027777,
+    "source_lon": 14.004711111,
+    "target_lat": 50.919444,
+    "target_lon": 14.175,
+    "west_to_east": -0.17028888900000005
+  },
+  {
+    "id": "Q109943944",
+    "label": "Auli Apronii vermehrte Reisebeschreibung von Franco Porto der Chur-Brandenburg",
+    "publication_year": 1724,
+    "source_lat": 50.927222222,
+    "source_lon": 11.586388888,
+    "target_lat": 51.3406321,
+    "target_lon": 12.3747329,
+    "west_to_east": -0.7883440119999996
+  },
+  {
+    "id": "Q109943945",
+    "label": "Reise von Leipzig nach Halle im Augustmonat 1786, aus dem ungedruckten Tagebuch eines reisenden Deutschen",
+    "publication_year": 1793,
+    "source_lat": 51.41694444,
+    "source_lon": 12.1475,
+    "target_lat": 51.3406321,
+    "target_lon": 12.3747329,
+    "west_to_east": -0.22723289999999885
+  },
+  {
+    "id": "Q109943946",
+    "label": "Reise durch Franken Baiern, Oesterreich, Preußen und Sachsen",
+    "publication_year": 1810,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.3406321,
+    "target_lon": 12.3747329,
+    "west_to_east": 1.3634108000000005
+  },
+  {
+    "id": "Q109943947",
+    "label": "Erinnerungen über einige Briefe eines vorgeblichen Franzosen, der sehr sonderbar von Sachsen aus bis über die Eider hinüber gereiset seyn will",
+    "publication_year": 1784,
+    "source_lat": 51.026944444,
+    "source_lon": 13.358888888,
+    "target_lat": 51.026944444,
+    "target_lon": 13.358888888,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109943948",
+    "label": "Oeconomische und statistische Reisen durch Chursachsen und dessen angränzende Länder",
+    "publication_year": 1803,
+    "source_lat": 51.026944444,
+    "source_lon": 13.358888888,
+    "target_lat": 51.366666666,
+    "target_lon": 14.305555555,
+    "west_to_east": -0.9466666670000006
+  },
+  {
+    "id": "Q109943949",
+    "label": "Mahlerische Wanderungen durch Sachsen",
+    "publication_year": 1794,
+    "source_lat": 50.988027777,
+    "source_lon": 14.004711111,
+    "target_lat": 50.962222222,
+    "target_lon": 13.940277777,
+    "west_to_east": 0.06443333400000029
+  },
+  {
+    "id": "Q109943950",
+    "label": "Deliciarum Germaniae, Tam Superioris Quam Inferioris",
+    "publication_year": 1609,
+    "source_lat": 50.718888888,
+    "source_lon": 12.496111111,
+    "target_lat": 51.152777777,
+    "target_lon": 14.987222222,
+    "west_to_east": -2.4911111110000004
+  },
+  {
+    "id": "Q109943951",
+    "label": "Tagebuch meiner Osterabreise aus Sachsen nach Pohlen, u. Preußen",
+    "publication_year": 1962,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 51.152777777,
+    "target_lon": 14.987222222,
+    "west_to_east": -2.612489322
+  },
+  {
+    "id": "Q109943952",
+    "label": "Meine neueste Reise zu Wasser und Land oder ein Bruchstück aus der Geschichte meines Lebens",
+    "publication_year": 1807,
+    "source_lat": 50.316666666,
+    "source_lon": 11.916666666,
+    "target_lat": 51.8671,
+    "target_lon": 12.6484,
+    "west_to_east": -0.7317333340000012
+  },
+  {
+    "id": "Q109943953",
+    "label": "Neues Handbuch für Reisende jeder Gattung durch Deutschland und die angränzenden Länder",
+    "publication_year": 1809,
+    "source_lat": 50.258469444,
+    "source_lon": 10.957869444,
+    "target_lat": 52.1315889,
+    "target_lon": 11.6399609,
+    "west_to_east": -0.6820914560000002
+  },
+  {
+    "id": "Q109943955",
+    "label": "Fischers Reise von Leipzig nach Heidelberg im Herbst 1805",
+    "publication_year": 1808,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 50.974722222,
+    "target_lon": 10.324444444,
+    "west_to_east": 2.0502884560000005
+  },
+  {
+    "id": "Q109943957",
+    "label": "Wegweiser in die vorzüglichsten Gegenden der Oberlausitz, in Hinsicht der Naturschönheiten und Alterthümer",
+    "publication_year": 1804,
+    "source_lat": 51.1666667,
+    "source_lon": 14.3333333,
+    "target_lat": 51.289722222,
+    "target_lon": 14.83,
+    "west_to_east": -0.49666670000000046
+  },
+  {
+    "id": "Q109943959",
+    "label": "Ueber Lauchstädt. Aus dem Tagebuch eines Reisenden 1784",
+    "publication_year": 1785,
+    "source_lat": 51.38652,
+    "source_lon": 11.86956,
+    "target_lat": 51.482777777,
+    "target_lon": 11.969722222,
+    "west_to_east": -0.1001622219999998
+  },
+  {
+    "id": "Q109943961",
+    "label": "Sämmtliche Schriften, hrsg. von dessen Tochter Therese Forster und begleitet mit einer Charakteristik Forster’s von Georg Gottfried Gervinus",
+    "publication_year": 1843,
+    "source_lat": 51.834166666,
+    "source_lon": 12.246111111,
+    "target_lat": 50.911944444,
+    "target_lon": 13.342777777,
+    "west_to_east": -1.0966666660000008
+  },
+  {
+    "id": "Q109943963",
+    "label": "Ein Reisebericht aus Sachsen und Bayern vom Jahre 1807",
+    "publication_year": 1899,
+    "source_lat": 51.026944444,
+    "source_lon": 13.358888888,
+    "target_lat": 50.978055555,
+    "target_lon": 11.028888888,
+    "west_to_east": 2.33
+  },
+  {
+    "id": "Q109943966",
+    "label": "Summarische Verzeichnus einer Reyß, so der … Herr Friderich Hertzog zu Würtemberg und Teck … [et]c. im Jahr Christi 1580 gethon",
+    "publication_year": 1606,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.141388888,
+    "target_lon": 14.8,
+    "west_to_east": -1.0618563000000005
+  },
+  {
+    "id": "Q109943968",
+    "label": "Reise durch Teutschland, Holland und Frankreich, die Schweiz und Italien in den Jahren 1797, 1803 und 1804",
+    "publication_year": 1816,
+    "source_lat": 51.026944444,
+    "source_lon": 13.358888888,
+    "target_lat": 52.1315889,
+    "target_lon": 11.6399609,
+    "west_to_east": 1.718927987999999
+  },
+  {
+    "id": "Q109943970",
+    "label": "Eines berühmten Cavaliers aus Schlesien, Curieuse Reisen durch Europa, in welcher allerhand Merckwürdigkeiten zu finden",
+    "publication_year": 1739,
+    "source_lat": 50.927222222,
+    "source_lon": 11.586388888,
+    "target_lat": 51.152777777,
+    "target_lon": 14.987222222,
+    "west_to_east": -3.4008333339999997
+  },
+  {
+    "id": "Q109943971",
+    "label": "Reise durch einen Theil des Harzes, des hannövrischen, hessischen, der Rhein- und Maingegenden in Briefen an einige Freunde in technischer und physischer hinsicht beschrieben",
+    "publication_year": 1805,
+    "source_lat": 51.645,
+    "source_lon": 11.052222222,
+    "target_lat": 51.763888888,
+    "target_lon": 10.664722222,
+    "west_to_east": 0.3874999999999993
+  },
+  {
+    "id": "Q109943972",
+    "label": "Reisen durch Ober- und Niedersachsen",
+    "publication_year": 1787,
+    "source_lat": 51.791666666,
+    "source_lon": 11.147222222,
+    "target_lat": 51.482777777,
+    "target_lon": 11.969722222,
+    "west_to_east": -0.8224999999999998
+  },
+  {
+    "id": "Q109943973",
+    "label": "Reise nach dem Brocken, der Baumannshöhle, der Bielshöhle und der Roßtrappe",
+    "publication_year": 1816,
+    "source_lat": 51.763888888,
+    "source_lon": 10.664722222,
+    "target_lat": 51.755688888,
+    "target_lon": 10.8466,
+    "west_to_east": -0.1818777780000005
+  },
+  {
+    "id": "Q109943974",
+    "label": "Reise durch Sachsen im Jahre 1813. Briefe Goethes an Christiane",
+    "publication_year": 1899,
+    "source_lat": 51.152095,
+    "source_lon": 11.809819,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": -1.928324700000001
+  },
+  {
+    "id": "Q109943975",
+    "label": "Eine kleine Reisebeschreibung zum Vergnügen der Jugend",
+    "publication_year": 1784,
+    "source_lat": 51.95,
+    "source_lon": 11.433333333,
+    "target_lat": 52.1315889,
+    "target_lon": 11.6399609,
+    "west_to_east": -0.20662756699999996
+  },
+  {
+    "id": "Q109943976",
+    "label": "Die Harzgegend oder eine kleine Reise von drey Tagen zum Unterricht und Vergnügen der Jugend",
+    "publication_year": 1785,
+    "source_lat": 51.751111111,
+    "source_lon": 11.042777777,
+    "target_lat": 51.751111111,
+    "target_lon": 11.042777777,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109943977",
+    "label": "Mit nützlichen Nachrichten und Anmerkungen erläuterte Beschreibung seiner, im Jahr 1751 in das Käyser Carls-Bad gethanen Reise",
+    "publication_year": 1754,
+    "source_lat": 50.594166666,
+    "source_lon": 12.645555555,
+    "target_lat": 50.5828,
+    "target_lon": 12.6689,
+    "west_to_east": -0.0233444450000011
+  },
+  {
+    "id": "Q109943978",
+    "label": "Meine Reise im deutschen Vaterlande, aus Thüringen ins Riesengebürge zu den Elbquellen und durch Böhmen ins Erzgebürge",
+    "publication_year": 1799,
+    "source_lat": 51.2331,
+    "source_lon": 12.0197,
+    "target_lat": 50.911944444,
+    "target_lon": 13.342777777,
+    "west_to_east": -1.323077777
+  },
+  {
+    "id": "Q109943979",
+    "label": "Des Augsburger Patriciers Philipp Hainhofer Reisen nach Innsbruck und Dresden 1629",
+    "publication_year": 1901,
+    "source_lat": 50.416666666,
+    "source_lon": 12.166666666,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": -1.5714770340000008
+  },
+  {
+    "id": "Q109943980",
+    "label": "Philipp Hainhofers Reise-Tagebuch, enthaltend Schilderungen aus Franken, Sachsen, der Mark Brandenburg und Pommern im Jahr 1617",
+    "publication_year": 1834,
+    "source_lat": 50.399722222,
+    "source_lon": 11.216666666,
+    "target_lat": 51.152095,
+    "target_lon": 11.809819,
+    "west_to_east": -0.5931523339999991
+  },
+  {
+    "id": "Q109943981",
+    "label": "Reise durch einen Theil von Sachsen und Dänemark in den letztverflossenen Jahren",
+    "publication_year": 1813,
+    "source_lat": 51.152777777,
+    "source_lon": 14.987222222,
+    "target_lat": 51.549722222,
+    "target_lon": 14.72,
+    "west_to_east": 0.2672222219999991
+  },
+  {
+    "id": "Q109943982",
+    "label": "Beobachtungen und Anmerkungen auf Reisen durch Deutschland",
+    "publication_year": 1788,
+    "source_lat": 52.1315889,
+    "source_lon": 11.6399609,
+    "target_lat": 50.948888888,
+    "target_lon": 10.718333333,
+    "west_to_east": 0.9216275669999998
+  },
+  {
+    "id": "Q109943983",
+    "label": "Reise von Thüringen durch Sachsen, die sächsische Schweiz und die Oberlausitz, über den Oybin und Meffersdorf in das schlesische Riesengebirge",
+    "publication_year": 1804,
+    "source_lat": 50.978055555,
+    "source_lon": 11.028888888,
+    "target_lat": 51.1666667,
+    "target_lon": 14.3333333,
+    "west_to_east": -3.3044444120000005
+  },
+  {
+    "id": "Q109943984",
+    "label": "Wittenberg 1519: Was ein Reisender von der Stadt wahrgenommen hat, und was nicht",
+    "publication_year": 2013,
+    "source_lat": 50.524722222,
+    "source_lon": 11.306666666,
+    "target_lat": 50.524722222,
+    "target_lon": 11.306666666,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109943986",
+    "label": "Durchflüge durch Deutschland, die Niederlande und Frankreich",
+    "publication_year": 1796,
+    "source_lat": 51.763888888,
+    "source_lon": 10.664722222,
+    "target_lat": 50.55,
+    "target_lon": 10.416666666,
+    "west_to_east": 0.24805555600000062
+  },
+  {
+    "id": "Q109943987",
+    "label": "Carls vaterländische Reisen. In Briefen an Eduard",
+    "publication_year": 1793,
+    "source_lat": 51.763888888,
+    "source_lon": 10.664722222,
+    "target_lat": 51.283055555,
+    "target_lon": 12.099722222,
+    "west_to_east": -1.4350000000000005
+  },
+  {
+    "id": "Q109943988",
+    "label": "Gedichte und Selbstbiographie, Teil 2: Reise durch einen Theil von Sachsen, Böhmen, Oesterreich und Ungarn",
+    "publication_year": 1808,
+    "source_lat": 51.482777777,
+    "source_lon": 11.969722222,
+    "target_lat": 50.896111111,
+    "target_lon": 14.807222222,
+    "west_to_east": -2.8375000000000004
+  },
+  {
+    "id": "Q109943989",
+    "label": "Bergbaukundliches Tagebuch des Schweizer Mineralogen Hanns Caspar Hirzel über eine Reise durch das Sächsische Erzgebirge",
+    "publication_year": 1983,
+    "source_lat": 50.911944444,
+    "source_lon": 13.342777777,
+    "target_lat": 51.031944444,
+    "target_lon": 13.308333333,
+    "west_to_east": 0.03444444400000002
+  },
+  {
+    "id": "Q109943990",
+    "label": "Bemerkungen über verschiedene Gegenstände auf einer Reise durch einige deutsche Provinzen",
+    "publication_year": 1782,
+    "source_lat": 51.795277777,
+    "source_lon": 10.962222222,
+    "target_lat": 50.948888888,
+    "target_lon": 10.718333333,
+    "west_to_east": 0.24388888899999905
+  },
+  {
+    "id": "Q109943991",
+    "label": "Reise durch Deutschland Ungarn, Holland, Italien, Frankreich, Großbritanien und Irland",
+    "publication_year": 1831,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 50.9542,
+    "target_lon": 13.9569,
+    "west_to_east": -1.5821670999999995
+  },
+  {
+    "id": "Q109943992",
+    "label": "Bemerkungen auf einer Reise von Thorn durch Posen nach Sachsen",
+    "publication_year": 1790,
+    "source_lat": 51.433055555,
+    "source_lon": 14.25,
+    "target_lat": 51.549722222,
+    "target_lon": 14.72,
+    "west_to_east": -0.47000000000000064
+  },
+  {
+    "id": "Q109943993",
+    "label": "Reise durch Holstein, Hannover, Sachsen, Brandenburg, Mecklenburg und Lauenburg im Jahre 1817",
+    "publication_year": 1820,
+    "source_lat": 51.763888888,
+    "source_lon": 10.664722222,
+    "target_lat": 51.8671,
+    "target_lon": 12.6484,
+    "west_to_east": -1.9836777780000006
+  },
+  {
+    "id": "Q109943994",
+    "label": "Briefe eines reisenden Russen",
+    "publication_year": 1799,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 50.978055555,
+    "target_lon": 11.028888888,
+    "west_to_east": 2.709254812000001
+  },
+  {
+    "id": "Q109943995",
+    "label": "Neueste Reisen durch Deutschland, Böhmen, Ungarn, die Schweitz, Italien und Lothringen",
+    "publication_year": 1740,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 50.948888888,
+    "target_lon": 10.718333333,
+    "west_to_east": 3.019810367
+  },
+  {
+    "id": "Q109943996",
+    "label": "Emanuel Hartensteins, eines perigrinirenden Weltbürgers, Reise von Berlin über Rostock nach Dreßden",
+    "publication_year": 1780,
+    "source_lat": 51.8671,
+    "source_lon": 12.6484,
+    "target_lat": 51.8671,
+    "target_lon": 12.6484,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109943997",
+    "label": "Fantasien auf einer Reise nach Prag",
+    "publication_year": 1792,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 50.8,
+    "target_lon": 13.8,
+    "west_to_east": -1.425267100000001
+  },
+  {
+    "id": "Q109943998",
+    "label": "Geognostische Bemerkungen auf einer Reise durch Sachsen und Böhmen: ein Schreiben an Herrn Geheimrath von Leonhard",
+    "publication_year": 1830,
+    "source_lat": 51.3139,
+    "source_lon": 12.4667,
+    "target_lat": 50.84004,
+    "target_lon": 13.98641,
+    "west_to_east": -1.51971
+  },
+  {
+    "id": "Q109943999",
+    "label": "Bemerkungen auf einer Reise durch die Lausitz und Sachsen",
+    "publication_year": 1783,
+    "source_lat": 51.181388888,
+    "source_lon": 14.423888888,
+    "target_lat": 50.842222222,
+    "target_lon": 14.742777777,
+    "west_to_east": -0.3188888890000001
+  },
+  {
+    "id": "Q109944000",
+    "label": "Briefe über Sachsen von einem Reisenden",
+    "publication_year": 1786,
+    "source_lat": 51.75,
+    "source_lon": 14.5,
+    "target_lat": 50.864722222,
+    "target_lon": 13.855555555,
+    "west_to_east": 0.6444444449999995
+  },
+  {
+    "id": "Q109944001",
+    "label": "Reisen in Deutschland. Reisen im südöstlichen Deutschland",
+    "publication_year": 1852,
+    "source_lat": 50.833333333,
+    "source_lon": 12.916666666,
+    "target_lat": 50.718888888,
+    "target_lon": 12.496111111,
+    "west_to_east": 0.42055555499999997
+  },
+  {
+    "id": "Q109944002",
+    "label": "Karl Wertheims Reise durch Kursachsen",
+    "publication_year": 1793,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.431944444,
+    "target_lon": 10.495277777,
+    "west_to_east": 3.242865923
+  },
+  {
+    "id": "Q109944003",
+    "label": "Meine Wanderungen durch Sachsen 1809",
+    "publication_year": 1899,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 50.911944444,
+    "target_lon": 13.342777777,
+    "west_to_east": 0.39536592299999995
+  },
+  {
+    "id": "Q109944004",
+    "label": "Meine Freuden in Sachsen",
+    "publication_year": 1801,
+    "source_lat": 51.2244,
+    "source_lon": 12.4077,
+    "target_lat": 51.3406321,
+    "target_lon": 12.3747329,
+    "west_to_east": 0.03296710000000047
+  },
+  {
+    "id": "Q109944005",
+    "label": "Brief eines Süddeutschen auf einer Reise durch Obersachsen",
+    "publication_year": 1797,
+    "source_lat": 51.482777777,
+    "source_lon": 11.969722222,
+    "target_lat": 51.38652,
+    "target_lon": 11.86956,
+    "west_to_east": 0.1001622219999998
+  },
+  {
+    "id": "Q109944006",
+    "label": "Die vornehmsten europäischen Reisen, wie solche auf eine nützliche und bequeme Weise anzustellen sind",
+    "publication_year": 1783,
+    "source_lat": 51.2327,
+    "source_lon": 14.2013,
+    "target_lat": 51.2327,
+    "target_lon": 14.2013,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109944007",
+    "label": "Reise nach Leipzig 1803",
+    "publication_year": 1990,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 51.3406321,
+    "target_lon": 12.3747329,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109944008",
+    "label": "Reise durch Deutschland, Dänemark, Schweden, Norwegen und einen Theil von Italien, in den Jahren 1797, 1798, 1799",
+    "publication_year": 1801,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 51.152777777,
+    "target_lon": 14.987222222,
+    "west_to_east": -2.612489322
+  },
+  {
+    "id": "Q109944009",
+    "label": "Wanderungen durch die Niederlande, Deutschland, die Schweiz und Italien 1793 und 1794",
+    "publication_year": 1796,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.3406321,
+    "target_lon": 12.3747329,
+    "west_to_east": 1.3634108000000005
+  },
+  {
+    "id": "Q109944010",
+    "label": "Merkwürdige Reise über Erlangen, Dreßden, Kassel und Fulda nach Hammelburg",
+    "publication_year": 1817,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.3775,
+    "target_lon": 10.134444444,
+    "west_to_east": 3.6036992560000005
+  },
+  {
+    "id": "Q109944011",
+    "label": "Eine Reise durch Sachsen im Jahre 1802",
+    "publication_year": 1897,
+    "source_lat": 50.927222222,
+    "source_lon": 11.586388888,
+    "target_lat": 50.927222222,
+    "target_lon": 11.586388888,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109944012",
+    "label": "Reise von Offenbach nach Weimar und Schönebeck im Jahr 1799",
+    "publication_year": 1800,
+    "source_lat": 50.974722222,
+    "source_lon": 10.324444444,
+    "target_lat": 51.018611111,
+    "target_lon": 11.427222222,
+    "west_to_east": -1.102777778
+  },
+  {
+    "id": "Q109944013",
+    "label": "Die vornehmsten europäischen Reisen, wie solche durch Deutschland, Franckreich, Italien, Holl-und England, Dännemarck und Schweden anzustellen",
+    "publication_year": 1706,
+    "source_lat": 51.751111111,
+    "source_lon": 11.973611111,
+    "target_lat": 51.152095,
+    "target_lon": 11.809819,
+    "west_to_east": 0.16379211100000113
+  },
+  {
+    "id": "Q109944014",
+    "label": "Reise durch Sachsen, in Rücksicht der Naturgeschichte und Oekonomie",
+    "publication_year": 1785,
+    "source_lat": 51.26451,
+    "source_lon": 13.9054,
+    "target_lat": 50.896111111,
+    "target_lon": 14.807222222,
+    "west_to_east": -0.9018222219999998
+  },
+  {
+    "id": "Q109944015",
+    "label": "Beobachtungen über Natur und Menschen, besonders über mineralogische Gegenstände an verschiedenen Orten in Sachsen und andern Gegenden",
+    "publication_year": 1791,
+    "source_lat": 51.22128,
+    "source_lon": 11.079836,
+    "target_lat": 51.266667,
+    "target_lon": 12.9,
+    "west_to_east": -1.8201640000000001
+  },
+  {
+    "id": "Q109944016",
+    "label": "Denckwürdige Reisebeschreibung durch Deutschland, Italien, Spanien, Portugall, Engeland, Franckreich und Schweitz",
+    "publication_year": 1690,
+    "source_lat": 50.974722222,
+    "source_lon": 10.324444444,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": -3.413699256000001
+  },
+  {
+    "id": "Q109944017",
+    "label": "Fußreise durch Sachsen und dessen romantische Schweizergegenden, einen Theil der Anhaltschen, Brandenburg und Braunschweigschen Lande nach Hannover",
+    "publication_year": 1805,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 51.883333333,
+    "target_lon": 12.433333333,
+    "west_to_east": -0.05860043300000051
+  },
+  {
+    "id": "Q109944018",
+    "label": "Journal einer Lustreise in die Oberlausitz; im November 1777",
+    "publication_year": 1781,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 51.3406321,
+    "target_lon": 12.3747329,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109944019",
+    "label": "Reise durch Ost-Deutschland im Jahr 1762",
+    "publication_year": 1781,
+    "source_lat": 50.45223,
+    "source_lon": 11.6393,
+    "target_lat": 50.930277777,
+    "target_lon": 12.01,
+    "west_to_east": -0.37069999999999936
+  },
+  {
+    "id": "Q109944020",
+    "label": "Reise durch Kursachsen in die Oberlausitz nach den evangelischen Brüdergemeinorten Barby, Gnadau, Herrnhut, Niesky und Kleinwelka",
+    "publication_year": 1805,
+    "source_lat": 51.9667595,
+    "source_lon": 11.8838245,
+    "target_lat": 51.21079,
+    "target_lon": 14.3946,
+    "west_to_east": -2.510775500000001
+  },
+  {
+    "id": "Q109944021",
+    "label": "Bemerkungen auf meiner Reise von Wittenberg aus durch einen Theil des Wittenbergischen Kreises, die Nieder- und Oberlausitz und einen Theil des Meißnischen Kreises",
+    "publication_year": 1808,
+    "source_lat": 51.8671,
+    "source_lon": 12.6484,
+    "target_lat": 51.591944444,
+    "target_lon": 12.585277777,
+    "west_to_east": 0.06312222300000059
+  },
+  {
+    "id": "Q109944022",
+    "label": "Bemerkungen auf einer Reise von Wittenberg nach Dresden, Pirna u.s.w. im Sommer 1807",
+    "publication_year": 1808,
+    "source_lat": 51.8000238,
+    "source_lon": 12.8660834,
+    "target_lat": 51.300277777,
+    "target_lon": 13.107222222,
+    "west_to_east": -0.24113882199999992
+  },
+  {
+    "id": "Q109944023",
+    "label": "Meine Fußreisen im Jahre 1809 zur Zeit des österreichischen Krieges",
+    "publication_year": 1810,
+    "source_lat": 51.8671,
+    "source_lon": 12.6484,
+    "target_lat": 51.591944444,
+    "target_lon": 12.585277777,
+    "west_to_east": 0.06312222300000059
+  },
+  {
+    "id": "Q109944024",
+    "label": "Wanderungen über die verödeten Gefilde Sachsens und der Oberlausitz",
+    "publication_year": 1815,
+    "source_lat": 51.152777777,
+    "source_lon": 14.987222222,
+    "target_lat": 51.141111,
+    "target_lon": 14.761667,
+    "west_to_east": 0.22555522200000055
+  },
+  {
+    "id": "Q109944025",
+    "label": "Beobachtungen bey meinem Aufenthalt in der Oberlausitz und auf einer Reise über Dresden nach Wittenberg im Jahre 1818",
+    "publication_year": 1819,
+    "source_lat": 50.896111111,
+    "source_lon": 14.807222222,
+    "target_lat": 51.152777777,
+    "target_lon": 14.987222222,
+    "west_to_east": -0.17999999999999972
+  },
+  {
+    "id": "Q109944027",
+    "label": "Reise durch Schottland, seine Inseln, Dänemark und einen Theil von Deutschland",
+    "publication_year": 1808,
+    "source_lat": 51.834166666,
+    "source_lon": 12.246111111,
+    "target_lat": 51.8671,
+    "target_lon": 12.6484,
+    "west_to_east": -0.40228888900000115
+  },
+  {
+    "id": "Q109944028",
+    "label": "Wanderungen durch einen Theil von Franken und Thüringen",
+    "publication_year": 1795,
+    "source_lat": 50.3406,
+    "source_lon": 11.1808,
+    "target_lat": 50.5653,
+    "target_lon": 11.3464,
+    "west_to_east": -0.16559999999999953
+  },
+  {
+    "id": "Q109944029",
+    "label": "Eine kleine Fußreise von Dresden nach Pirna. An Herrn J. Hermsdorf in Görlitz",
+    "publication_year": 1798,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 50.962222222,
+    "target_lon": 13.940277777,
+    "west_to_east": -0.2021340770000002
+  },
+  {
+    "id": "Q109944030",
+    "label": "Fußreise von Dresden nach den zwei verfallenen Bergschlössern, die Rathen, und die dortige Gegend",
+    "publication_year": 1798,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 50.9665,
+    "target_lon": 13.954,
+    "west_to_east": -0.21585630000000045
+  },
+  {
+    "id": "Q109944031",
+    "label": "Gemälde über die Ober-Lausitz. Gesammelt auf einer kleinen Fußreise",
+    "publication_year": 1798,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109944032",
+    "label": "Reisen nach und in der Oberlausitz",
+    "publication_year": 1798,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109944033",
+    "label": "Bemerkungen und Gefühle auf einer Reise durch den Harz",
+    "publication_year": 1798,
+    "source_lat": 51.383333333,
+    "source_lon": 11.6,
+    "target_lat": 51.866666666,
+    "target_lon": 10.683333333,
+    "west_to_east": 0.9166666669999994
+  },
+  {
+    "id": "Q109944034",
+    "label": "Gründliche vnd warhafftige beschreibung Der Löblichen vnd Ritterlichen Reise vnd Meerfart in das heilige Land nach Hierusalem",
+    "publication_year": 1586,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109944035",
+    "label": "Briefe eines jungen Reisenden durch Liefland, Kurland und Deutschland",
+    "publication_year": 1777,
+    "source_lat": 51.795277777,
+    "source_lon": 10.962222222,
+    "target_lat": 52.516666666,
+    "target_lon": 13.383333333,
+    "west_to_east": -2.421111111
+  },
+  {
+    "id": "Q109944036",
+    "label": "Bemerkungen auf einer Reise durch Thüringen, Franken, die Schweiz, Italien, Tyrol und Bayern im Jahre 1816",
+    "publication_year": 1818,
+    "source_lat": 51.883333333,
+    "source_lon": 12.433333333,
+    "target_lat": 50.55,
+    "target_lon": 10.416666666,
+    "west_to_east": 2.016666667000001
+  },
+  {
+    "id": "Q109944037",
+    "label": "Reise durch einen Theil von Teutschland, Helvetien und Ober-Italien im Sommer 1803",
+    "publication_year": 1804,
+    "source_lat": 51.8671,
+    "source_lon": 12.6484,
+    "target_lat": 50.87818,
+    "target_lon": 12.08242,
+    "west_to_east": 0.5659799999999997
+  },
+  {
+    "id": "Q109944038",
+    "label": "Wanderung von St. Petersburg nach Paris im Jahre 1812 durch die deutsch-russischen Provinzen, durch Preussen, Sachsen, Oestreich, Baiern, Wirtemberg und die Rheinlande",
+    "publication_year": 1814,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 50.962222222,
+    "target_lon": 13.940277777,
+    "west_to_east": -1.5655448770000007
+  },
+  {
+    "id": "Q109944039",
+    "label": "Beschreibung einer Reise durch Deutschland und die Schweiz im Jahre 1781",
+    "publication_year": 1783,
+    "source_lat": 51.8671,
+    "source_lon": 12.6484,
+    "target_lat": 50.3547,
+    "target_lon": 11.2061,
+    "west_to_east": 1.4423000000000012
+  },
+  {
+    "id": "Q109944040",
+    "label": "Tagebuch einer gelehrten Reise 1750 durch einen Theil von Ober- und Nieder-Sachsen",
+    "publication_year": 1782,
+    "source_lat": 51.8671,
+    "source_lon": 12.6484,
+    "target_lat": 51.968055555,
+    "target_lon": 12.084444444,
+    "west_to_east": 0.5639555559999998
+  },
+  {
+    "id": "Q109944041",
+    "label": "Von Dresden nach Bremen im Jahre 1806",
+    "publication_year": 1881,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 50.974722222,
+    "target_lon": 10.324444444,
+    "west_to_east": 3.413699256000001
+  },
+  {
+    "id": "Q109944042",
+    "label": "Peregrinationen",
+    "publication_year": 1798,
+    "source_lat": 52.097288,
+    "source_lon": 12.871126,
+    "target_lat": 50.974722222,
+    "target_lon": 10.324444444,
+    "west_to_east": 2.546681556000001
+  },
+  {
+    "id": "Q109944043",
+    "label": "Bemerkungen auf der Reise durch Frankreich, Italien und Deutschland",
+    "publication_year": 1789,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 52.1315889,
+    "target_lon": 11.6399609,
+    "west_to_east": 2.0981828
+  },
+  {
+    "id": "Q109944044",
+    "label": "Unterhaltende, topographische und statistische Beschreibung einer Sommerreise durch die Provinzen Magdeburg, Braunschweig, Halberstadt, Quedlinburg und Barby",
+    "publication_year": 1791,
+    "source_lat": 52.1315889,
+    "source_lon": 11.6399609,
+    "target_lat": 52.1315889,
+    "target_lon": 11.6399609,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109944045",
+    "label": "Briefe auf einer Reise durch Deutschland im Jahre 1791",
+    "publication_year": 1793,
+    "source_lat": 51.470833333,
+    "source_lon": 14.945833333,
+    "target_lat": 50.258469444,
+    "target_lon": 10.957869444,
+    "west_to_east": 3.9879638889999995
+  },
+  {
+    "id": "Q109944046",
+    "label": "Beschreibung des Morgenlandes und einiger anderer Länder",
+    "publication_year": 1754,
+    "source_lat": 50.806388888,
+    "source_lon": 11.585277777,
+    "target_lat": 50.918888888,
+    "target_lon": 14.071388888,
+    "west_to_east": -2.4861111109999996
+  },
+  {
+    "id": "Q109944047",
+    "label": "Briefe, welche das Merkwürdigste von seinen Reisen und die Eigenschaften derjenigen Personen, woraus die vornehmsten Höfe von Europa bestehen, in sich enthalten",
+    "publication_year": 1738,
+    "source_lat": 51.834166666,
+    "source_lon": 12.246111111,
+    "target_lat": 50.974722222,
+    "target_lon": 10.324444444,
+    "west_to_east": 1.9216666670000002
+  },
+  {
+    "id": "Q109944048",
+    "label": "Bemerkungen auf einer kleinen Reise auf den Petersberg im Saalkreise",
+    "publication_year": 1791,
+    "source_lat": 51.526388888,
+    "source_lon": 12.3425,
+    "target_lat": 50.984722222,
+    "target_lon": 11.834166666,
+    "west_to_east": 0.5083333339999996
+  },
+  {
+    "id": "Q109944049",
+    "label": "Delitiarum Germaniae, tam superioris quam inferioris, Index simul & viatorius, indicans Itinera ex Augusta Vindelicorum, ad omnes civitates & oppida, tam in superiori quam inferiori Germania",
+    "publication_year": 1604,
+    "source_lat": 50.718888888,
+    "source_lon": 12.496111111,
+    "target_lat": 51.152777777,
+    "target_lon": 14.987222222,
+    "west_to_east": -2.4911111110000004
+  },
+  {
+    "id": "Q109944050",
+    "label": "Streifereien im Gebiete der Kunst auf einer Reise von Leipzig nach Italien im Jahr 1813",
+    "publication_year": 1819,
+    "source_lat": 51.0491637,
+    "source_lon": 12.1349991,
+    "target_lat": 50.491666666,
+    "target_lon": 11.7,
+    "west_to_east": 0.43499910000000064
+  },
+  {
+    "id": "Q109944051",
+    "label": "Durchflug eines Humoristen durch Deutschland, die Schweitz und das südliche Franckreich",
+    "publication_year": 1811,
+    "source_lat": 51.152777777,
+    "source_lon": 14.987222222,
+    "target_lat": 50.974722222,
+    "target_lon": 10.324444444,
+    "west_to_east": 4.662777778000001
+  },
+  {
+    "id": "Q109944052",
+    "label": "Wanderungen und Kreuzzüge durch einen Theil Deutschlands",
+    "publication_year": 1795,
+    "source_lat": 50.978055555,
+    "source_lon": 11.028888888,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": -2.709254812000001
+  },
+  {
+    "id": "Q109944053",
+    "label": "Hans Kiekindiewelts Reisen in alle vier Weltteile und andere Schriften",
+    "publication_year": 1795,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109944054",
+    "label": "Kosmopolitische Wanderungen durch einen Theil Deutschlands",
+    "publication_year": 1793,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 51.8671,
+    "target_lon": 12.6484,
+    "west_to_east": -0.27366710000000083
+  },
+  {
+    "id": "Q109944055",
+    "label": "Reise durch einen Theil von Thüringen, Franken, Schwaben, an den Bodensee, 1785",
+    "publication_year": 1791,
+    "source_lat": 50.927222222,
+    "source_lon": 11.586388888,
+    "target_lat": 50.399722222,
+    "target_lon": 11.216666666,
+    "west_to_east": 0.36972222200000004
+  },
+  {
+    "id": "Q109944056",
+    "label": "Der Passagier auf der Reise in Deutschland und einigen angränzenden Ländern",
+    "publication_year": 1801,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 51.38652,
+    "target_lon": 11.86956,
+    "west_to_east": 0.5051728999999998
+  },
+  {
+    "id": "Q109944057",
+    "label": "Briefe eines aufmerksamen Reisenden die Musik betreffend",
+    "publication_year": 1774,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": -1.3634108000000005
+  },
+  {
+    "id": "Q109944058",
+    "label": "Flüchtige Bemerkungen auf einer Reise von St. Petersburg über Moskwa, Grodno, Warschau, Breslau nach Deutschland",
+    "publication_year": 1806,
+    "source_lat": 51.152777777,
+    "source_lon": 14.987222222,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": 1.2490785219999996
+  },
+  {
+    "id": "Q109944059",
+    "label": "Empfindsame Reisen. Nebst einem Anhang von Reise-Berichten, -Skizzen, -Episteln, -Satiren, -Elegien, -Jeremiaden u.s.w.",
+    "publication_year": 1836,
+    "source_lat": 51.8671,
+    "source_lon": 12.6484,
+    "target_lat": 50.974722222,
+    "target_lon": 10.324444444,
+    "west_to_east": 2.3239555560000014
+  },
+  {
+    "id": "Q109944060",
+    "label": "Reisen durch Deutschland, Frankreich, England und Holland in verschiedener, besonders politischer Hinsicht",
+    "publication_year": 1796,
+    "source_lat": 51.834166666,
+    "source_lon": 12.246111111,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": -1.4920325890000008
+  },
+  {
+    "id": "Q109944061",
+    "label": "Briefe eines reisenden Franzosen über Deutschland. An seinen Bruder zu Paris",
+    "publication_year": 1783,
+    "source_lat": 51.026944444,
+    "source_lon": 13.358888888,
+    "target_lat": 50.978055555,
+    "target_lon": 11.028888888,
+    "west_to_east": 2.33
+  },
+  {
+    "id": "Q109944062",
+    "label": "Pädagogische Reise durch Deutschland. Veranlaßt auf allerhöchsten Befehl der bayrischen Regierung im Jahr 1805",
+    "publication_year": 1808,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 50.55,
+    "target_lon": 10.416666666,
+    "west_to_east": 3.321477034000001
+  },
+  {
+    "id": "Q109944063",
+    "label": "Lust-Reisen durch Bayern, Würtemberg, Pfalz, Sachsen, Brandenburg, Oesterreich, Mähren, Böhmen und Ungarn in den Jahren 1784 bis 1791",
+    "publication_year": 1792,
+    "source_lat": 51.026944444,
+    "source_lon": 13.358888888,
+    "target_lat": 51.3406321,
+    "target_lon": 12.3747329,
+    "west_to_east": 0.9841559879999995
+  },
+  {
+    "id": "Q109944064",
+    "label": "Reise durch das Sächsische Erzgebirge",
+    "publication_year": 1805,
+    "source_lat": 50.875833333,
+    "source_lon": 12.599722222,
+    "target_lat": 50.833333333,
+    "target_lon": 12.916666666,
+    "west_to_east": -0.3169444439999989
+  },
+  {
+    "id": "Q109944065",
+    "label": "Reise mit der Armee im Jahre 1809",
+    "publication_year": 1810,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109944066",
+    "label": "Reisen der Salzmannischen Zöglinge",
+    "publication_year": 1784,
+    "source_lat": 51.85,
+    "source_lon": 12.05,
+    "target_lat": 50.8975,
+    "target_lon": 10.555833333,
+    "west_to_east": 1.494166667
+  },
+  {
+    "id": "Q109944067",
+    "label": "Reisen der Zöglinge zu Schnepfenthal",
+    "publication_year": 1799,
+    "source_lat": 50.864166666,
+    "source_lon": 10.619444444,
+    "target_lat": 50.8814,
+    "target_lon": 10.5786,
+    "west_to_east": 0.04084444400000109
+  },
+  {
+    "id": "Q109944068",
+    "label": "Beobachtungen und Fantasien auf einer Reise durch Sachsen und Brandenburg im Herbst 1802",
+    "publication_year": 1807,
+    "source_lat": 50.974722222,
+    "source_lon": 10.324444444,
+    "target_lat": 50.927222222,
+    "target_lon": 11.586388888,
+    "west_to_east": -1.261944444000001
+  },
+  {
+    "id": "Q109944069",
+    "label": "Briefe über Herrnhut und andere Orte der Oberlausitz",
+    "publication_year": 1787,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.1666667,
+    "target_lon": 14.3333333,
+    "west_to_east": -0.5951895999999994
+  },
+  {
+    "id": "Q109944070",
+    "label": "Briefe über die Niederlausitz. Von dem Verfasser der Briefe über Herrnhut und die Oberlausitz",
+    "publication_year": 1789,
+    "source_lat": 51.8671,
+    "source_lon": 12.6484,
+    "target_lat": 51.855519444,
+    "target_lon": 12.70085,
+    "west_to_east": -0.05245000000000033
+  },
+  {
+    "id": "Q109944071",
+    "label": "Über Reise-Nachbetereien und Naturauftritte. Bemerkungen auf einer Reise nach Erfurt, Gotha, Weimar, Jena, Naumburg, Weissenfels, Lauchstädt, Halle, Leipzig",
+    "publication_year": 1786,
+    "source_lat": 51.006388888,
+    "source_lon": 11.666111111,
+    "target_lat": 51.3406321,
+    "target_lon": 12.3747329,
+    "west_to_east": -0.7086217890000004
+  },
+  {
+    "id": "Q109944072",
+    "label": "Reise-Tagebuch vom Jahre 1822",
+    "publication_year": 1994,
+    "source_lat": 51.966666666,
+    "source_lon": 12.733055555,
+    "target_lat": 52.1315889,
+    "target_lon": 11.6399609,
+    "west_to_east": 1.0930946549999998
+  },
+  {
+    "id": "Q109944073",
+    "label": "Lauchstädt, ein kleines Gemählde an Herrn D. H. in Z. Ein Pendant zum dritten Bande der neuen Reisebemerkungen in und über Deutschland",
+    "publication_year": 1787,
+    "source_lat": 51.38652,
+    "source_lon": 11.86956,
+    "target_lat": 51.354444444,
+    "target_lon": 11.992777777,
+    "west_to_east": -0.1232177770000007
+  },
+  {
+    "id": "Q109944074",
+    "label": "Reise nach Carlsbad",
+    "publication_year": 1771,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 50.419166666,
+    "target_lon": 12.970833333,
+    "west_to_east": -0.5961004330000002
+  },
+  {
+    "id": "Q109944075",
+    "label": "Eine Frühlingsreise über Halle, Leipzig und Altenburg nach Dresden im Jahre 1784",
+    "publication_year": 1785,
+    "source_lat": 51.482777777,
+    "source_lon": 11.969722222,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": -1.7684214780000005
+  },
+  {
+    "id": "Q109944076",
+    "label": "Kleine Wanderungen durch Teutschland",
+    "publication_year": 1786,
+    "source_lat": 52.1315889,
+    "source_lon": 11.6399609,
+    "target_lat": 51.058611111,
+    "target_lon": 13.641111111,
+    "west_to_east": -2.0011502110000006
+  },
+  {
+    "id": "Q109944077",
+    "label": "Litterarische Reise durch Teutschland",
+    "publication_year": 1786,
+    "source_lat": 51.8671,
+    "source_lon": 12.6484,
+    "target_lat": 51.895833333,
+    "target_lon": 11.046666666,
+    "west_to_east": 1.6017333340000004
+  },
+  {
+    "id": "Q109944078",
+    "label": "Reise eines Liefländers von Riga nach Warschau, durch Südpreußen, über Breslau, Dresden, Karlsbad, Bayreuth, Nürnberg, Regensburg, München, Salzburg, Linz, Wien und Klagenfurt, nach Bozen in Tyrol",
+    "publication_year": 1795,
+    "source_lat": 51.152777777,
+    "source_lon": 14.987222222,
+    "target_lat": 50.419166666,
+    "target_lon": 12.970833333,
+    "west_to_east": 2.016388889
+  },
+  {
+    "id": "Q109944079",
+    "label": "Fritzens Reise nach Dessau",
+    "publication_year": 1776,
+    "source_lat": 52.05818,
+    "source_lon": 11.95203,
+    "target_lat": 51.841666666,
+    "target_lon": 12.420277777,
+    "west_to_east": -0.4682477770000002
+  },
+  {
+    "id": "Q109944080",
+    "label": "Beobachtungen über verschiedene Gegenstände auf einer Reise im Sommer 1783 nach Pyrmont, Braunschweig, Lauchstädt, Leipzig, Dresden, Töplitz, Berlin, Potsdam, Dessau und Bremen",
+    "publication_year": 1784,
+    "source_lat": 51.516666666,
+    "source_lon": 11.55,
+    "target_lat": 51.9667595,
+    "target_lon": 11.8838245,
+    "west_to_east": -0.33382449999999864
+  },
+  {
+    "id": "Q109944081",
+    "label": "Briefe einer Curländerinn auf einer Reise durch Deutschland",
+    "publication_year": 1791,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.1587833,
+    "target_lon": 13.882655,
+    "west_to_east": -0.14451129999999957
+  },
+  {
+    "id": "Q109944083",
+    "label": "Tagebuch einer Reise von der westphälischen Grenze bis nach Leipzig",
+    "publication_year": 1786,
+    "source_lat": 50.974722222,
+    "source_lon": 10.324444444,
+    "target_lat": 51.3406321,
+    "target_lon": 12.3747329,
+    "west_to_east": -2.0502884560000005
+  },
+  {
+    "id": "Q109944085",
+    "label": "Spaziergang nach Syrakus",
+    "publication_year": 1803,
+    "source_lat": 51.2383379,
+    "source_lon": 12.7287511,
+    "target_lat": 51.213055555,
+    "target_lon": 12.083055555,
+    "west_to_east": 0.6456955450000006
+  },
+  {
+    "id": "Q109944086",
+    "label": "Briefe eines Engländers auf seiner Reise nach Berlin, Dresden, Wien, Haag, Rom, Neapolis und Ferney",
+    "publication_year": 1779,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109944087",
+    "label": "Neue Briefe eines Engländers auf seiner Reise nach Italien, Genf, Lausanne, Strasburg, Berlin, Deutschland, Senlis und Paris",
+    "publication_year": 1780,
+    "source_lat": 51.026944444,
+    "source_lon": 13.358888888,
+    "target_lat": 51.026944444,
+    "target_lon": 13.358888888,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109944088",
+    "label": "Briefe eines reisenden Dänen. Geschrieben im Jahre 1791 und 1792 während seiner Reise durch einen Theil Deutschlands, der Schweiz und Frankreichs",
+    "publication_year": 1793,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 50.8975,
+    "target_lon": 10.555833333,
+    "west_to_east": 3.1823103669999995
+  },
+  {
+    "id": "Q109944089",
+    "label": "Meine Reise von Halle nach dem Brocken in dem Jahre 1802",
+    "publication_year": 1803,
+    "source_lat": 51.95496,
+    "source_lon": 11.25511,
+    "target_lat": 51.895833333,
+    "target_lon": 11.046666666,
+    "west_to_east": 0.20844333400000004
+  },
+  {
+    "id": "Q109944090",
+    "label": "Über Deutschland",
+    "publication_year": 1814,
+    "source_lat": 51.026944444,
+    "source_lon": 13.358888888,
+    "target_lat": 50.981111111,
+    "target_lon": 11.329444444,
+    "west_to_east": 2.0294444439999992
+  },
+  {
+    "id": "Q109944092",
+    "label": "Meine Fußreise mit elf Zöglingen durch einen Theil Schlesiens, Böhmens, Sachsens und der Mark Brandenburg im Frühjahr 1814",
+    "publication_year": 1815,
+    "source_lat": 50.896111111,
+    "source_lon": 14.807222222,
+    "target_lat": 51.357966944,
+    "target_lon": 13.975381111,
+    "west_to_east": 0.8318411109999992
+  },
+  {
+    "id": "Q109944093",
+    "label": "Reisen nach den vorzüglichsten Hauptstädten von Mittel-Europa. Eine Schilderung der Länder und Städte, ihrer Bewohner, Naturschönheiten, Sehenswürdigkeiten, u.s.w.",
+    "publication_year": 1827,
+    "source_lat": 52.097288,
+    "source_lon": 12.871126,
+    "target_lat": 50.85141,
+    "target_lon": 13.94455,
+    "west_to_east": -1.0734239999999993
+  },
+  {
+    "id": "Q109944094",
+    "label": "Bemerkungen auf einer Reise durch einige teutsche, Schweizer- und französische Provinzen in Briefen an einen Freund",
+    "publication_year": 1791,
+    "source_lat": 51.366666666,
+    "source_lon": 10.866666666,
+    "target_lat": 51.366666666,
+    "target_lon": 10.866666666,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109944095",
+    "label": "Reise in Deutschland, der Schweiz, Italien und Sicilien",
+    "publication_year": 1794,
+    "source_lat": 50.0875,
+    "source_lon": 14.421388888,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": 0.683245187999999
+  },
+  {
+    "id": "Q109944096",
+    "label": "Friedrich Karl von Savignys sächsische Studienreise 1799 und 1800",
+    "publication_year": 1889,
+    "source_lat": 50.974722222,
+    "source_lon": 10.324444444,
+    "target_lat": 51.38652,
+    "target_lon": 11.86956,
+    "west_to_east": -1.5451155560000007
+  },
+  {
+    "id": "Q109944097",
+    "label": "Einige Beobachtungen, welche ich auf einer Reise von Magdeburg nach dem Oberharz gemacht",
+    "publication_year": 1781,
+    "source_lat": 52.116666666,
+    "source_lon": 11.016666666,
+    "target_lat": 51.895833333,
+    "target_lon": 11.046666666,
+    "west_to_east": -0.02999999999999936
+  },
+  {
+    "id": "Q109944098",
+    "label": "Auszug aus dem Reisejournal Hrn. D. Carl Heinrich Titius zu Dresden, von seinen vorzüglich zu Besichtigung der Naturaliensammlungen, im Jahr 1777 angestellten Reise",
+    "publication_year": 1783,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 51.107777777,
+    "target_lon": 10.646111111,
+    "west_to_east": 1.728621789
+  },
+  {
+    "id": "Q109944099",
+    "label": "Die Harzreisen des Johann Bartholomä Trommsdorff 1798 und 1805",
+    "publication_year": 1957,
+    "source_lat": 50.978055555,
+    "source_lon": 11.028888888,
+    "target_lat": 50.948888888,
+    "target_lon": 10.718333333,
+    "west_to_east": 0.31055555499999876
+  },
+  {
+    "id": "Q109944100",
+    "label": "Merkwürdige Reisen durch Niedersachsen, Holland und Engelland",
+    "publication_year": 1753,
+    "source_lat": 51.805,
+    "source_lon": 10.335555555,
+    "target_lat": 52.1315889,
+    "target_lon": 11.6399609,
+    "west_to_east": -1.304405345000001
+  },
+  {
+    "id": "Q109944101",
+    "label": "Reisen durch Niedersachsen, Holland und Engelland",
+    "publication_year": 1765,
+    "source_lat": 51.805,
+    "source_lon": 10.335555555,
+    "target_lat": 54.116666666,
+    "target_lon": 13.7,
+    "west_to_east": -3.364444445
+  },
+  {
+    "id": "Q109944102",
+    "label": "Briefe über Polen, Österreich, Sachsen, Bayern, Italien, Etrurien, den Kirchenstaat und Neapel, an die Comtesse Constance de S.",
+    "publication_year": 1808,
+    "source_lat": 49.60854,
+    "source_lon": 11.63143,
+    "target_lat": 50.495,
+    "target_lon": 12.138333333,
+    "west_to_east": -0.5069033330000003
+  },
+  {
+    "id": "Q109944103",
+    "label": "Meine Reise in das Sächsische Erzgebirge im Monath August 1798",
+    "publication_year": 1798,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.163611111,
+    "target_lon": 13.4775,
+    "west_to_east": 0.26064370000000103
+  },
+  {
+    "id": "Q109944104",
+    "label": "Mineralogische Reise durch das Herzogthum Weimar und Eisenach und einige angränzende Gegenden",
+    "publication_year": 1782,
+    "source_lat": 50.775833333,
+    "source_lon": 11.0825,
+    "target_lat": 50.863333333,
+    "target_lon": 12.186666666,
+    "west_to_east": -1.1041666660000011
+  },
+  {
+    "id": "Q109944105",
+    "label": "Reise durch den Harz und die Hessischen Lande, besonders in Hinsicht auf Naturschönheiten, Anbau und Alterthümer",
+    "publication_year": 1797,
+    "source_lat": 51.763888888,
+    "source_lon": 10.664722222,
+    "target_lat": 51.755688888,
+    "target_lon": 10.8466,
+    "west_to_east": -0.1818777780000005
+  },
+  {
+    "id": "Q109944106",
+    "label": "Friedrich August Weber’s kleine Reisen",
+    "publication_year": 1802,
+    "source_lat": 50.399722222,
+    "source_lon": 11.216666666,
+    "target_lat": 50.927222222,
+    "target_lon": 11.586388888,
+    "west_to_east": -0.36972222200000004
+  },
+  {
+    "id": "Q109944107",
+    "label": "Wanderungen in Sachsen, Schlesien, Glatz und Böhmen",
+    "publication_year": 1796,
+    "source_lat": 51.1194,
+    "source_lon": 13.5125,
+    "target_lat": 50.6564031,
+    "target_lon": 13.345242,
+    "west_to_east": 0.16725799999999857
+  },
+  {
+    "id": "Q109944108",
+    "label": "Meine Wanderungen aus Schwaben durch die Maingegenden und Thüringen nach Sachsen im Frühjahre 1810 und Sommer 1811",
+    "publication_year": 1811,
+    "source_lat": 50.974722222,
+    "source_lon": 10.324444444,
+    "target_lat": 50.889166666,
+    "target_lon": 11.203888888,
+    "west_to_east": -0.8794444440000007
+  },
+  {
+    "id": "Q109944109",
+    "label": "Meine Reise von Hamburg über Berlin, Leipzig usw. nach Heidelberg",
+    "publication_year": 1815,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 50.948888888,
+    "target_lon": 10.718333333,
+    "west_to_east": 1.6563995669999994
+  },
+  {
+    "id": "Q109944111",
+    "label": "Briefe über eine Reise nach Sachsen",
+    "publication_year": 1785,
+    "source_lat": 50.416666666,
+    "source_lon": 12.166666666,
+    "target_lat": 50.426388888,
+    "target_lon": 10.906944444,
+    "west_to_east": 1.2597222219999988
+  },
+  {
+    "id": "Q109944112",
+    "label": "Freundschaftliche Nachrichten von einer Carlsbader Brunnenreise",
+    "publication_year": 1780,
+    "source_lat": 51.75,
+    "source_lon": 11.466666666,
+    "target_lat": 51.9667595,
+    "target_lon": 11.8838245,
+    "west_to_east": -0.4171578339999993
+  },
+  {
+    "id": "Q109944113",
+    "label": "Historische Berichte und praktische Anmerkungen auf Reisen in Deutschland, in die Niederlande, in Frankreich, England, Dännemark, Böhmen und Ungarn",
+    "publication_year": 1758,
+    "source_lat": 50.625555555,
+    "source_lon": 12.459444444,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": -1.2786992559999995
+  },
+  {
+    "id": "Q109944115",
+    "label": "Erzählungen von einer Reise durch einen großen Theil Deutschlands und der Schweiz, im Jahre 1796",
+    "publication_year": 1798,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 50.495,
+    "target_lon": 12.138333333,
+    "west_to_east": 0.23639956699999942
+  },
+  {
+    "id": "Q109944116",
+    "label": "Die Reise nach Dresden",
+    "publication_year": 1796,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 51.2774,
+    "target_lon": 12.9398,
+    "west_to_east": -0.5650671000000003
+  },
+  {
+    "id": "Q109944117",
+    "label": "Menschen und Gegenden, Bd. 1: Deutschland und die Schweiz",
+    "publication_year": 1835,
+    "source_lat": 51.8671,
+    "source_lon": 12.6484,
+    "target_lat": 50.974722222,
+    "target_lon": 10.324444444,
+    "west_to_east": 2.3239555560000014
+  },
+  {
+    "id": "Q109944118",
+    "label": "Itinerarium Germaniae Nov-Antiquae. Teutsches Reyßbuch durch Hoch- und Nider-Teutschland auch angräntzende, unnd benachbarte Königreich, Fürstenthumb und Lande",
+    "publication_year": 1632,
+    "source_lat": 52.1315889,
+    "source_lon": 11.6399609,
+    "target_lat": 51.287222222,
+    "target_lon": 13.979722222,
+    "west_to_east": -2.3397613219999993
+  },
+  {
+    "id": "Q109944119",
+    "label": "Eine Reise durch Sachsen und Thüringen im Jahre 1588. Aus dem Tagebuch Karls des Älteren von Zerotin",
+    "publication_year": 1967,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 52.1315889,
+    "target_lon": 11.6399609,
+    "west_to_east": 2.0981828
+  },
+  {
+    "id": "Q109944120",
+    "label": "Beobachtungen auf einer Harzreise nebst einem Versuche die Höhe des Brockens durch das Barometer zu bestimmen",
+    "publication_year": 1775,
+    "source_lat": 51.835,
+    "source_lon": 10.785277777,
+    "target_lat": 51.710555555,
+    "target_lon": 10.518333333,
+    "west_to_east": 0.26694444399999995
+  },
+  {
+    "id": "Q109944121",
+    "label": "Der deutsche Wanderer",
+    "publication_year": 1822,
+    "source_lat": 52.516666666,
+    "source_lon": 13.383333333,
+    "target_lat": 51.8,
+    "target_lon": 11.733333333,
+    "west_to_east": 1.6500000000000004
+  },
+  {
+    "id": "Q109944122",
+    "label": "Neue Ansicht von Dresden. Für Reisende von einem Reisenden",
+    "publication_year": 1799,
+    "source_lat": 51.405833333,
+    "source_lon": 13.191666666,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": -0.5464770340000005
+  },
+  {
+    "id": "Q109944123",
+    "label": "Auszug einer Reise durch einen Theil von Sachsen",
+    "publication_year": 1786,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 50.495,
+    "target_lon": 12.138333333,
+    "west_to_east": 1.599810367
+  },
+  {
+    "id": "Q109944124",
+    "label": "Freymüthige Bemerkungen über Hamburg, Berlin, Potsdam, Wien, Sondershausen und Gotha, etc.",
+    "publication_year": 1793,
+    "source_lat": 51.366666666,
+    "source_lon": 10.866666666,
+    "target_lat": 51.4161,
+    "target_lon": 12.6114,
+    "west_to_east": -1.7447333339999993
+  },
+  {
+    "id": "Q109944125",
+    "label": "Einige Bemerkungen auf einer kleinen Thüringischen Lustreise, im Jahr 1785",
+    "publication_year": 1787,
+    "source_lat": 50.856944444,
+    "source_lon": 11.726666666,
+    "target_lat": 50.974722222,
+    "target_lon": 10.324444444,
+    "west_to_east": 1.4022222220000007
+  },
+  {
+    "id": "Q109944126",
+    "label": "Einige Bemerkungen auf einer Reise nach Eißleben, aus einem Briefe (1783)",
+    "publication_year": 1787,
+    "source_lat": 51.866666666,
+    "source_lon": 10.683333333,
+    "target_lat": 51.755688888,
+    "target_lon": 10.8466,
+    "west_to_east": -0.16326666700000025
+  },
+  {
+    "id": "Q109944127",
+    "label": "Bemerkungen auf einer Reise von Jena nach Altenburg, Dresden, Königstein und Meißen",
+    "publication_year": 1793,
+    "source_lat": 50.927222222,
+    "source_lon": 11.586388888,
+    "target_lat": 51.163611111,
+    "target_lon": 13.4775,
+    "west_to_east": -1.891111111999999
+  },
+  {
+    "id": "Q109944128",
+    "label": "Bemerkungen auf einer Reise nach Lauchstädt, nebst einigen Nachrichten von dem dasigen Bade",
+    "publication_year": 1788,
+    "source_lat": 50.583333333,
+    "source_lon": 11.816666666,
+    "target_lat": 51.38652,
+    "target_lon": 11.86956,
+    "west_to_east": -0.05289333400000018
+  },
+  {
+    "id": "Q109944129",
+    "label": "Vermischte Beobachtungen und Anmerkungen auf einer Reise aus Deutschland nach der Schweiz und aus der Schweiz nach Deutschland",
+    "publication_year": 1778,
+    "source_lat": 51.2,
+    "source_lon": 11.966666666,
+    "target_lat": 50.552777777,
+    "target_lon": 9.6775,
+    "west_to_east": 2.289166666
+  },
+  {
+    "id": "Q109944130",
+    "label": "Bericht über eine Reise in das Erzgebirge aus dem Jahre 1557",
+    "publication_year": 2008,
+    "source_lat": 51.526388888,
+    "source_lon": 12.3425,
+    "target_lat": 50.654444444,
+    "target_lon": 13.074722222,
+    "west_to_east": -0.7322222220000008
+  },
+  {
+    "id": "Q109944131",
+    "label": "Beschreibung einer kleinen Reise in’s Dessausche 1783",
+    "publication_year": 1784,
+    "source_lat": 51.68348,
+    "source_lon": 11.87669,
+    "target_lat": 51.968055555,
+    "target_lon": 12.084444444,
+    "west_to_east": -0.20775444400000076
+  },
+  {
+    "id": "Q109944132",
+    "label": "Beschreibung einer Reise über den Harz im Jahre 1761",
+    "publication_year": 1782,
+    "source_lat": 51.906003,
+    "source_lon": 10.429163,
+    "target_lat": 51.835,
+    "target_lon": 10.785277777,
+    "west_to_east": -0.3561147769999984
+  },
+  {
+    "id": "Q109944133",
+    "label": "Beschreibung eines Versuchs, bald nach dem Herbst-Aequinoctio auf den Brocken zu reisen",
+    "publication_year": 1786,
+    "source_lat": 51.763888888,
+    "source_lon": 10.664722222,
+    "target_lat": 51.835,
+    "target_lon": 10.785277777,
+    "west_to_east": -0.12055555499999926
+  },
+  {
+    "id": "Q109944134",
+    "label": "Freundschaftliche Briefe über verschiedene Gegenstände",
+    "publication_year": 1786,
+    "source_lat": 51.895833333,
+    "source_lon": 11.046666666,
+    "target_lat": 51.3406321,
+    "target_lon": 12.3747329,
+    "west_to_east": -1.3280662339999996
+  },
+  {
+    "id": "Q109944135",
+    "label": "Briefe eines reisenden Handlungsbedienten über Leipzig, Hamburg und Lübeck",
+    "publication_year": 1788,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 52.1315889,
+    "target_lon": 11.6399609,
+    "west_to_east": 0.7347719999999995
+  },
+  {
+    "id": "Q109944136",
+    "label": "Briefe über eine Reise nach Dessau, im Jahr 1780",
+    "publication_year": 1791,
+    "source_lat": 51.834166666,
+    "source_lon": 12.246111111,
+    "target_lat": 51.834166666,
+    "target_lon": 12.246111111,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109944137",
+    "label": "Briefe auf einer Reise durch Thüringen und Hessen, geschrieben von einem wandernden Helvetier im Jahr 1800",
+    "publication_year": 1801,
+    "source_lat": 51.152095,
+    "source_lon": 11.809819,
+    "target_lat": 50.974722222,
+    "target_lon": 10.324444444,
+    "west_to_east": 1.485374556
+  },
+  {
+    "id": "Q109944138",
+    "label": "Briefe eines Reisenden an Herrn Drost von LB (1778)",
+    "publication_year": 1778,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 52.1315889,
+    "target_lon": 11.6399609,
+    "west_to_east": 0.7347719999999995
+  },
+  {
+    "id": "Q109944139",
+    "label": "Briefe eines Reisenden aus Sachsen",
+    "publication_year": 1784,
+    "source_lat": 51.033333333,
+    "source_lon": 13.6,
+    "target_lat": 50.7372,
+    "target_lon": 12.5267,
+    "west_to_east": 1.0732999999999997
+  },
+  {
+    "id": "Q109944140",
+    "label": "Eine Dichterreise vor 81 Jahren",
+    "publication_year": 1881,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": -1.3634108000000005
+  },
+  {
+    "id": "Q109944141",
+    "label": "Vier Erholungs-Wochen oder Reise durch die neupreussischen Markgrafthümer, Nieder- und Oberlausitz",
+    "publication_year": 1816,
+    "source_lat": 51.65,
+    "source_lon": 14.03333,
+    "target_lat": 51.133333333,
+    "target_lon": 13.583333333,
+    "west_to_east": 0.44999666699999885
+  },
+  {
+    "id": "Q109944142",
+    "label": "Fragment einer bergmännischen Reise nach Freiberg im Erzgebirge",
+    "publication_year": 1785,
+    "source_lat": 50.911944444,
+    "source_lon": 13.342777777,
+    "target_lat": 50.648611,
+    "target_lon": 13.366389,
+    "west_to_east": -0.023611222999999626
+  },
+  {
+    "id": "Q109944143",
+    "label": "Fragmente aus dem Journal eines Reisenden, der Thüringen und Franken im März durchwanderte",
+    "publication_year": 1786,
+    "source_lat": 50.85754,
+    "source_lon": 10.56507,
+    "target_lat": 50.55,
+    "target_lon": 10.416666666,
+    "west_to_east": 0.14840333400000105
+  },
+  {
+    "id": "Q109944144",
+    "label": "Fragmente von Reisen in Ober- und Niedersachsen von 1778 bis 1782",
+    "publication_year": 1802,
+    "source_lat": 52.1315889,
+    "source_lon": 11.6399609,
+    "target_lat": 51.516666666,
+    "target_lon": 11.55,
+    "west_to_east": 0.08996089999999946
+  },
+  {
+    "id": "Q109944147",
+    "label": "Herrn G. E. von R. Reise von Wien nach Böhmen und Sachsen, im May 1783",
+    "publication_year": 1783,
+    "source_lat": 50.87442,
+    "source_lon": 13.94641,
+    "target_lat": 51.026944444,
+    "target_lon": 13.358888888,
+    "west_to_east": 0.587521112000001
+  },
+  {
+    "id": "Q109944148",
+    "label": "Journal einer Reise nach Barby im Jahre 178–",
+    "publication_year": 1785,
+    "source_lat": 51.616666666,
+    "source_lon": 12.116666666,
+    "target_lat": 51.9667595,
+    "target_lon": 11.8838245,
+    "west_to_east": 0.23284216600000107
+  },
+  {
+    "id": "Q109944149",
+    "label": "Nachrichten eines reisenden Passagiers von den wahren Begebenheiten, die sich auf seiner Reise […] ereignet",
+    "publication_year": 1781,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109944150",
+    "label": "Nachrichten von Weimar in einem Schreiben an Herrn Professor Klein zu Mannheim",
+    "publication_year": 1786,
+    "source_lat": 50.948888888,
+    "source_lon": 10.718333333,
+    "target_lat": 50.981111111,
+    "target_lon": 11.329444444,
+    "west_to_east": -0.6111111109999996
+  },
+  {
+    "id": "Q109944151",
+    "label": "Der durch Preußen und Sachsen reisende Weltbürger",
+    "publication_year": 1783,
+    "source_lat": 51.8671,
+    "source_lon": 12.6484,
+    "target_lat": 51.784722222,
+    "target_lon": 11.3125,
+    "west_to_east": 1.3359000000000005
+  },
+  {
+    "id": "Q109944152",
+    "label": "Eine deutsche Reise anno 1708 [sog. Anonimo Veneziano]",
+    "publication_year": 1999,
+    "source_lat": 51.315777777,
+    "source_lon": 9.497916666,
+    "target_lat": 52.516666666,
+    "target_lon": 13.383333333,
+    "west_to_east": -3.8854166669999994
+  },
+  {
+    "id": "Q109944153",
+    "label": "Reise von Berlin nach Strasburg (1778)",
+    "publication_year": 1781,
+    "source_lat": 52.516666666,
+    "source_lon": 13.383333333,
+    "target_lat": 51.835,
+    "target_lon": 10.785277777,
+    "west_to_east": 2.5980555560000003
+  },
+  {
+    "id": "Q109944154",
+    "label": "Reise von Dresden nach Prag und zurück. Nebst einer Beschreibung der Stadt Prag",
+    "publication_year": 1804,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109944155",
+    "label": "Reise von Dresden nach Teplitz in Böhmen. Im Jahr 1782",
+    "publication_year": 1786,
+    "source_lat": 50.9542,
+    "source_lon": 13.8903,
+    "target_lat": 51.012777777,
+    "target_lon": 13.872777777,
+    "west_to_east": 0.01752222300000028
+  },
+  {
+    "id": "Q109944156",
+    "label": "Eine Reise von Dresden nach Warschau vor 80 Jahren",
+    "publication_year": 1887,
+    "source_lat": 51.0493286,
+    "source_lon": 13.7381437,
+    "target_lat": 51.0493286,
+    "target_lon": 13.7381437,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109944157",
+    "label": "Reise nach dem Rostrap und seinen Felsenbrüdern in der Grafschaft Regenstein oder Reinstein am Unterharz",
+    "publication_year": 1786,
+    "source_lat": 51.715833333,
+    "source_lon": 10.974166666,
+    "target_lat": 51.751111111,
+    "target_lon": 11.042777777,
+    "west_to_east": -0.06861111099999917
+  },
+  {
+    "id": "Q109944158",
+    "label": "Reise eines Jenenser Studenten nach Dresden und die Sächsische Schweiz im Jahre 1802",
+    "publication_year": 1898,
+    "source_lat": 50.927222222,
+    "source_lon": 11.586388888,
+    "target_lat": 50.927222222,
+    "target_lon": 11.586388888,
+    "west_to_east": 0.0
+  },
+  {
+    "id": "Q109944159",
+    "label": "Kleine Reise ins Thüringische, 1782",
+    "publication_year": 1783,
+    "source_lat": 51.791666666,
+    "source_lon": 11.147222222,
+    "target_lat": 51.366666666,
+    "target_lon": 10.866666666,
+    "west_to_east": 0.2805555559999995
+  },
+  {
+    "id": "Q109944160",
+    "label": "Reise eines Ungenannten durch Deutschland und die Schweitz in den Jahren 1799, 1800, 1801, Breslau/Leipzig 1802.",
+    "publication_year": 1802,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 50.583333333,
+    "target_lon": 11.816666666,
+    "west_to_east": 0.558066234
+  },
+  {
+    "id": "Q109944161",
+    "label": "Reisen und merkwürdige Nachrichten zweier Neufranken durch Deutschland, Rußland, Polen und die Oesterreichischen Staaten während des jetzigen wichtigen Krieges",
+    "publication_year": 1797,
+    "source_lat": 51.026944444,
+    "source_lon": 13.358888888,
+    "target_lat": 51.8671,
+    "target_lon": 12.6484,
+    "west_to_east": 0.7104888879999987
+  },
+  {
+    "id": "Q109944162",
+    "label": "Reisen durch einen Theil Deutschlands vorzüglich durch Sachsen, Thüringen, Franken etc.",
+    "publication_year": 1805,
+    "source_lat": 51.229722222,
+    "source_lon": 10.944166666,
+    "target_lat": 51.0125,
+    "target_lon": 13.8969,
+    "west_to_east": -2.9527333340000013
+  },
+  {
+    "id": "Q109944163",
+    "label": "Schönheiten der Natur und Kunst dargestellt auf einer Reise durch einen Theil der Sächsischen Staaten",
+    "publication_year": 1801,
+    "source_lat": 51.968055555,
+    "source_lon": 12.084444444,
+    "target_lat": 51.291944444,
+    "target_lon": 13.534166666,
+    "west_to_east": -1.4497222220000001
+  },
+  {
+    "id": "Q109944164",
+    "label": "Sendschreiben an den Herausgeber dieser Sammlung von einer über Quedlinburg und Blankenburg in die Graffschaft Mannsfeld gethanen Reise, 1781",
+    "publication_year": 1781,
+    "source_lat": 51.714333333,
+    "source_lon": 11.347305555,
+    "target_lat": 51.680277777,
+    "target_lon": 11.365555555,
+    "west_to_east": -0.0182500000000001
+  },
+  {
+    "id": "Q109944165",
+    "label": "Abgekürztes Tagebuch einer Reise von Aachen über Frankfurt am Mayn, und viele deutsche Höfe, nach Thüringen",
+    "publication_year": 1785,
+    "source_lat": 51.107777777,
+    "source_lon": 10.646111111,
+    "target_lat": 51.3406321,
+    "target_lon": 12.3747329,
+    "west_to_east": -1.728621789
+  },
+  {
+    "id": "Q109944166",
+    "label": "Aus dem Tagebuch einer Reise im Sommer 1785",
+    "publication_year": 1786,
+    "source_lat": 50.927222222,
+    "source_lon": 11.586388888,
+    "target_lat": 50.399722222,
+    "target_lon": 11.216666666,
+    "west_to_east": 0.36972222200000004
+  },
+  {
+    "id": "Q109944167",
+    "label": "Wanderbilder. Gesammelt auf einer Reise von Wien über Dresden, Leipzig, Cassel nach Hamburg",
+    "publication_year": 1826,
+    "source_lat": 48.208333333,
+    "source_lon": 16.3725,
+    "target_lat": 50.974722222,
+    "target_lon": 10.324444444,
+    "west_to_east": 6.0480555559999996
+  },
+  {
+    "id": "Q109944168",
+    "label": "Eine Wanderung die Elbe entlang",
+    "publication_year": 1788,
+    "source_lat": 51.1194,
+    "source_lon": 13.5125,
+    "target_lat": 51.560277777,
+    "target_lon": 13.005555555,
+    "west_to_east": 0.5069444449999985
+  },
+  {
+    "id": "Q109944169",
+    "label": "Wanderung durch einen großen Theil des Harzes und einem Theil der Grafschaften Hohenstein und Mansfeld, Magdeburg 1802.",
+    "publication_year": 1802,
+    "source_lat": 52.1315889,
+    "source_lon": 11.6399609,
+    "target_lat": 51.583055555,
+    "target_lon": 11.5,
+    "west_to_east": 0.13996090000000017
+  },
+  {
+    "id": "Q109944170",
+    "label": "Kleine Wanderungen durch Sachsen und Brandenburg",
+    "publication_year": 1795,
+    "source_lat": 51.283333333,
+    "source_lon": 12.95,
+    "target_lat": 51.3406321,
+    "target_lon": 12.3747329,
+    "west_to_east": 0.5752670999999996
+  },
+  {
+    "id": "Q109944171",
+    "label": "Ueber Weimar. Bruchstücke aus dem Tagebuche eines Reisenden",
+    "publication_year": 1786,
+    "source_lat": 51.3406321,
+    "source_lon": 12.3747329,
+    "target_lat": 50.981111111,
+    "target_lon": 11.329444444,
+    "west_to_east": 1.0452884559999998
+  },
+  {
+    "id": "Q109944172",
+    "label": "Anmerckungen derer Auf meiner Sächsischen Reysse gesehenen Merckwürdigkeiten Wie ich solche an unterschiedenen Orten meist nur kürtzlich aufgeschrieben",
+    "publication_year": 1741,
+    "source_lat": 50.974722222,
+    "source_lon": 10.324444444,
+    "target_lat": 52.516666666,
+    "target_lon": 13.383333333,
+    "west_to_east": -3.0588888890000003
+  },
+  {
+    "id": "Q109944173",
+    "label": "Eberhard Heinrich Daniel Stoschs Aufzeichnungen über seinen Aufenthalt in Leipzig im Mai 1740",
+    "publication_year": 2011,
+    "source_lat": 51.8671,
+    "source_lon": 12.6484,
+    "target_lat": 51.482777777,
+    "target_lon": 11.969722222,
+    "west_to_east": 0.6786777780000008
+  },
+  {
+    "id": "Q109944174",
+    "label": "Gesprächsprotokolle. Die Tagebuchaufzeichnungen des Schweizer Theologen Gabriel Hürner während seines Aufenthaltes in Leipzig im Mai 1738",
+    "publication_year": 2010,
+    "source_lat": 52.1315889,
+    "source_lon": 11.6399609,
+    "target_lat": 51.482777777,
+    "target_lon": 11.969722222,
+    "west_to_east": -0.3297613219999995
+  },
+  {
+    "id": "Q109944175",
+    "label": "'Ein Ort zu studieren, der seines gleichen nicht hat' - Leipzig um 1730 in den Tagebüchern des Königsberger Professors Christian Gabriel Fischer",
+    "publication_year": 2008,
+    "source_lat": 51.163611111,
+    "source_lon": 13.4775,
+    "target_lat": 51.3406321,
+    "target_lon": 12.3747329,
+    "west_to_east": 1.1027670999999994
+  },
+  {
+    "id": "Q109944176",
+    "label": "Kauschs Briefe an den Einsiedler Gerund auf dem Riesengebürge, über seine Landesvweisung und gethanen Reisen nach Leipzig, Jena, weimar, Erfurt, Gotha, Göttingen, Halle, Potsdam und Berlin",
+    "publication_year": 1798,
+    "source_lat": 52.55,
+    "source_lon": 13.2,
+    "target_lat": 52.516666666,
+    "target_lon": 13.383333333,
+    "west_to_east": -0.1833333330000002
+  }
+]

@@ -95,13 +95,13 @@ draw()
 @xlarge(Vorgehen)
 
 @large(```
-1. Daten holen (→ SPARQL)
+1. Daten holen (→ [SPARQL](https://query.wikidata.org/#SELECT%20%3Ftravelogue%20%3FtravelogueLabel%20%28YEAR%28%3FpubDate%29%20AS%20%3FpublicationYear%29%20%3Fsubject%20%3FsubjectLabel%20%3Fordinal%20%3Fcoords%20WHERE%20%7B%0A%20%20%20%20%3Ftravelogue%20wdt%3AP1343%20wd%3AQ105102869.%0A%20%20%20%20%3Ftravelogue%20wdt%3AP577%20%3FpubDate.%0A%20%20%20%20%3Ftravelogue%20p%3AP921%20%3Fstmt.%0A%20%20%20%20%3Fstmt%20ps%3AP921%20%3Fsubject%3B%0A%20%20%20%20%20%20%20%20%20%20prov%3AwasDerivedFrom%20%3Fref.%0A%20%20%20%20%3Fref%20pr%3AP1545%20%3Fordinal.%0A%20%20%20%20%3Fsubject%20wdt%3AP625%20%3Fcoords.%0A%20%20%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cde%22.%20%7D%0A%7D%0AORDER%20BY%20%3Ftravelogue%20xsd%3Ainteger%28%3FpublicationYear%29%20xsd%3Ainteger%28%3Fordinal%29%0A))
 2. In geeignetes Format konvertieren (→ Python)
 3. Visualisieren (→ kepler.gl)
 ```)
 
 
-## Geodatenstrukturen: Raster und Vektor
+# Geodatenstrukturen: Raster und Vektor
 
 @large(```
 - Die zwei Haupttypen geografischer Daten sind **Raster**- und **Vektordaten**.
@@ -167,76 +167,15 @@ Ein Vektorgeodatenobjekt, also der Zusammenschluss von Geometrie und Attributen,
 </div>
 
 
-
-## Vektordatenformate
-
-<div style="display: flex; align-items: start; gap: 20px;">
-<div style="flex: 1;">
-**Shapefile `.shp`**
-
-- Klassisches ESRI-Format (proprietär)
-- Besteht aus: `.shp` (Geometrie), `.shx` (Index), `.dbf` (Attribute)
-- Weit verbreitet, aber veraltet
-- Zeichenbeschränkung für Attribute
-</div>
-<div style="flex: 1;">
-@xlarge(```
-**GeoJSON `geojson`/`json`**
-
-- JSON-basiert
-- Ideal für Webkarten (z. B. Leaflet, Mapbox)
-- Unterstützt Punkte, Linien, Polygone und Sammlungen
-- nicht standardisiert
-```)
-
-</div>
-<div style="flex: 1;">
-**GeoPackage `gpkg`**
-
-- SQLite-basiert (eine Mini-Datenbank)
-- Raster- & Vektordaten gemeinsam speicherbar
-- Offener Standard (OGC)
-- Gut für GIS Anwendungen geeignet (z.B. Datenanalyse oder Kartenerstellung)
-</div>
-<div style="flex: 1;">
-**KML `.kml`/`.kmz`**
-
-- Für Google Earth, Earth Engine
-- XML-basiert
-- unterstützt Styles -> Vermischung von Daten und Datenvisualisierung
-- Gut in Google Ökosystem; nicht so gut außerhalb
-</div>
-</div>
-
-<div style="margin-top:20px;">
-</div>
-
-<!--
-data-marker="
-1 0 1 135 rgba(255,0,0,0.6); 
-"
--->
-```ascii
-+-----------+------------------+------------------+---------+------------------+---------------------------------------+
-| Format    | Offener Standard | Web-Tauglichkeit | Kompakt | GIS-Tauglichkeit | Lesbar & verständlich für Menschen    |
-+-----------+------------------+------------------+---------+------------------+---------------------------------------+
-| Shapefile |       ✘          |        ✘         |    ✘    |        ✔         | ✘ Binärformat                         |
-| GeoJSON   |       ∼          |        ✔         |    ✔    |        ∼         | ✔ Klarer Text, simple Struktur        |
-| GPKG      |       ✔          |        ✘         |    ✔    |        ✔         | ✘ Binärformat                         |
-| KML/KMZ   |       ✔          |        ✔         |    ✔    |        ∼         | ∼ XML-basiert, oft tief verschachtelt |
-+...........+..................+..................+.........+..................+.......................................+
-| Tabellen  |       ✘          |        ✘         |    ✔    |        ✘         | ✔ Sehr gut                            |
-+-----------+------------------+------------------+---------+------------------+---------------------------------------+
-```
-
-**Tabellen `csv`/`xlxs`/...**
-
-- kein eigentliches Geodatenformat, wird aber häufig verwendet
-- nur für Punktdaten mit flachen Attributen geeignet
-- sehr einfach zu verwenden
-
 ## GeoJSON
 
+GeoJSON is a format for encoding geographic data structures based on JSON (JavaScript Object Notation). It defines several types of JSON objects:
+
+- FeatureCollection — A collection of features
+- Feature — Contains a geometry and properties
+- Geometry — Points, LineStrings, Polygons, and their Multi variants
+
+Unlike other GIS formats, GeoJSON is designed to be both human-readable and machine-processable, making it ideal for web applications.
 
 <div style="display: flex; align-items: flex-start; gap: 10px;">
 

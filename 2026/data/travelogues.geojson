@@ -8,12 +8,6 @@
     {
       "type": "Feature",
       "id": "Q105102299",
-      "time": {
-        "interval": [
-          "1787-01-01",
-          "1787-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -57,18 +51,13 @@
       },
       "properties": {
         "label": "Reise von Wien über Prag, Dresden und durch einen Theil der Lausitz nach Berlin und Potsdam",
-        "publication_year": 1787
+        "publication_year": 1787,
+        "west_to_east": 0.21482469999999942
       }
     },
     {
       "type": "Feature",
       "id": "Q105102559",
-      "time": {
-        "interval": [
-          "1820-01-01",
-          "1820-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -92,18 +81,13 @@
       },
       "properties": {
         "label": "Reisen durch einige Theile von Deutschland, Polen, der Moldau und der Türkei. Ester Theil",
-        "publication_year": 1820
+        "publication_year": 1820,
+        "west_to_east": 0.26064370000000103
       }
     },
     {
       "type": "Feature",
       "id": "Q109590352",
-      "time": {
-        "interval": [
-          "1824-01-01",
-          "1824-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -143,18 +127,13 @@
       },
       "properties": {
         "label": "Briefe an deutsche Freunde von einer Reise durch Italien über Sachsen, Böhmen, und Oestreich, 1820 und 1821 geschrieben und als Skizzen zum Gemälde unserer Zeit herausgegeben.",
-        "publication_year": 1824
+        "publication_year": 1824,
+        "west_to_east": -1.7752671000000007
       }
     },
     {
       "type": "Feature",
       "id": "Q109728957",
-      "time": {
-        "interval": [
-          "1976-01-01",
-          "1976-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -482,18 +461,13 @@
       },
       "properties": {
         "label": "Reise durch Deutschland und die Schweiz 1815/1816",
-        "publication_year": 1976
+        "publication_year": 1976,
+        "west_to_east": 1.75
       }
     },
     {
       "type": "Feature",
       "id": "Q109943910",
-      "time": {
-        "interval": [
-          "1847-01-01",
-          "1847-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -665,18 +639,13 @@
       },
       "properties": {
         "label": "Reiseschatten von einem Ausfluge nach dem Harz, der Sächsischen Schweiz im Sommer 1831",
-        "publication_year": 1847
+        "publication_year": 1847,
+        "west_to_east": -2.8508333330000006
       }
     },
     {
       "type": "Feature",
       "id": "Q109943911",
-      "time": {
-        "interval": [
-          "1788-01-01",
-          "1788-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -704,18 +673,13 @@
       },
       "properties": {
         "label": "Kleine Wanderungen auch größere Reisen der weiblichen Zöglinge zu Schnepfenthal",
-        "publication_year": 1788
+        "publication_year": 1788,
+        "west_to_east": 0.054374444000000466
       }
     },
     {
       "type": "Feature",
       "id": "Q109943912",
-      "time": {
-        "interval": [
-          "1785-01-01",
-          "1785-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -835,18 +799,13 @@
       },
       "properties": {
         "label": "Beschreibung seiner Reise durch Ober- und Nieder-Sachsen und Hessen",
-        "publication_year": 1785
+        "publication_year": 1785,
+        "west_to_east": 2.002288889000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109943913",
-      "time": {
-        "interval": [
-          "1802-01-01",
-          "1802-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -870,18 +829,13 @@
       },
       "properties": {
         "label": "Reise von Dresden nach Töplitz und die umliegende Gegend",
-        "publication_year": 1802
+        "publication_year": 1802,
+        "west_to_east": -0.03138888800000039
       }
     },
     {
       "type": "Feature",
       "id": "Q109943914",
-      "time": {
-        "interval": [
-          "1806-01-01",
-          "1806-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -917,18 +871,13 @@
       },
       "properties": {
         "label": "Meine Reise durch Deutschland nebst pathognomischen Bemerkungen über meine gemachten Bekanntschaften",
-        "publication_year": 1806
+        "publication_year": 1806,
+        "west_to_east": 3.019810367
       }
     },
     {
       "type": "Feature",
       "id": "Q109943915",
-      "time": {
-        "interval": [
-          "1867-01-01",
-          "1867-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -964,18 +913,13 @@
       },
       "properties": {
         "label": "Ein Schwede reist nach Deutschland und Italien. Jugenderinnerungen eines romantischen Dichters und Kunstgelehrten aus den Jahren 1817 bis 1819.",
-        "publication_year": 1867
+        "publication_year": 1867,
+        "west_to_east": 1.4666666670000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109943916",
-      "time": {
-        "interval": [
-          "1902-01-01",
-          "1902-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1055,18 +999,13 @@
       },
       "properties": {
         "label": "Eine Fußreise nach Prag im Jahre 1814, aus den Papieren eines alten Dresdners mitgeteilt",
-        "publication_year": 1902
+        "publication_year": 1902,
+        "west_to_east": 0.0732999999999997
       }
     },
     {
       "type": "Feature",
       "id": "Q109943917",
-      "time": {
-        "interval": [
-          "1970-01-01",
-          "1970-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1198,18 +1137,13 @@
       },
       "properties": {
         "label": "Fränkische Harzreise 1785, Reisetagebuch des nachmaligen Künzelsauer Pfarrers und Dekans K. L. F. Bauer über seine Reise von Franken nach Sachsen",
-        "publication_year": 1970
+        "publication_year": 1970,
+        "west_to_east": -1.6069444439999998
       }
     },
     {
       "type": "Feature",
       "id": "Q109943918",
-      "time": {
-        "interval": [
-          "1782-01-01",
-          "1782-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1229,18 +1163,13 @@
       },
       "properties": {
         "label": "Reise von Dresden nach Teplitz in Böhmen",
-        "publication_year": 1782
+        "publication_year": 1782,
+        "west_to_east": 0.804810367
       }
     },
     {
       "type": "Feature",
       "id": "Q109943919",
-      "time": {
-        "interval": [
-          "1784-01-01",
-          "1784-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1276,18 +1205,13 @@
       },
       "properties": {
         "label": "Des Herausgebers kleine Reise in die Nieder- und Ober-Lausitz im Sommer 1782",
-        "publication_year": 1784
+        "publication_year": 1784,
+        "west_to_east": 0.4318611109999999
       }
     },
     {
       "type": "Feature",
       "id": "Q109943920",
-      "time": {
-        "interval": [
-          "1735-01-01",
-          "1735-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -2711,18 +2635,13 @@
       },
       "properties": {
         "label": "Curieuse Reise-Beschreibung des Herrn Androphili",
-        "publication_year": 1735
+        "publication_year": 1735,
+        "west_to_east": -2.8809234000000004
       }
     },
     {
       "type": "Feature",
       "id": "Q109943921",
-      "time": {
-        "interval": [
-          "1825-01-01",
-          "1825-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -2830,18 +2749,13 @@
       },
       "properties": {
         "label": "Reise durch die Königreiche Sachsen und Böhmen in den Jahren 1822 und 1823",
-        "publication_year": 1825
+        "publication_year": 1825,
+        "west_to_east": -1.7578833339999989
       }
     },
     {
       "type": "Feature",
       "id": "Q109943923",
-      "time": {
-        "interval": [
-          "1953-01-01",
-          "1953-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -2889,18 +2803,13 @@
       },
       "properties": {
         "label": "Boswells Große Reise. Deutschland und die Schweiz 1764",
-        "publication_year": 1953
+        "publication_year": 1953,
+        "west_to_east": 2.002288889000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109943924",
-      "time": {
-        "interval": [
-          "1783-01-01",
-          "1783-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3048,18 +2957,13 @@
       },
       "properties": {
         "label": "Geographische Reise durch Deutschland",
-        "publication_year": 1783
+        "publication_year": 1783,
+        "west_to_east": -1.7361111109999996
       }
     },
     {
       "type": "Feature",
       "id": "Q109943925",
-      "time": {
-        "interval": [
-          "1798-01-01",
-          "1798-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3079,18 +2983,13 @@
       },
       "properties": {
         "label": "Bemerkungen auf einer Reise in Briefen an eine Freundinn",
-        "publication_year": 1798
+        "publication_year": 1798,
+        "west_to_east": -0.2763888889999997
       }
     },
     {
       "type": "Feature",
       "id": "Q109943926",
-      "time": {
-        "interval": [
-          "1795-01-01",
-          "1795-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3122,18 +3021,13 @@
       },
       "properties": {
         "label": "Bemerkungen auf einer Reise von Kopenhagen nach Wien im Jahr 1793",
-        "publication_year": 1795
+        "publication_year": 1795,
+        "west_to_east": -0.42273333399999835
       }
     },
     {
       "type": "Feature",
       "id": "Q109943927",
-      "time": {
-        "interval": [
-          "1686-01-01",
-          "1686-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3169,18 +3063,13 @@
       },
       "properties": {
         "label": "Auf angenehmgehaltenes Gutachten und Veranlassung der Kön. Engell. Medicinischen Gesellschaft in London gethane gantz sonderbare Reise",
-        "publication_year": 1686
+        "publication_year": 1686,
+        "west_to_east": 2.0981828
       }
     },
     {
       "type": "Feature",
       "id": "Q109943928",
-      "time": {
-        "interval": [
-          "1800-01-01",
-          "1800-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3360,18 +3249,13 @@
       },
       "properties": {
         "label": "Pitoreskische Reisen durch Sachsen oder Naturschönheiten sächsischer Gegenden auf einer gesellschaftlichen Reise",
-        "publication_year": 1800
+        "publication_year": 1800,
+        "west_to_east": 0.2408666670000006
       }
     },
     {
       "type": "Feature",
       "id": "Q109943929",
-      "time": {
-        "interval": [
-          "1783-01-01",
-          "1783-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3403,18 +3287,13 @@
       },
       "properties": {
         "label": "Bemerkungen auf einer Reise von Leipzig bis London an eine Freundin",
-        "publication_year": 1783
+        "publication_year": 1783,
+        "west_to_east": 2.0502884560000005
       }
     },
     {
       "type": "Feature",
       "id": "Q109943930",
-      "time": {
-        "interval": [
-          "1786-01-01",
-          "1786-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3518,18 +3397,13 @@
       },
       "properties": {
         "label": "Kurze Beschreibung einer Harzreise des Dessauischen Erziehungsinstituts",
-        "publication_year": 1786
+        "publication_year": 1786,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109943931",
-      "time": {
-        "interval": [
-          "1772-01-01",
-          "1772-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3553,18 +3427,13 @@
       },
       "properties": {
         "label": "Tagebuch einer musikalischen Reise durch Frankreich und Italien, durch Flandern, den Niederlanden und am Rhein bis Wien, durch Böhmen, Sachsen, Brandenburg, Hamburg und Holland 1770–1772",
-        "publication_year": 1772
+        "publication_year": 1772,
+        "west_to_east": 1.5655448770000007
       }
     },
     {
       "type": "Feature",
       "id": "Q109943932",
-      "time": {
-        "interval": [
-          "1806-01-01",
-          "1806-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3628,18 +3497,13 @@
       },
       "properties": {
         "label": "Reise von Braunschweig nach Karlsbad und durch Böhmen in Briefen von Eduard und Karl",
-        "publication_year": 1806
+        "publication_year": 1806,
+        "west_to_east": -1.218356643
       }
     },
     {
       "type": "Feature",
       "id": "Q109943933",
-      "time": {
-        "interval": [
-          "1968-01-01",
-          "1968-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3703,18 +3567,13 @@
       },
       "properties": {
         "label": "Herzog von Württemberg, Tagebücher seiner Rayßen in den Jahren 1783-1791",
-        "publication_year": 1968
+        "publication_year": 1968,
+        "west_to_east": 3.019810367
       }
     },
     {
       "type": "Feature",
       "id": "Q109943934",
-      "time": {
-        "interval": [
-          "1787-01-01",
-          "1787-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3758,18 +3617,13 @@
       },
       "properties": {
         "label": "Eine Reise durch Deutschland und Rußland seinen Freunden beschrieben",
-        "publication_year": 1787
+        "publication_year": 1787,
+        "west_to_east": 1.2841666669999992
       }
     },
     {
       "type": "Feature",
       "id": "Q109943935",
-      "time": {
-        "interval": [
-          "1916-01-01",
-          "1916-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3793,18 +3647,13 @@
       },
       "properties": {
         "label": "Chodowiecki in Dresden und Leipzig. Das Reisetagebuch des Künstlers vom 27. Oktober bis 15. November 1773",
-        "publication_year": 1916
+        "publication_year": 1916,
+        "west_to_east": 1.3634108000000005
       }
     },
     {
       "type": "Feature",
       "id": "Q109943936",
-      "time": {
-        "interval": [
-          "1790-01-01",
-          "1790-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3920,18 +3769,13 @@
       },
       "properties": {
         "label": "Meine Bemerkungen auf der Reise, über mannigfaltige mir vorgekommene Gegenstände aus dem Gesichtspunkte, wie ich sie fand und darüber dachte",
-        "publication_year": 1790
+        "publication_year": 1790,
+        "west_to_east": 1.7433724329999993
       }
     },
     {
       "type": "Feature",
       "id": "Q109943937",
-      "time": {
-        "interval": [
-          "1805-01-01",
-          "1805-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4059,18 +3903,13 @@
       },
       "properties": {
         "label": "Bemerkungen auf einer vorzüglich in landwirthschaftlicher Hinsicht im Sommer 1801 angestellten Reise",
-        "publication_year": 1805
+        "publication_year": 1805,
+        "west_to_east": 1.2232942340000008
       }
     },
     {
       "type": "Feature",
       "id": "Q109943938",
-      "time": {
-        "interval": [
-          "1819-01-01",
-          "1819-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4166,18 +4005,13 @@
       },
       "properties": {
         "label": "Spaziergang von Leipzig nach dem Harze und den umliegenden Gegenden. Vorzüglich in botanischer und mineralogischer Hinsicht",
-        "publication_year": 1819
+        "publication_year": 1819,
+        "west_to_east": 0.4427777769999999
       }
     },
     {
       "type": "Feature",
       "id": "Q109943939",
-      "time": {
-        "interval": [
-          "1831-01-01",
-          "1831-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4237,18 +4071,13 @@
       },
       "properties": {
         "label": "Skizzen einer Reise von Wien über Prag, Teplitz, Dresden, Berlin, Leipzig, Weimar, Frankfurt am Main, Darmstadt, Heidelberg, Mannheim, Karlsruhe, Stuttgart, München, Salzburg, Linz, und von dort nach Wien zurück",
-        "publication_year": 1831
+        "publication_year": 1831,
+        "west_to_east": 3.6446155560000015
       }
     },
     {
       "type": "Feature",
       "id": "Q109943940",
-      "time": {
-        "interval": [
-          "1799-01-01",
-          "1799-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4304,18 +4133,13 @@
       },
       "properties": {
         "label": "Beschreibung einer Wasserreise von Außig nach Dresden",
-        "publication_year": 1799
+        "publication_year": 1799,
+        "west_to_east": 0.4118563000000002
       }
     },
     {
       "type": "Feature",
       "id": "Q109943941",
-      "time": {
-        "interval": [
-          "1791-01-01",
-          "1791-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4439,18 +4263,13 @@
       },
       "properties": {
         "label": "Bemerkungen auf einer Reise durch die churbrandenburgischen und sächsischen Lande bis an die fränkischen Grenzen",
-        "publication_year": 1791
+        "publication_year": 1791,
+        "west_to_east": -0.5639555559999998
       }
     },
     {
       "type": "Feature",
       "id": "Q109943942",
-      "time": {
-        "interval": [
-          "1816-01-01",
-          "1816-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4546,18 +4365,13 @@
       },
       "properties": {
         "label": "Auszüge aus der Brieftasche eines Rheinländers, seinen Durchflug durch Sachsen betreffend",
-        "publication_year": 1816
+        "publication_year": 1816,
+        "west_to_east": -1.5965036999999995
       }
     },
     {
       "type": "Feature",
       "id": "Q109943943",
-      "time": {
-        "interval": [
-          "1797-01-01",
-          "1797-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4693,18 +4507,13 @@
       },
       "properties": {
         "label": "Mahlerische Reise von Dresden nach Pirna usw. Von einem Bedienten",
-        "publication_year": 1797
+        "publication_year": 1797,
+        "west_to_east": -0.17028888900000005
       }
     },
     {
       "type": "Feature",
       "id": "Q109943944",
-      "time": {
-        "interval": [
-          "1724-01-01",
-          "1724-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4728,18 +4537,13 @@
       },
       "properties": {
         "label": "Auli Apronii vermehrte Reisebeschreibung von Franco Porto der Chur-Brandenburg",
-        "publication_year": 1724
+        "publication_year": 1724,
+        "west_to_east": -0.7883440119999996
       }
     },
     {
       "type": "Feature",
       "id": "Q109943945",
-      "time": {
-        "interval": [
-          "1793-01-01",
-          "1793-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4775,18 +4579,13 @@
       },
       "properties": {
         "label": "Reise von Leipzig nach Halle im Augustmonat 1786, aus dem ungedruckten Tagebuch eines reisenden Deutschen",
-        "publication_year": 1793
+        "publication_year": 1793,
+        "west_to_east": -0.22723289999999885
       }
     },
     {
       "type": "Feature",
       "id": "Q109943946",
-      "time": {
-        "interval": [
-          "1810-01-01",
-          "1810-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4802,18 +4601,13 @@
       },
       "properties": {
         "label": "Reise durch Franken Baiern, Oesterreich, Preußen und Sachsen",
-        "publication_year": 1810
+        "publication_year": 1810,
+        "west_to_east": 1.3634108000000005
       }
     },
     {
       "type": "Feature",
       "id": "Q109943947",
-      "time": {
-        "interval": [
-          "1784-01-01",
-          "1784-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4841,18 +4635,13 @@
       },
       "properties": {
         "label": "Erinnerungen über einige Briefe eines vorgeblichen Franzosen, der sehr sonderbar von Sachsen aus bis über die Eider hinüber gereiset seyn will",
-        "publication_year": 1784
+        "publication_year": 1784,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109943948",
-      "time": {
-        "interval": [
-          "1803-01-01",
-          "1803-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4968,18 +4757,13 @@
       },
       "properties": {
         "label": "Oeconomische und statistische Reisen durch Chursachsen und dessen angränzende Länder",
-        "publication_year": 1803
+        "publication_year": 1803,
+        "west_to_east": -0.9466666670000006
       }
     },
     {
       "type": "Feature",
       "id": "Q109943949",
-      "time": {
-        "interval": [
-          "1794-01-01",
-          "1794-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -5055,18 +4839,13 @@
       },
       "properties": {
         "label": "Mahlerische Wanderungen durch Sachsen",
-        "publication_year": 1794
+        "publication_year": 1794,
+        "west_to_east": 0.06443333400000029
       }
     },
     {
       "type": "Feature",
       "id": "Q109943950",
-      "time": {
-        "interval": [
-          "1609-01-01",
-          "1609-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -5102,18 +4881,13 @@
       },
       "properties": {
         "label": "Deliciarum Germaniae, Tam Superioris Quam Inferioris",
-        "publication_year": 1609
+        "publication_year": 1609,
+        "west_to_east": -2.4911111110000004
       }
     },
     {
       "type": "Feature",
       "id": "Q109943951",
-      "time": {
-        "interval": [
-          "1962-01-01",
-          "1962-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -5205,18 +4979,13 @@
       },
       "properties": {
         "label": "Tagebuch meiner Osterabreise aus Sachsen nach Pohlen, u. Preußen",
-        "publication_year": 1962
+        "publication_year": 1962,
+        "west_to_east": -2.612489322
       }
     },
     {
       "type": "Feature",
       "id": "Q109943952",
-      "time": {
-        "interval": [
-          "1807-01-01",
-          "1807-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -5252,18 +5021,13 @@
       },
       "properties": {
         "label": "Meine neueste Reise zu Wasser und Land oder ein Bruchstück aus der Geschichte meines Lebens",
-        "publication_year": 1807
+        "publication_year": 1807,
+        "west_to_east": -0.7317333340000012
       }
     },
     {
       "type": "Feature",
       "id": "Q109943953",
-      "time": {
-        "interval": [
-          "1809-01-01",
-          "1809-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -6999,18 +6763,13 @@
       },
       "properties": {
         "label": "Neues Handbuch für Reisende jeder Gattung durch Deutschland und die angränzenden Länder",
-        "publication_year": 1809
+        "publication_year": 1809,
+        "west_to_east": -0.6820914560000002
       }
     },
     {
       "type": "Feature",
       "id": "Q109943955",
-      "time": {
-        "interval": [
-          "1808-01-01",
-          "1808-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7086,18 +6845,13 @@
       },
       "properties": {
         "label": "Fischers Reise von Leipzig nach Heidelberg im Herbst 1805",
-        "publication_year": 1808
+        "publication_year": 1808,
+        "west_to_east": 2.0502884560000005
       }
     },
     {
       "type": "Feature",
       "id": "Q109943957",
-      "time": {
-        "interval": [
-          "1804-01-01",
-          "1804-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7221,18 +6975,13 @@
       },
       "properties": {
         "label": "Wegweiser in die vorzüglichsten Gegenden der Oberlausitz, in Hinsicht der Naturschönheiten und Alterthümer",
-        "publication_year": 1804
+        "publication_year": 1804,
+        "west_to_east": -0.49666670000000046
       }
     },
     {
       "type": "Feature",
       "id": "Q109943959",
-      "time": {
-        "interval": [
-          "1785-01-01",
-          "1785-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7256,18 +7005,13 @@
       },
       "properties": {
         "label": "Ueber Lauchstädt. Aus dem Tagebuch eines Reisenden 1784",
-        "publication_year": 1785
+        "publication_year": 1785,
+        "west_to_east": -0.1001622219999998
       }
     },
     {
       "type": "Feature",
       "id": "Q109943961",
-      "time": {
-        "interval": [
-          "1843-01-01",
-          "1843-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7299,18 +7043,13 @@
       },
       "properties": {
         "label": "Sämmtliche Schriften, hrsg. von dessen Tochter Therese Forster und begleitet mit einer Charakteristik Forster’s von Georg Gottfried Gervinus",
-        "publication_year": 1843
+        "publication_year": 1843,
+        "west_to_east": -1.0966666660000008
       }
     },
     {
       "type": "Feature",
       "id": "Q109943963",
-      "time": {
-        "interval": [
-          "1899-01-01",
-          "1899-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7330,18 +7069,13 @@
       },
       "properties": {
         "label": "Ein Reisebericht aus Sachsen und Bayern vom Jahre 1807",
-        "publication_year": 1899
+        "publication_year": 1899,
+        "west_to_east": 2.33
       }
     },
     {
       "type": "Feature",
       "id": "Q109943966",
-      "time": {
-        "interval": [
-          "1606-01-01",
-          "1606-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7417,18 +7151,13 @@
       },
       "properties": {
         "label": "Summarische Verzeichnus einer Reyß, so der … Herr Friderich Hertzog zu Würtemberg und Teck … [et]c. im Jahr Christi 1580 gethon",
-        "publication_year": 1606
+        "publication_year": 1606,
+        "west_to_east": -1.0618563000000005
       }
     },
     {
       "type": "Feature",
       "id": "Q109943968",
-      "time": {
-        "interval": [
-          "1816-01-01",
-          "1816-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7468,18 +7197,13 @@
       },
       "properties": {
         "label": "Reise durch Teutschland, Holland und Frankreich, die Schweiz und Italien in den Jahren 1797, 1803 und 1804",
-        "publication_year": 1816
+        "publication_year": 1816,
+        "west_to_east": 1.718927987999999
       }
     },
     {
       "type": "Feature",
       "id": "Q109943970",
-      "time": {
-        "interval": [
-          "1739-01-01",
-          "1739-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7519,18 +7243,13 @@
       },
       "properties": {
         "label": "Eines berühmten Cavaliers aus Schlesien, Curieuse Reisen durch Europa, in welcher allerhand Merckwürdigkeiten zu finden",
-        "publication_year": 1739
+        "publication_year": 1739,
+        "west_to_east": -3.4008333339999997
       }
     },
     {
       "type": "Feature",
       "id": "Q109943971",
-      "time": {
-        "interval": [
-          "1805-01-01",
-          "1805-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7602,18 +7321,13 @@
       },
       "properties": {
         "label": "Reise durch einen Theil des Harzes, des hannövrischen, hessischen, der Rhein- und Maingegenden in Briefen an einige Freunde in technischer und physischer hinsicht beschrieben",
-        "publication_year": 1805
+        "publication_year": 1805,
+        "west_to_east": 0.3874999999999993
       }
     },
     {
       "type": "Feature",
       "id": "Q109943972",
-      "time": {
-        "interval": [
-          "1787-01-01",
-          "1787-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7801,18 +7515,13 @@
       },
       "properties": {
         "label": "Reisen durch Ober- und Niedersachsen",
-        "publication_year": 1787
+        "publication_year": 1787,
+        "west_to_east": -0.8224999999999998
       }
     },
     {
       "type": "Feature",
       "id": "Q109943973",
-      "time": {
-        "interval": [
-          "1816-01-01",
-          "1816-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7864,18 +7573,13 @@
       },
       "properties": {
         "label": "Reise nach dem Brocken, der Baumannshöhle, der Bielshöhle und der Roßtrappe",
-        "publication_year": 1816
+        "publication_year": 1816,
+        "west_to_east": -0.1818777780000005
       }
     },
     {
       "type": "Feature",
       "id": "Q109943974",
-      "time": {
-        "interval": [
-          "1899-01-01",
-          "1899-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7919,18 +7623,13 @@
       },
       "properties": {
         "label": "Reise durch Sachsen im Jahre 1813. Briefe Goethes an Christiane",
-        "publication_year": 1899
+        "publication_year": 1899,
+        "west_to_east": -1.928324700000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109943975",
-      "time": {
-        "interval": [
-          "1784-01-01",
-          "1784-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7958,18 +7657,13 @@
       },
       "properties": {
         "label": "Eine kleine Reisebeschreibung zum Vergnügen der Jugend",
-        "publication_year": 1784
+        "publication_year": 1784,
+        "west_to_east": -0.20662756699999996
       }
     },
     {
       "type": "Feature",
       "id": "Q109943976",
-      "time": {
-        "interval": [
-          "1785-01-01",
-          "1785-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -8361,18 +8055,13 @@
       },
       "properties": {
         "label": "Die Harzgegend oder eine kleine Reise von drey Tagen zum Unterricht und Vergnügen der Jugend",
-        "publication_year": 1785
+        "publication_year": 1785,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109943977",
-      "time": {
-        "interval": [
-          "1754-01-01",
-          "1754-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -8412,18 +8101,13 @@
       },
       "properties": {
         "label": "Mit nützlichen Nachrichten und Anmerkungen erläuterte Beschreibung seiner, im Jahr 1751 in das Käyser Carls-Bad gethanen Reise",
-        "publication_year": 1754
+        "publication_year": 1754,
+        "west_to_east": -0.0233444450000011
       }
     },
     {
       "type": "Feature",
       "id": "Q109943978",
-      "time": {
-        "interval": [
-          "1799-01-01",
-          "1799-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -8563,18 +8247,13 @@
       },
       "properties": {
         "label": "Meine Reise im deutschen Vaterlande, aus Thüringen ins Riesengebürge zu den Elbquellen und durch Böhmen ins Erzgebürge",
-        "publication_year": 1799
+        "publication_year": 1799,
+        "west_to_east": -1.323077777
       }
     },
     {
       "type": "Feature",
       "id": "Q109943979",
-      "time": {
-        "interval": [
-          "1901-01-01",
-          "1901-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -8610,18 +8289,13 @@
       },
       "properties": {
         "label": "Des Augsburger Patriciers Philipp Hainhofer Reisen nach Innsbruck und Dresden 1629",
-        "publication_year": 1901
+        "publication_year": 1901,
+        "west_to_east": -1.5714770340000008
       }
     },
     {
       "type": "Feature",
       "id": "Q109943980",
-      "time": {
-        "interval": [
-          "1834-01-01",
-          "1834-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -8725,18 +8399,13 @@
       },
       "properties": {
         "label": "Philipp Hainhofers Reise-Tagebuch, enthaltend Schilderungen aus Franken, Sachsen, der Mark Brandenburg und Pommern im Jahr 1617",
-        "publication_year": 1834
+        "publication_year": 1834,
+        "west_to_east": -0.5931523339999991
       }
     },
     {
       "type": "Feature",
       "id": "Q109943981",
-      "time": {
-        "interval": [
-          "1813-01-01",
-          "1813-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -8880,18 +8549,13 @@
       },
       "properties": {
         "label": "Reise durch einen Theil von Sachsen und Dänemark in den letztverflossenen Jahren",
-        "publication_year": 1813
+        "publication_year": 1813,
+        "west_to_east": 0.2672222219999991
       }
     },
     {
       "type": "Feature",
       "id": "Q109943982",
-      "time": {
-        "interval": [
-          "1788-01-01",
-          "1788-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -8927,18 +8591,13 @@
       },
       "properties": {
         "label": "Beobachtungen und Anmerkungen auf Reisen durch Deutschland",
-        "publication_year": 1788
+        "publication_year": 1788,
+        "west_to_east": 0.9216275669999998
       }
     },
     {
       "type": "Feature",
       "id": "Q109943983",
-      "time": {
-        "interval": [
-          "1804-01-01",
-          "1804-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -9186,18 +8845,13 @@
       },
       "properties": {
         "label": "Reise von Thüringen durch Sachsen, die sächsische Schweiz und die Oberlausitz, über den Oybin und Meffersdorf in das schlesische Riesengebirge",
-        "publication_year": 1804
+        "publication_year": 1804,
+        "west_to_east": -3.3044444120000005
       }
     },
     {
       "type": "Feature",
       "id": "Q109943984",
-      "time": {
-        "interval": [
-          "2013-01-01",
-          "2013-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -9421,18 +9075,13 @@
       },
       "properties": {
         "label": "Wittenberg 1519: Was ein Reisender von der Stadt wahrgenommen hat, und was nicht",
-        "publication_year": 2013
+        "publication_year": 2013,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109943986",
-      "time": {
-        "interval": [
-          "1796-01-01",
-          "1796-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -9504,18 +9153,13 @@
       },
       "properties": {
         "label": "Durchflüge durch Deutschland, die Niederlande und Frankreich",
-        "publication_year": 1796
+        "publication_year": 1796,
+        "west_to_east": 0.24805555600000062
       }
     },
     {
       "type": "Feature",
       "id": "Q109943987",
-      "time": {
-        "interval": [
-          "1793-01-01",
-          "1793-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -9611,18 +9255,13 @@
       },
       "properties": {
         "label": "Carls vaterländische Reisen. In Briefen an Eduard",
-        "publication_year": 1793
+        "publication_year": 1793,
+        "west_to_east": -1.4350000000000005
       }
     },
     {
       "type": "Feature",
       "id": "Q109943988",
-      "time": {
-        "interval": [
-          "1808-01-01",
-          "1808-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -9654,18 +9293,13 @@
       },
       "properties": {
         "label": "Gedichte und Selbstbiographie, Teil 2: Reise durch einen Theil von Sachsen, Böhmen, Oesterreich und Ungarn",
-        "publication_year": 1808
+        "publication_year": 1808,
+        "west_to_east": -2.8375000000000004
       }
     },
     {
       "type": "Feature",
       "id": "Q109943989",
-      "time": {
-        "interval": [
-          "1983-01-01",
-          "1983-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -9821,18 +9455,13 @@
       },
       "properties": {
         "label": "Bergbaukundliches Tagebuch des Schweizer Mineralogen Hanns Caspar Hirzel über eine Reise durch das Sächsische Erzgebirge",
-        "publication_year": 1983
+        "publication_year": 1983,
+        "west_to_east": 0.03444444400000002
       }
     },
     {
       "type": "Feature",
       "id": "Q109943990",
-      "time": {
-        "interval": [
-          "1782-01-01",
-          "1782-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -9888,18 +9517,13 @@
       },
       "properties": {
         "label": "Bemerkungen über verschiedene Gegenstände auf einer Reise durch einige deutsche Provinzen",
-        "publication_year": 1782
+        "publication_year": 1782,
+        "west_to_east": 0.24388888899999905
       }
     },
     {
       "type": "Feature",
       "id": "Q109943991",
-      "time": {
-        "interval": [
-          "1831-01-01",
-          "1831-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -9923,18 +9547,13 @@
       },
       "properties": {
         "label": "Reise durch Deutschland Ungarn, Holland, Italien, Frankreich, Großbritanien und Irland",
-        "publication_year": 1831
+        "publication_year": 1831,
+        "west_to_east": -1.5821670999999995
       }
     },
     {
       "type": "Feature",
       "id": "Q109943992",
-      "time": {
-        "interval": [
-          "1790-01-01",
-          "1790-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -10014,18 +9633,13 @@
       },
       "properties": {
         "label": "Bemerkungen auf einer Reise von Thorn durch Posen nach Sachsen",
-        "publication_year": 1790
+        "publication_year": 1790,
+        "west_to_east": -0.47000000000000064
       }
     },
     {
       "type": "Feature",
       "id": "Q109943993",
-      "time": {
-        "interval": [
-          "1820-01-01",
-          "1820-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -10181,18 +9795,13 @@
       },
       "properties": {
         "label": "Reise durch Holstein, Hannover, Sachsen, Brandenburg, Mecklenburg und Lauenburg im Jahre 1817",
-        "publication_year": 1820
+        "publication_year": 1820,
+        "west_to_east": -1.9836777780000006
       }
     },
     {
       "type": "Feature",
       "id": "Q109943994",
-      "time": {
-        "interval": [
-          "1799-01-01",
-          "1799-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -10220,18 +9829,13 @@
       },
       "properties": {
         "label": "Briefe eines reisenden Russen",
-        "publication_year": 1799
+        "publication_year": 1799,
+        "west_to_east": 2.709254812000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109943995",
-      "time": {
-        "interval": [
-          "1740-01-01",
-          "1740-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -10287,18 +9891,13 @@
       },
       "properties": {
         "label": "Neueste Reisen durch Deutschland, Böhmen, Ungarn, die Schweitz, Italien und Lothringen",
-        "publication_year": 1740
+        "publication_year": 1740,
+        "west_to_east": 3.019810367
       }
     },
     {
       "type": "Feature",
       "id": "Q109943996",
-      "time": {
-        "interval": [
-          "1780-01-01",
-          "1780-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -10362,18 +9961,13 @@
       },
       "properties": {
         "label": "Emanuel Hartensteins, eines perigrinirenden Weltbürgers, Reise von Berlin über Rostock nach Dreßden",
-        "publication_year": 1780
+        "publication_year": 1780,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109943997",
-      "time": {
-        "interval": [
-          "1792-01-01",
-          "1792-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -10389,18 +9983,13 @@
       },
       "properties": {
         "label": "Fantasien auf einer Reise nach Prag",
-        "publication_year": 1792
+        "publication_year": 1792,
+        "west_to_east": -1.425267100000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109943998",
-      "time": {
-        "interval": [
-          "1830-01-01",
-          "1830-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -10500,18 +10089,13 @@
       },
       "properties": {
         "label": "Geognostische Bemerkungen auf einer Reise durch Sachsen und Böhmen: ein Schreiben an Herrn Geheimrath von Leonhard",
-        "publication_year": 1830
+        "publication_year": 1830,
+        "west_to_east": -1.51971
       }
     },
     {
       "type": "Feature",
       "id": "Q109943999",
-      "time": {
-        "interval": [
-          "1783-01-01",
-          "1783-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -10567,18 +10151,13 @@
       },
       "properties": {
         "label": "Bemerkungen auf einer Reise durch die Lausitz und Sachsen",
-        "publication_year": 1783
+        "publication_year": 1783,
+        "west_to_east": -0.3188888890000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109944000",
-      "time": {
-        "interval": [
-          "1786-01-01",
-          "1786-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -10730,18 +10309,13 @@
       },
       "properties": {
         "label": "Briefe über Sachsen von einem Reisenden",
-        "publication_year": 1786
+        "publication_year": 1786,
+        "west_to_east": 0.6444444449999995
       }
     },
     {
       "type": "Feature",
       "id": "Q109944001",
-      "time": {
-        "interval": [
-          "1852-01-01",
-          "1852-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -10773,18 +10347,13 @@
       },
       "properties": {
         "label": "Reisen in Deutschland. Reisen im südöstlichen Deutschland",
-        "publication_year": 1852
+        "publication_year": 1852,
+        "west_to_east": 0.42055555499999997
       }
     },
     {
       "type": "Feature",
       "id": "Q109944002",
-      "time": {
-        "interval": [
-          "1793-01-01",
-          "1793-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -11504,18 +11073,13 @@
       },
       "properties": {
         "label": "Karl Wertheims Reise durch Kursachsen",
-        "publication_year": 1793
+        "publication_year": 1793,
+        "west_to_east": 3.242865923
       }
     },
     {
       "type": "Feature",
       "id": "Q109944003",
-      "time": {
-        "interval": [
-          "1899-01-01",
-          "1899-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -11687,18 +11251,13 @@
       },
       "properties": {
         "label": "Meine Wanderungen durch Sachsen 1809",
-        "publication_year": 1899
+        "publication_year": 1899,
+        "west_to_east": 0.39536592299999995
       }
     },
     {
       "type": "Feature",
       "id": "Q109944004",
-      "time": {
-        "interval": [
-          "1801-01-01",
-          "1801-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -11822,18 +11381,13 @@
       },
       "properties": {
         "label": "Meine Freuden in Sachsen",
-        "publication_year": 1801
+        "publication_year": 1801,
+        "west_to_east": 0.03296710000000047
       }
     },
     {
       "type": "Feature",
       "id": "Q109944005",
-      "time": {
-        "interval": [
-          "1797-01-01",
-          "1797-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -11861,18 +11415,13 @@
       },
       "properties": {
         "label": "Brief eines Süddeutschen auf einer Reise durch Obersachsen",
-        "publication_year": 1797
+        "publication_year": 1797,
+        "west_to_east": 0.1001622219999998
       }
     },
     {
       "type": "Feature",
       "id": "Q109944006",
-      "time": {
-        "interval": [
-          "1783-01-01",
-          "1783-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -11884,18 +11433,13 @@
       },
       "properties": {
         "label": "Die vornehmsten europäischen Reisen, wie solche auf eine nützliche und bequeme Weise anzustellen sind",
-        "publication_year": 1783
+        "publication_year": 1783,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109944007",
-      "time": {
-        "interval": [
-          "1990-01-01",
-          "1990-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -11907,18 +11451,13 @@
       },
       "properties": {
         "label": "Reise nach Leipzig 1803",
-        "publication_year": 1990
+        "publication_year": 1990,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109944008",
-      "time": {
-        "interval": [
-          "1801-01-01",
-          "1801-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -12106,18 +11645,13 @@
       },
       "properties": {
         "label": "Reise durch Deutschland, Dänemark, Schweden, Norwegen und einen Theil von Italien, in den Jahren 1797, 1798, 1799",
-        "publication_year": 1801
+        "publication_year": 1801,
+        "west_to_east": -2.612489322
       }
     },
     {
       "type": "Feature",
       "id": "Q109944009",
-      "time": {
-        "interval": [
-          "1796-01-01",
-          "1796-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -12137,18 +11671,13 @@
       },
       "properties": {
         "label": "Wanderungen durch die Niederlande, Deutschland, die Schweiz und Italien 1793 und 1794",
-        "publication_year": 1796
+        "publication_year": 1796,
+        "west_to_east": 1.3634108000000005
       }
     },
     {
       "type": "Feature",
       "id": "Q109944010",
-      "time": {
-        "interval": [
-          "1817-01-01",
-          "1817-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -12180,18 +11709,13 @@
       },
       "properties": {
         "label": "Merkwürdige Reise über Erlangen, Dreßden, Kassel und Fulda nach Hammelburg",
-        "publication_year": 1817
+        "publication_year": 1817,
+        "west_to_east": 3.6036992560000005
       }
     },
     {
       "type": "Feature",
       "id": "Q109944011",
-      "time": {
-        "interval": [
-          "1897-01-01",
-          "1897-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -12315,18 +11839,13 @@
       },
       "properties": {
         "label": "Eine Reise durch Sachsen im Jahre 1802",
-        "publication_year": 1897
+        "publication_year": 1897,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109944012",
-      "time": {
-        "interval": [
-          "1800-01-01",
-          "1800-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -12442,18 +11961,13 @@
       },
       "properties": {
         "label": "Reise von Offenbach nach Weimar und Schönebeck im Jahr 1799",
-        "publication_year": 1800
+        "publication_year": 1800,
+        "west_to_east": -1.102777778
       }
     },
     {
       "type": "Feature",
       "id": "Q109944013",
-      "time": {
-        "interval": [
-          "1706-01-01",
-          "1706-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -12529,18 +12043,13 @@
       },
       "properties": {
         "label": "Die vornehmsten europäischen Reisen, wie solche durch Deutschland, Franckreich, Italien, Holl-und England, Dännemarck und Schweden anzustellen",
-        "publication_year": 1706
+        "publication_year": 1706,
+        "west_to_east": 0.16379211100000113
       }
     },
     {
       "type": "Feature",
       "id": "Q109944014",
-      "time": {
-        "interval": [
-          "1785-01-01",
-          "1785-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -12728,18 +12237,13 @@
       },
       "properties": {
         "label": "Reise durch Sachsen, in Rücksicht der Naturgeschichte und Oekonomie",
-        "publication_year": 1785
+        "publication_year": 1785,
+        "west_to_east": -0.9018222219999998
       }
     },
     {
       "type": "Feature",
       "id": "Q109944015",
-      "time": {
-        "interval": [
-          "1791-01-01",
-          "1791-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -12931,18 +12435,13 @@
       },
       "properties": {
         "label": "Beobachtungen über Natur und Menschen, besonders über mineralogische Gegenstände an verschiedenen Orten in Sachsen und andern Gegenden",
-        "publication_year": 1791
+        "publication_year": 1791,
+        "west_to_east": -1.8201640000000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109944016",
-      "time": {
-        "interval": [
-          "1690-01-01",
-          "1690-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -13018,18 +12517,13 @@
       },
       "properties": {
         "label": "Denckwürdige Reisebeschreibung durch Deutschland, Italien, Spanien, Portugall, Engeland, Franckreich und Schweitz",
-        "publication_year": 1690
+        "publication_year": 1690,
+        "west_to_east": -3.413699256000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109944017",
-      "time": {
-        "interval": [
-          "1805-01-01",
-          "1805-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -13277,18 +12771,13 @@
       },
       "properties": {
         "label": "Fußreise durch Sachsen und dessen romantische Schweizergegenden, einen Theil der Anhaltschen, Brandenburg und Braunschweigschen Lande nach Hannover",
-        "publication_year": 1805
+        "publication_year": 1805,
+        "west_to_east": -0.05860043300000051
       }
     },
     {
       "type": "Feature",
       "id": "Q109944018",
-      "time": {
-        "interval": [
-          "1781-01-01",
-          "1781-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -13372,18 +12861,13 @@
       },
       "properties": {
         "label": "Journal einer Lustreise in die Oberlausitz; im November 1777",
-        "publication_year": 1781
+        "publication_year": 1781,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109944019",
-      "time": {
-        "interval": [
-          "1781-01-01",
-          "1781-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -13415,18 +12899,13 @@
       },
       "properties": {
         "label": "Reise durch Ost-Deutschland im Jahr 1762",
-        "publication_year": 1781
+        "publication_year": 1781,
+        "west_to_east": -0.37069999999999936
       }
     },
     {
       "type": "Feature",
       "id": "Q109944020",
-      "time": {
-        "interval": [
-          "1805-01-01",
-          "1805-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -13582,18 +13061,13 @@
       },
       "properties": {
         "label": "Reise durch Kursachsen in die Oberlausitz nach den evangelischen Brüdergemeinorten Barby, Gnadau, Herrnhut, Niesky und Kleinwelka",
-        "publication_year": 1805
+        "publication_year": 1805,
+        "west_to_east": -2.510775500000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109944021",
-      "time": {
-        "interval": [
-          "1808-01-01",
-          "1808-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -13857,18 +13331,13 @@
       },
       "properties": {
         "label": "Bemerkungen auf meiner Reise von Wittenberg aus durch einen Theil des Wittenbergischen Kreises, die Nieder- und Oberlausitz und einen Theil des Meißnischen Kreises",
-        "publication_year": 1808
+        "publication_year": 1808,
+        "west_to_east": 0.06312222300000059
       }
     },
     {
       "type": "Feature",
       "id": "Q109944022",
-      "time": {
-        "interval": [
-          "1808-01-01",
-          "1808-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -13992,18 +13461,13 @@
       },
       "properties": {
         "label": "Bemerkungen auf einer Reise von Wittenberg nach Dresden, Pirna u.s.w. im Sommer 1807",
-        "publication_year": 1808
+        "publication_year": 1808,
+        "west_to_east": -0.24113882199999992
       }
     },
     {
       "type": "Feature",
       "id": "Q109944023",
-      "time": {
-        "interval": [
-          "1810-01-01",
-          "1810-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -14527,18 +13991,13 @@
       },
       "properties": {
         "label": "Meine Fußreisen im Jahre 1809 zur Zeit des österreichischen Krieges",
-        "publication_year": 1810
+        "publication_year": 1810,
+        "west_to_east": 0.06312222300000059
       }
     },
     {
       "type": "Feature",
       "id": "Q109944024",
-      "time": {
-        "interval": [
-          "1815-01-01",
-          "1815-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -14730,18 +14189,13 @@
       },
       "properties": {
         "label": "Wanderungen über die verödeten Gefilde Sachsens und der Oberlausitz",
-        "publication_year": 1815
+        "publication_year": 1815,
+        "west_to_east": 0.22555522200000055
       }
     },
     {
       "type": "Feature",
       "id": "Q109944025",
-      "time": {
-        "interval": [
-          "1819-01-01",
-          "1819-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -14925,18 +14379,13 @@
       },
       "properties": {
         "label": "Beobachtungen bey meinem Aufenthalt in der Oberlausitz und auf einer Reise über Dresden nach Wittenberg im Jahre 1818",
-        "publication_year": 1819
+        "publication_year": 1819,
+        "west_to_east": -0.17999999999999972
       }
     },
     {
       "type": "Feature",
       "id": "Q109944027",
-      "time": {
-        "interval": [
-          "1808-01-01",
-          "1808-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -15012,18 +14461,13 @@
       },
       "properties": {
         "label": "Reise durch Schottland, seine Inseln, Dänemark und einen Theil von Deutschland",
-        "publication_year": 1808
+        "publication_year": 1808,
+        "west_to_east": -0.40228888900000115
       }
     },
     {
       "type": "Feature",
       "id": "Q109944028",
-      "time": {
-        "interval": [
-          "1795-01-01",
-          "1795-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -15079,18 +14523,13 @@
       },
       "properties": {
         "label": "Wanderungen durch einen Theil von Franken und Thüringen",
-        "publication_year": 1795
+        "publication_year": 1795,
+        "west_to_east": -0.16559999999999953
       }
     },
     {
       "type": "Feature",
       "id": "Q109944029",
-      "time": {
-        "interval": [
-          "1798-01-01",
-          "1798-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -15166,18 +14605,13 @@
       },
       "properties": {
         "label": "Eine kleine Fußreise von Dresden nach Pirna. An Herrn J. Hermsdorf in Görlitz",
-        "publication_year": 1798
+        "publication_year": 1798,
+        "west_to_east": -0.2021340770000002
       }
     },
     {
       "type": "Feature",
       "id": "Q109944030",
-      "time": {
-        "interval": [
-          "1798-01-01",
-          "1798-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -15245,18 +14679,13 @@
       },
       "properties": {
         "label": "Fußreise von Dresden nach den zwei verfallenen Bergschlössern, die Rathen, und die dortige Gegend",
-        "publication_year": 1798
+        "publication_year": 1798,
+        "west_to_east": -0.21585630000000045
       }
     },
     {
       "type": "Feature",
       "id": "Q109944031",
-      "time": {
-        "interval": [
-          "1798-01-01",
-          "1798-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -15484,18 +14913,13 @@
       },
       "properties": {
         "label": "Gemälde über die Ober-Lausitz. Gesammelt auf einer kleinen Fußreise",
-        "publication_year": 1798
+        "publication_year": 1798,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109944032",
-      "time": {
-        "interval": [
-          "1798-01-01",
-          "1798-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -15731,18 +15155,13 @@
       },
       "properties": {
         "label": "Reisen nach und in der Oberlausitz",
-        "publication_year": 1798
+        "publication_year": 1798,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109944033",
-      "time": {
-        "interval": [
-          "1798-01-01",
-          "1798-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -15902,18 +15321,13 @@
       },
       "properties": {
         "label": "Bemerkungen und Gefühle auf einer Reise durch den Harz",
-        "publication_year": 1798
+        "publication_year": 1798,
+        "west_to_east": 0.9166666669999994
       }
     },
     {
       "type": "Feature",
       "id": "Q109944034",
-      "time": {
-        "interval": [
-          "1586-01-01",
-          "1586-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -15981,18 +15395,13 @@
       },
       "properties": {
         "label": "Gründliche vnd warhafftige beschreibung Der Löblichen vnd Ritterlichen Reise vnd Meerfart in das heilige Land nach Hierusalem",
-        "publication_year": 1586
+        "publication_year": 1586,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109944035",
-      "time": {
-        "interval": [
-          "1777-01-01",
-          "1777-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -16156,18 +15565,13 @@
       },
       "properties": {
         "label": "Briefe eines jungen Reisenden durch Liefland, Kurland und Deutschland",
-        "publication_year": 1777
+        "publication_year": 1777,
+        "west_to_east": -2.421111111
       }
     },
     {
       "type": "Feature",
       "id": "Q109944036",
-      "time": {
-        "interval": [
-          "1818-01-01",
-          "1818-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -16255,18 +15659,13 @@
       },
       "properties": {
         "label": "Bemerkungen auf einer Reise durch Thüringen, Franken, die Schweiz, Italien, Tyrol und Bayern im Jahre 1816",
-        "publication_year": 1818
+        "publication_year": 1818,
+        "west_to_east": 2.016666667000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109944037",
-      "time": {
-        "interval": [
-          "1804-01-01",
-          "1804-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -16294,18 +15693,13 @@
       },
       "properties": {
         "label": "Reise durch einen Theil von Teutschland, Helvetien und Ober-Italien im Sommer 1803",
-        "publication_year": 1804
+        "publication_year": 1804,
+        "west_to_east": 0.5659799999999997
       }
     },
     {
       "type": "Feature",
       "id": "Q109944038",
-      "time": {
-        "interval": [
-          "1814-01-01",
-          "1814-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -16381,18 +15775,13 @@
       },
       "properties": {
         "label": "Wanderung von St. Petersburg nach Paris im Jahre 1812 durch die deutsch-russischen Provinzen, durch Preussen, Sachsen, Oestreich, Baiern, Wirtemberg und die Rheinlande",
-        "publication_year": 1814
+        "publication_year": 1814,
+        "west_to_east": -1.5655448770000007
       }
     },
     {
       "type": "Feature",
       "id": "Q109944039",
-      "time": {
-        "interval": [
-          "1783-01-01",
-          "1783-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -16456,18 +15845,13 @@
       },
       "properties": {
         "label": "Beschreibung einer Reise durch Deutschland und die Schweiz im Jahre 1781",
-        "publication_year": 1783
+        "publication_year": 1783,
+        "west_to_east": 1.4423000000000012
       }
     },
     {
       "type": "Feature",
       "id": "Q109944040",
-      "time": {
-        "interval": [
-          "1782-01-01",
-          "1782-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -16539,18 +15923,13 @@
       },
       "properties": {
         "label": "Tagebuch einer gelehrten Reise 1750 durch einen Theil von Ober- und Nieder-Sachsen",
-        "publication_year": 1782
+        "publication_year": 1782,
+        "west_to_east": 0.5639555559999998
       }
     },
     {
       "type": "Feature",
       "id": "Q109944041",
-      "time": {
-        "interval": [
-          "1881-01-01",
-          "1881-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -16618,18 +15997,13 @@
       },
       "properties": {
         "label": "Von Dresden nach Bremen im Jahre 1806",
-        "publication_year": 1881
+        "publication_year": 1881,
+        "west_to_east": 3.413699256000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109944042",
-      "time": {
-        "interval": [
-          "1798-01-01",
-          "1798-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -16773,18 +16147,13 @@
       },
       "properties": {
         "label": "Peregrinationen",
-        "publication_year": 1798
+        "publication_year": 1798,
+        "west_to_east": 2.546681556000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109944043",
-      "time": {
-        "interval": [
-          "1789-01-01",
-          "1789-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -16800,18 +16169,13 @@
       },
       "properties": {
         "label": "Bemerkungen auf der Reise durch Frankreich, Italien und Deutschland",
-        "publication_year": 1789
+        "publication_year": 1789,
+        "west_to_east": 2.0981828
       }
     },
     {
       "type": "Feature",
       "id": "Q109944044",
-      "time": {
-        "interval": [
-          "1791-01-01",
-          "1791-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -17075,18 +16439,13 @@
       },
       "properties": {
         "label": "Unterhaltende, topographische und statistische Beschreibung einer Sommerreise durch die Provinzen Magdeburg, Braunschweig, Halberstadt, Quedlinburg und Barby",
-        "publication_year": 1791
+        "publication_year": 1791,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109944045",
-      "time": {
-        "interval": [
-          "1793-01-01",
-          "1793-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -17270,18 +16629,13 @@
       },
       "properties": {
         "label": "Briefe auf einer Reise durch Deutschland im Jahre 1791",
-        "publication_year": 1793
+        "publication_year": 1793,
+        "west_to_east": 3.9879638889999995
       }
     },
     {
       "type": "Feature",
       "id": "Q109944046",
-      "time": {
-        "interval": [
-          "1754-01-01",
-          "1754-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -17369,18 +16723,13 @@
       },
       "properties": {
         "label": "Beschreibung des Morgenlandes und einiger anderer Länder",
-        "publication_year": 1754
+        "publication_year": 1754,
+        "west_to_east": -2.4861111109999996
       }
     },
     {
       "type": "Feature",
       "id": "Q109944047",
-      "time": {
-        "interval": [
-          "1738-01-01",
-          "1738-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -17444,18 +16793,13 @@
       },
       "properties": {
         "label": "Briefe, welche das Merkwürdigste von seinen Reisen und die Eigenschaften derjenigen Personen, woraus die vornehmsten Höfe von Europa bestehen, in sich enthalten",
-        "publication_year": 1738
+        "publication_year": 1738,
+        "west_to_east": 1.9216666670000002
       }
     },
     {
       "type": "Feature",
       "id": "Q109944048",
-      "time": {
-        "interval": [
-          "1791-01-01",
-          "1791-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -17483,18 +16827,13 @@
       },
       "properties": {
         "label": "Bemerkungen auf einer kleinen Reise auf den Petersberg im Saalkreise",
-        "publication_year": 1791
+        "publication_year": 1791,
+        "west_to_east": 0.5083333339999996
       }
     },
     {
       "type": "Feature",
       "id": "Q109944049",
-      "time": {
-        "interval": [
-          "1604-01-01",
-          "1604-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -17530,18 +16869,13 @@
       },
       "properties": {
         "label": "Delitiarum Germaniae, tam superioris quam inferioris, Index simul & viatorius, indicans Itinera ex Augusta Vindelicorum, ad omnes civitates & oppida, tam in superiori quam inferiori Germania",
-        "publication_year": 1604
+        "publication_year": 1604,
+        "west_to_east": -2.4911111110000004
       }
     },
     {
       "type": "Feature",
       "id": "Q109944050",
-      "time": {
-        "interval": [
-          "1819-01-01",
-          "1819-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -17581,18 +16915,13 @@
       },
       "properties": {
         "label": "Streifereien im Gebiete der Kunst auf einer Reise von Leipzig nach Italien im Jahr 1813",
-        "publication_year": 1819
+        "publication_year": 1819,
+        "west_to_east": 0.43499910000000064
       }
     },
     {
       "type": "Feature",
       "id": "Q109944051",
-      "time": {
-        "interval": [
-          "1811-01-01",
-          "1811-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -17660,18 +16989,13 @@
       },
       "properties": {
         "label": "Durchflug eines Humoristen durch Deutschland, die Schweitz und das südliche Franckreich",
-        "publication_year": 1811
+        "publication_year": 1811,
+        "west_to_east": 4.662777778000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109944052",
-      "time": {
-        "interval": [
-          "1795-01-01",
-          "1795-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -17779,18 +17103,13 @@
       },
       "properties": {
         "label": "Wanderungen und Kreuzzüge durch einen Theil Deutschlands",
-        "publication_year": 1795
+        "publication_year": 1795,
+        "west_to_east": -2.709254812000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109944053",
-      "time": {
-        "interval": [
-          "1795-01-01",
-          "1795-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -17894,18 +17213,13 @@
       },
       "properties": {
         "label": "Hans Kiekindiewelts Reisen in alle vier Weltteile und andere Schriften",
-        "publication_year": 1795
+        "publication_year": 1795,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109944054",
-      "time": {
-        "interval": [
-          "1793-01-01",
-          "1793-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -17925,18 +17239,13 @@
       },
       "properties": {
         "label": "Kosmopolitische Wanderungen durch einen Theil Deutschlands",
-        "publication_year": 1793
+        "publication_year": 1793,
+        "west_to_east": -0.27366710000000083
       }
     },
     {
       "type": "Feature",
       "id": "Q109944055",
-      "time": {
-        "interval": [
-          "1791-01-01",
-          "1791-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -17968,18 +17277,13 @@
       },
       "properties": {
         "label": "Reise durch einen Theil von Thüringen, Franken, Schwaben, an den Bodensee, 1785",
-        "publication_year": 1791
+        "publication_year": 1791,
+        "west_to_east": 0.36972222200000004
       }
     },
     {
       "type": "Feature",
       "id": "Q109944056",
-      "time": {
-        "interval": [
-          "1801-01-01",
-          "1801-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -18035,18 +17339,13 @@
       },
       "properties": {
         "label": "Der Passagier auf der Reise in Deutschland und einigen angränzenden Ländern",
-        "publication_year": 1801
+        "publication_year": 1801,
+        "west_to_east": 0.5051728999999998
       }
     },
     {
       "type": "Feature",
       "id": "Q109944057",
-      "time": {
-        "interval": [
-          "1774-01-01",
-          "1774-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -18062,18 +17361,13 @@
       },
       "properties": {
         "label": "Briefe eines aufmerksamen Reisenden die Musik betreffend",
-        "publication_year": 1774
+        "publication_year": 1774,
+        "west_to_east": -1.3634108000000005
       }
     },
     {
       "type": "Feature",
       "id": "Q109944058",
-      "time": {
-        "interval": [
-          "1806-01-01",
-          "1806-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -18093,18 +17387,13 @@
       },
       "properties": {
         "label": "Flüchtige Bemerkungen auf einer Reise von St. Petersburg über Moskwa, Grodno, Warschau, Breslau nach Deutschland",
-        "publication_year": 1806
+        "publication_year": 1806,
+        "west_to_east": 1.2490785219999996
       }
     },
     {
       "type": "Feature",
       "id": "Q109944059",
-      "time": {
-        "interval": [
-          "1836-01-01",
-          "1836-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -18140,18 +17429,13 @@
       },
       "properties": {
         "label": "Empfindsame Reisen. Nebst einem Anhang von Reise-Berichten, -Skizzen, -Episteln, -Satiren, -Elegien, -Jeremiaden u.s.w.",
-        "publication_year": 1836
+        "publication_year": 1836,
+        "west_to_east": 2.3239555560000014
       }
     },
     {
       "type": "Feature",
       "id": "Q109944060",
-      "time": {
-        "interval": [
-          "1796-01-01",
-          "1796-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -18191,18 +17475,13 @@
       },
       "properties": {
         "label": "Reisen durch Deutschland, Frankreich, England und Holland in verschiedener, besonders politischer Hinsicht",
-        "publication_year": 1796
+        "publication_year": 1796,
+        "west_to_east": -1.4920325890000008
       }
     },
     {
       "type": "Feature",
       "id": "Q109944061",
-      "time": {
-        "interval": [
-          "1783-01-01",
-          "1783-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -18250,18 +17529,13 @@
       },
       "properties": {
         "label": "Briefe eines reisenden Franzosen über Deutschland. An seinen Bruder zu Paris",
-        "publication_year": 1783
+        "publication_year": 1783,
+        "west_to_east": 2.33
       }
     },
     {
       "type": "Feature",
       "id": "Q109944062",
-      "time": {
-        "interval": [
-          "1808-01-01",
-          "1808-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -18345,18 +17619,13 @@
       },
       "properties": {
         "label": "Pädagogische Reise durch Deutschland. Veranlaßt auf allerhöchsten Befehl der bayrischen Regierung im Jahr 1805",
-        "publication_year": 1808
+        "publication_year": 1808,
+        "west_to_east": 3.321477034000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109944063",
-      "time": {
-        "interval": [
-          "1792-01-01",
-          "1792-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -18404,18 +17673,13 @@
       },
       "properties": {
         "label": "Lust-Reisen durch Bayern, Würtemberg, Pfalz, Sachsen, Brandenburg, Oesterreich, Mähren, Böhmen und Ungarn in den Jahren 1784 bis 1791",
-        "publication_year": 1792
+        "publication_year": 1792,
+        "west_to_east": 0.9841559879999995
       }
     },
     {
       "type": "Feature",
       "id": "Q109944064",
-      "time": {
-        "interval": [
-          "1805-01-01",
-          "1805-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -18527,18 +17791,13 @@
       },
       "properties": {
         "label": "Reise durch das Sächsische Erzgebirge",
-        "publication_year": 1805
+        "publication_year": 1805,
+        "west_to_east": -0.3169444439999989
       }
     },
     {
       "type": "Feature",
       "id": "Q109944065",
-      "time": {
-        "interval": [
-          "1810-01-01",
-          "1810-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -18610,18 +17869,13 @@
       },
       "properties": {
         "label": "Reise mit der Armee im Jahre 1809",
-        "publication_year": 1810
+        "publication_year": 1810,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109944066",
-      "time": {
-        "interval": [
-          "1784-01-01",
-          "1784-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -18813,18 +18067,13 @@
       },
       "properties": {
         "label": "Reisen der Salzmannischen Zöglinge",
-        "publication_year": 1784
+        "publication_year": 1784,
+        "west_to_east": 1.494166667
       }
     },
     {
       "type": "Feature",
       "id": "Q109944067",
-      "time": {
-        "interval": [
-          "1799-01-01",
-          "1799-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -18944,18 +18193,13 @@
       },
       "properties": {
         "label": "Reisen der Zöglinge zu Schnepfenthal",
-        "publication_year": 1799
+        "publication_year": 1799,
+        "west_to_east": 0.04084444400000109
       }
     },
     {
       "type": "Feature",
       "id": "Q109944068",
-      "time": {
-        "interval": [
-          "1807-01-01",
-          "1807-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -19167,18 +18411,13 @@
       },
       "properties": {
         "label": "Beobachtungen und Fantasien auf einer Reise durch Sachsen und Brandenburg im Herbst 1802",
-        "publication_year": 1807
+        "publication_year": 1807,
+        "west_to_east": -1.261944444000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109944069",
-      "time": {
-        "interval": [
-          "1787-01-01",
-          "1787-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -19358,18 +18597,13 @@
       },
       "properties": {
         "label": "Briefe über Herrnhut und andere Orte der Oberlausitz",
-        "publication_year": 1787
+        "publication_year": 1787,
+        "west_to_east": -0.5951895999999994
       }
     },
     {
       "type": "Feature",
       "id": "Q109944070",
-      "time": {
-        "interval": [
-          "1789-01-01",
-          "1789-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -19389,18 +18623,13 @@
       },
       "properties": {
         "label": "Briefe über die Niederlausitz. Von dem Verfasser der Briefe über Herrnhut und die Oberlausitz",
-        "publication_year": 1789
+        "publication_year": 1789,
+        "west_to_east": -0.05245000000000033
       }
     },
     {
       "type": "Feature",
       "id": "Q109944071",
-      "time": {
-        "interval": [
-          "1786-01-01",
-          "1786-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -19520,18 +18749,13 @@
       },
       "properties": {
         "label": "Über Reise-Nachbetereien und Naturauftritte. Bemerkungen auf einer Reise nach Erfurt, Gotha, Weimar, Jena, Naumburg, Weissenfels, Lauchstädt, Halle, Leipzig",
-        "publication_year": 1786
+        "publication_year": 1786,
+        "west_to_east": -0.7086217890000004
       }
     },
     {
       "type": "Feature",
       "id": "Q109944072",
-      "time": {
-        "interval": [
-          "1994-01-01",
-          "1994-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -19647,18 +18871,13 @@
       },
       "properties": {
         "label": "Reise-Tagebuch vom Jahre 1822",
-        "publication_year": 1994
+        "publication_year": 1994,
+        "west_to_east": 1.0930946549999998
       }
     },
     {
       "type": "Feature",
       "id": "Q109944073",
-      "time": {
-        "interval": [
-          "1787-01-01",
-          "1787-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -19682,18 +18901,13 @@
       },
       "properties": {
         "label": "Lauchstädt, ein kleines Gemählde an Herrn D. H. in Z. Ein Pendant zum dritten Bande der neuen Reisebemerkungen in und über Deutschland",
-        "publication_year": 1787
+        "publication_year": 1787,
+        "west_to_east": -0.1232177770000007
       }
     },
     {
       "type": "Feature",
       "id": "Q109944074",
-      "time": {
-        "interval": [
-          "1771-01-01",
-          "1771-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -19729,18 +18943,13 @@
       },
       "properties": {
         "label": "Reise nach Carlsbad",
-        "publication_year": 1771
+        "publication_year": 1771,
+        "west_to_east": -0.5961004330000002
       }
     },
     {
       "type": "Feature",
       "id": "Q109944075",
-      "time": {
-        "interval": [
-          "1785-01-01",
-          "1785-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -19772,18 +18981,13 @@
       },
       "properties": {
         "label": "Eine Frühlingsreise über Halle, Leipzig und Altenburg nach Dresden im Jahre 1784",
-        "publication_year": 1785
+        "publication_year": 1785,
+        "west_to_east": -1.7684214780000005
       }
     },
     {
       "type": "Feature",
       "id": "Q109944076",
-      "time": {
-        "interval": [
-          "1786-01-01",
-          "1786-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -19847,18 +19051,13 @@
       },
       "properties": {
         "label": "Kleine Wanderungen durch Teutschland",
-        "publication_year": 1786
+        "publication_year": 1786,
+        "west_to_east": -2.0011502110000006
       }
     },
     {
       "type": "Feature",
       "id": "Q109944077",
-      "time": {
-        "interval": [
-          "1786-01-01",
-          "1786-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -19906,18 +19105,13 @@
       },
       "properties": {
         "label": "Litterarische Reise durch Teutschland",
-        "publication_year": 1786
+        "publication_year": 1786,
+        "west_to_east": 1.6017333340000004
       }
     },
     {
       "type": "Feature",
       "id": "Q109944078",
-      "time": {
-        "interval": [
-          "1795-01-01",
-          "1795-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -20017,18 +19211,13 @@
       },
       "properties": {
         "label": "Reise eines Liefländers von Riga nach Warschau, durch Südpreußen, über Breslau, Dresden, Karlsbad, Bayreuth, Nürnberg, Regensburg, München, Salzburg, Linz, Wien und Klagenfurt, nach Bozen in Tyrol",
-        "publication_year": 1795
+        "publication_year": 1795,
+        "west_to_east": 2.016388889
       }
     },
     {
       "type": "Feature",
       "id": "Q109944079",
-      "time": {
-        "interval": [
-          "1776-01-01",
-          "1776-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -20056,18 +19245,13 @@
       },
       "properties": {
         "label": "Fritzens Reise nach Dessau",
-        "publication_year": 1776
+        "publication_year": 1776,
+        "west_to_east": -0.4682477770000002
       }
     },
     {
       "type": "Feature",
       "id": "Q109944080",
-      "time": {
-        "interval": [
-          "1784-01-01",
-          "1784-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -20135,18 +19319,13 @@
       },
       "properties": {
         "label": "Beobachtungen über verschiedene Gegenstände auf einer Reise im Sommer 1783 nach Pyrmont, Braunschweig, Lauchstädt, Leipzig, Dresden, Töplitz, Berlin, Potsdam, Dessau und Bremen",
-        "publication_year": 1784
+        "publication_year": 1784,
+        "west_to_east": -0.33382449999999864
       }
     },
     {
       "type": "Feature",
       "id": "Q109944081",
-      "time": {
-        "interval": [
-          "1791-01-01",
-          "1791-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -20238,18 +19417,13 @@
       },
       "properties": {
         "label": "Briefe einer Curländerinn auf einer Reise durch Deutschland",
-        "publication_year": 1791
+        "publication_year": 1791,
+        "west_to_east": -0.14451129999999957
       }
     },
     {
       "type": "Feature",
       "id": "Q109944083",
-      "time": {
-        "interval": [
-          "1786-01-01",
-          "1786-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -20309,18 +19483,13 @@
       },
       "properties": {
         "label": "Tagebuch einer Reise von der westphälischen Grenze bis nach Leipzig",
-        "publication_year": 1786
+        "publication_year": 1786,
+        "west_to_east": -2.0502884560000005
       }
     },
     {
       "type": "Feature",
       "id": "Q109944085",
-      "time": {
-        "interval": [
-          "1803-01-01",
-          "1803-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -20376,18 +19545,13 @@
       },
       "properties": {
         "label": "Spaziergang nach Syrakus",
-        "publication_year": 1803
+        "publication_year": 1803,
+        "west_to_east": 0.6456955450000006
       }
     },
     {
       "type": "Feature",
       "id": "Q109944086",
-      "time": {
-        "interval": [
-          "1779-01-01",
-          "1779-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -20399,18 +19563,13 @@
       },
       "properties": {
         "label": "Briefe eines Engländers auf seiner Reise nach Berlin, Dresden, Wien, Haag, Rom, Neapolis und Ferney",
-        "publication_year": 1779
+        "publication_year": 1779,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109944087",
-      "time": {
-        "interval": [
-          "1780-01-01",
-          "1780-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -20422,18 +19581,13 @@
       },
       "properties": {
         "label": "Neue Briefe eines Engländers auf seiner Reise nach Italien, Genf, Lausanne, Strasburg, Berlin, Deutschland, Senlis und Paris",
-        "publication_year": 1780
+        "publication_year": 1780,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109944088",
-      "time": {
-        "interval": [
-          "1793-01-01",
-          "1793-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -20501,18 +19655,13 @@
       },
       "properties": {
         "label": "Briefe eines reisenden Dänen. Geschrieben im Jahre 1791 und 1792 während seiner Reise durch einen Theil Deutschlands, der Schweiz und Frankreichs",
-        "publication_year": 1793
+        "publication_year": 1793,
+        "west_to_east": 3.1823103669999995
       }
     },
     {
       "type": "Feature",
       "id": "Q109944089",
-      "time": {
-        "interval": [
-          "1803-01-01",
-          "1803-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -20616,18 +19765,13 @@
       },
       "properties": {
         "label": "Meine Reise von Halle nach dem Brocken in dem Jahre 1802",
-        "publication_year": 1803
+        "publication_year": 1803,
+        "west_to_east": 0.20844333400000004
       }
     },
     {
       "type": "Feature",
       "id": "Q109944090",
-      "time": {
-        "interval": [
-          "1814-01-01",
-          "1814-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -20643,18 +19787,13 @@
       },
       "properties": {
         "label": "Über Deutschland",
-        "publication_year": 1814
+        "publication_year": 1814,
+        "west_to_east": 2.0294444439999992
       }
     },
     {
       "type": "Feature",
       "id": "Q109944092",
-      "time": {
-        "interval": [
-          "1815-01-01",
-          "1815-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -20726,18 +19865,13 @@
       },
       "properties": {
         "label": "Meine Fußreise mit elf Zöglingen durch einen Theil Schlesiens, Böhmens, Sachsens und der Mark Brandenburg im Frühjahr 1814",
-        "publication_year": 1815
+        "publication_year": 1815,
+        "west_to_east": 0.8318411109999992
       }
     },
     {
       "type": "Feature",
       "id": "Q109944093",
-      "time": {
-        "interval": [
-          "1827-01-01",
-          "1827-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -20989,18 +20123,13 @@
       },
       "properties": {
         "label": "Reisen nach den vorzüglichsten Hauptstädten von Mittel-Europa. Eine Schilderung der Länder und Städte, ihrer Bewohner, Naturschönheiten, Sehenswürdigkeiten, u.s.w.",
-        "publication_year": 1827
+        "publication_year": 1827,
+        "west_to_east": -1.0734239999999993
       }
     },
     {
       "type": "Feature",
       "id": "Q109944094",
-      "time": {
-        "interval": [
-          "1791-01-01",
-          "1791-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -21044,18 +20173,13 @@
       },
       "properties": {
         "label": "Bemerkungen auf einer Reise durch einige teutsche, Schweizer- und französische Provinzen in Briefen an einen Freund",
-        "publication_year": 1791
+        "publication_year": 1791,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109944095",
-      "time": {
-        "interval": [
-          "1794-01-01",
-          "1794-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -21071,18 +20195,13 @@
       },
       "properties": {
         "label": "Reise in Deutschland, der Schweiz, Italien und Sicilien",
-        "publication_year": 1794
+        "publication_year": 1794,
+        "west_to_east": 0.683245187999999
       }
     },
     {
       "type": "Feature",
       "id": "Q109944096",
-      "time": {
-        "interval": [
-          "1889-01-01",
-          "1889-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -21190,18 +20309,13 @@
       },
       "properties": {
         "label": "Friedrich Karl von Savignys sächsische Studienreise 1799 und 1800",
-        "publication_year": 1889
+        "publication_year": 1889,
+        "west_to_east": -1.5451155560000007
       }
     },
     {
       "type": "Feature",
       "id": "Q109944097",
-      "time": {
-        "interval": [
-          "1781-01-01",
-          "1781-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -21229,18 +20343,13 @@
       },
       "properties": {
         "label": "Einige Beobachtungen, welche ich auf einer Reise von Magdeburg nach dem Oberharz gemacht",
-        "publication_year": 1781
+        "publication_year": 1781,
+        "west_to_east": -0.02999999999999936
       }
     },
     {
       "type": "Feature",
       "id": "Q109944098",
-      "time": {
-        "interval": [
-          "1783-01-01",
-          "1783-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -21260,18 +20369,13 @@
       },
       "properties": {
         "label": "Auszug aus dem Reisejournal Hrn. D. Carl Heinrich Titius zu Dresden, von seinen vorzüglich zu Besichtigung der Naturaliensammlungen, im Jahr 1777 angestellten Reise",
-        "publication_year": 1783
+        "publication_year": 1783,
+        "west_to_east": 1.728621789
       }
     },
     {
       "type": "Feature",
       "id": "Q109944099",
-      "time": {
-        "interval": [
-          "1957-01-01",
-          "1957-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -21495,18 +20599,13 @@
       },
       "properties": {
         "label": "Die Harzreisen des Johann Bartholomä Trommsdorff 1798 und 1805",
-        "publication_year": 1957
+        "publication_year": 1957,
+        "west_to_east": 0.31055555499999876
       }
     },
     {
       "type": "Feature",
       "id": "Q109944100",
-      "time": {
-        "interval": [
-          "1753-01-01",
-          "1753-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -21562,18 +20661,13 @@
       },
       "properties": {
         "label": "Merkwürdige Reisen durch Niedersachsen, Holland und Engelland",
-        "publication_year": 1753
+        "publication_year": 1753,
+        "west_to_east": -1.304405345000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109944101",
-      "time": {
-        "interval": [
-          "1765-01-01",
-          "1765-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -21625,18 +20719,13 @@
       },
       "properties": {
         "label": "Reisen durch Niedersachsen, Holland und Engelland",
-        "publication_year": 1765
+        "publication_year": 1765,
+        "west_to_east": -3.364444445
       }
     },
     {
       "type": "Feature",
       "id": "Q109944102",
-      "time": {
-        "interval": [
-          "1808-01-01",
-          "1808-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -21672,18 +20761,13 @@
       },
       "properties": {
         "label": "Briefe über Polen, Österreich, Sachsen, Bayern, Italien, Etrurien, den Kirchenstaat und Neapel, an die Comtesse Constance de S.",
-        "publication_year": 1808
+        "publication_year": 1808,
+        "west_to_east": -0.5069033330000003
       }
     },
     {
       "type": "Feature",
       "id": "Q109944103",
-      "time": {
-        "interval": [
-          "1798-01-01",
-          "1798-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -21815,18 +20899,13 @@
       },
       "properties": {
         "label": "Meine Reise in das Sächsische Erzgebirge im Monath August 1798",
-        "publication_year": 1798
+        "publication_year": 1798,
+        "west_to_east": 0.26064370000000103
       }
     },
     {
       "type": "Feature",
       "id": "Q109944104",
-      "time": {
-        "interval": [
-          "1782-01-01",
-          "1782-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -22194,18 +21273,13 @@
       },
       "properties": {
         "label": "Mineralogische Reise durch das Herzogthum Weimar und Eisenach und einige angränzende Gegenden",
-        "publication_year": 1782
+        "publication_year": 1782,
+        "west_to_east": -1.1041666660000011
       }
     },
     {
       "type": "Feature",
       "id": "Q109944105",
-      "time": {
-        "interval": [
-          "1797-01-01",
-          "1797-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -22253,18 +21327,13 @@
       },
       "properties": {
         "label": "Reise durch den Harz und die Hessischen Lande, besonders in Hinsicht auf Naturschönheiten, Anbau und Alterthümer",
-        "publication_year": 1797
+        "publication_year": 1797,
+        "west_to_east": -0.1818777780000005
       }
     },
     {
       "type": "Feature",
       "id": "Q109944106",
-      "time": {
-        "interval": [
-          "1802-01-01",
-          "1802-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -22304,18 +21373,13 @@
       },
       "properties": {
         "label": "Friedrich August Weber’s kleine Reisen",
-        "publication_year": 1802
+        "publication_year": 1802,
+        "west_to_east": -0.36972222200000004
       }
     },
     {
       "type": "Feature",
       "id": "Q109944107",
-      "time": {
-        "interval": [
-          "1796-01-01",
-          "1796-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -22539,18 +21603,13 @@
       },
       "properties": {
         "label": "Wanderungen in Sachsen, Schlesien, Glatz und Böhmen",
-        "publication_year": 1796
+        "publication_year": 1796,
+        "west_to_east": 0.16725799999999857
       }
     },
     {
       "type": "Feature",
       "id": "Q109944108",
-      "time": {
-        "interval": [
-          "1811-01-01",
-          "1811-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -22682,18 +21741,13 @@
       },
       "properties": {
         "label": "Meine Wanderungen aus Schwaben durch die Maingegenden und Thüringen nach Sachsen im Frühjahre 1810 und Sommer 1811",
-        "publication_year": 1811
+        "publication_year": 1811,
+        "west_to_east": -0.8794444440000007
       }
     },
     {
       "type": "Feature",
       "id": "Q109944109",
-      "time": {
-        "interval": [
-          "1815-01-01",
-          "1815-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -22713,18 +21767,13 @@
       },
       "properties": {
         "label": "Meine Reise von Hamburg über Berlin, Leipzig usw. nach Heidelberg",
-        "publication_year": 1815
+        "publication_year": 1815,
+        "west_to_east": 1.6563995669999994
       }
     },
     {
       "type": "Feature",
       "id": "Q109944111",
-      "time": {
-        "interval": [
-          "1785-01-01",
-          "1785-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -22892,18 +21941,13 @@
       },
       "properties": {
         "label": "Briefe über eine Reise nach Sachsen",
-        "publication_year": 1785
+        "publication_year": 1785,
+        "west_to_east": 1.2597222219999988
       }
     },
     {
       "type": "Feature",
       "id": "Q109944112",
-      "time": {
-        "interval": [
-          "1780-01-01",
-          "1780-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -23027,18 +22071,13 @@
       },
       "properties": {
         "label": "Freundschaftliche Nachrichten von einer Carlsbader Brunnenreise",
-        "publication_year": 1780
+        "publication_year": 1780,
+        "west_to_east": -0.4171578339999993
       }
     },
     {
       "type": "Feature",
       "id": "Q109944113",
-      "time": {
-        "interval": [
-          "1758-01-01",
-          "1758-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -23090,18 +22129,13 @@
       },
       "properties": {
         "label": "Historische Berichte und praktische Anmerkungen auf Reisen in Deutschland, in die Niederlande, in Frankreich, England, Dännemark, Böhmen und Ungarn",
-        "publication_year": 1758
+        "publication_year": 1758,
+        "west_to_east": -1.2786992559999995
       }
     },
     {
       "type": "Feature",
       "id": "Q109944115",
-      "time": {
-        "interval": [
-          "1798-01-01",
-          "1798-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -23149,18 +22183,13 @@
       },
       "properties": {
         "label": "Erzählungen von einer Reise durch einen großen Theil Deutschlands und der Schweiz, im Jahre 1796",
-        "publication_year": 1798
+        "publication_year": 1798,
+        "west_to_east": 0.23639956699999942
       }
     },
     {
       "type": "Feature",
       "id": "Q109944116",
-      "time": {
-        "interval": [
-          "1796-01-01",
-          "1796-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -23180,18 +22209,13 @@
       },
       "properties": {
         "label": "Die Reise nach Dresden",
-        "publication_year": 1796
+        "publication_year": 1796,
+        "west_to_east": -0.5650671000000003
       }
     },
     {
       "type": "Feature",
       "id": "Q109944117",
-      "time": {
-        "interval": [
-          "1835-01-01",
-          "1835-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -23251,18 +22275,13 @@
       },
       "properties": {
         "label": "Menschen und Gegenden, Bd. 1: Deutschland und die Schweiz",
-        "publication_year": 1835
+        "publication_year": 1835,
+        "west_to_east": 2.3239555560000014
       }
     },
     {
       "type": "Feature",
       "id": "Q109944118",
-      "time": {
-        "interval": [
-          "1632-01-01",
-          "1632-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -23402,18 +22421,13 @@
       },
       "properties": {
         "label": "Itinerarium Germaniae Nov-Antiquae. Teutsches Reyßbuch durch Hoch- und Nider-Teutschland auch angräntzende, unnd benachbarte Königreich, Fürstenthumb und Lande",
-        "publication_year": 1632
+        "publication_year": 1632,
+        "west_to_east": -2.3397613219999993
       }
     },
     {
       "type": "Feature",
       "id": "Q109944119",
-      "time": {
-        "interval": [
-          "1967-01-01",
-          "1967-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -23513,18 +22527,13 @@
       },
       "properties": {
         "label": "Eine Reise durch Sachsen und Thüringen im Jahre 1588. Aus dem Tagebuch Karls des Älteren von Zerotin",
-        "publication_year": 1967
+        "publication_year": 1967,
+        "west_to_east": 2.0981828
       }
     },
     {
       "type": "Feature",
       "id": "Q109944120",
-      "time": {
-        "interval": [
-          "1775-01-01",
-          "1775-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -23584,18 +22593,13 @@
       },
       "properties": {
         "label": "Beobachtungen auf einer Harzreise nebst einem Versuche die Höhe des Brockens durch das Barometer zu bestimmen",
-        "publication_year": 1775
+        "publication_year": 1775,
+        "west_to_east": 0.26694444399999995
       }
     },
     {
       "type": "Feature",
       "id": "Q109944121",
-      "time": {
-        "interval": [
-          "1822-01-01",
-          "1822-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -23955,18 +22959,13 @@
       },
       "properties": {
         "label": "Der deutsche Wanderer",
-        "publication_year": 1822
+        "publication_year": 1822,
+        "west_to_east": 1.6500000000000004
       }
     },
     {
       "type": "Feature",
       "id": "Q109944122",
-      "time": {
-        "interval": [
-          "1799-01-01",
-          "1799-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -23986,18 +22985,13 @@
       },
       "properties": {
         "label": "Neue Ansicht von Dresden. Für Reisende von einem Reisenden",
-        "publication_year": 1799
+        "publication_year": 1799,
+        "west_to_east": -0.5464770340000005
       }
     },
     {
       "type": "Feature",
       "id": "Q109944123",
-      "time": {
-        "interval": [
-          "1786-01-01",
-          "1786-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24037,18 +23031,13 @@
       },
       "properties": {
         "label": "Auszug einer Reise durch einen Theil von Sachsen",
-        "publication_year": 1786
+        "publication_year": 1786,
+        "west_to_east": 1.599810367
       }
     },
     {
       "type": "Feature",
       "id": "Q109944124",
-      "time": {
-        "interval": [
-          "1793-01-01",
-          "1793-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24064,18 +23053,13 @@
       },
       "properties": {
         "label": "Freymüthige Bemerkungen über Hamburg, Berlin, Potsdam, Wien, Sondershausen und Gotha, etc.",
-        "publication_year": 1793
+        "publication_year": 1793,
+        "west_to_east": -1.7447333339999993
       }
     },
     {
       "type": "Feature",
       "id": "Q109944125",
-      "time": {
-        "interval": [
-          "1787-01-01",
-          "1787-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24115,18 +23099,13 @@
       },
       "properties": {
         "label": "Einige Bemerkungen auf einer kleinen Thüringischen Lustreise, im Jahr 1785",
-        "publication_year": 1787
+        "publication_year": 1787,
+        "west_to_east": 1.4022222220000007
       }
     },
     {
       "type": "Feature",
       "id": "Q109944126",
-      "time": {
-        "interval": [
-          "1787-01-01",
-          "1787-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24158,18 +23137,13 @@
       },
       "properties": {
         "label": "Einige Bemerkungen auf einer Reise nach Eißleben, aus einem Briefe (1783)",
-        "publication_year": 1787
+        "publication_year": 1787,
+        "west_to_east": -0.16326666700000025
       }
     },
     {
       "type": "Feature",
       "id": "Q109944127",
-      "time": {
-        "interval": [
-          "1793-01-01",
-          "1793-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24273,18 +23247,13 @@
       },
       "properties": {
         "label": "Bemerkungen auf einer Reise von Jena nach Altenburg, Dresden, Königstein und Meißen",
-        "publication_year": 1793
+        "publication_year": 1793,
+        "west_to_east": -1.891111111999999
       }
     },
     {
       "type": "Feature",
       "id": "Q109944128",
-      "time": {
-        "interval": [
-          "1788-01-01",
-          "1788-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24316,18 +23285,13 @@
       },
       "properties": {
         "label": "Bemerkungen auf einer Reise nach Lauchstädt, nebst einigen Nachrichten von dem dasigen Bade",
-        "publication_year": 1788
+        "publication_year": 1788,
+        "west_to_east": -0.05289333400000018
       }
     },
     {
       "type": "Feature",
       "id": "Q109944129",
-      "time": {
-        "interval": [
-          "1778-01-01",
-          "1778-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24355,18 +23319,13 @@
       },
       "properties": {
         "label": "Vermischte Beobachtungen und Anmerkungen auf einer Reise aus Deutschland nach der Schweiz und aus der Schweiz nach Deutschland",
-        "publication_year": 1778
+        "publication_year": 1778,
+        "west_to_east": 2.289166666
       }
     },
     {
       "type": "Feature",
       "id": "Q109944130",
-      "time": {
-        "interval": [
-          "2008-01-01",
-          "2008-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24482,18 +23441,13 @@
       },
       "properties": {
         "label": "Bericht über eine Reise in das Erzgebirge aus dem Jahre 1557",
-        "publication_year": 2008
+        "publication_year": 2008,
+        "west_to_east": -0.7322222220000008
       }
     },
     {
       "type": "Feature",
       "id": "Q109944131",
-      "time": {
-        "interval": [
-          "1784-01-01",
-          "1784-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24521,18 +23475,13 @@
       },
       "properties": {
         "label": "Beschreibung einer kleinen Reise in’s Dessausche 1783",
-        "publication_year": 1784
+        "publication_year": 1784,
+        "west_to_east": -0.20775444400000076
       }
     },
     {
       "type": "Feature",
       "id": "Q109944132",
-      "time": {
-        "interval": [
-          "1782-01-01",
-          "1782-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24568,18 +23517,13 @@
       },
       "properties": {
         "label": "Beschreibung einer Reise über den Harz im Jahre 1761",
-        "publication_year": 1782
+        "publication_year": 1782,
+        "west_to_east": -0.3561147769999984
       }
     },
     {
       "type": "Feature",
       "id": "Q109944133",
-      "time": {
-        "interval": [
-          "1786-01-01",
-          "1786-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24611,18 +23555,13 @@
       },
       "properties": {
         "label": "Beschreibung eines Versuchs, bald nach dem Herbst-Aequinoctio auf den Brocken zu reisen",
-        "publication_year": 1786
+        "publication_year": 1786,
+        "west_to_east": -0.12055555499999926
       }
     },
     {
       "type": "Feature",
       "id": "Q109944134",
-      "time": {
-        "interval": [
-          "1786-01-01",
-          "1786-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24642,18 +23581,13 @@
       },
       "properties": {
         "label": "Freundschaftliche Briefe über verschiedene Gegenstände",
-        "publication_year": 1786
+        "publication_year": 1786,
+        "west_to_east": -1.3280662339999996
       }
     },
     {
       "type": "Feature",
       "id": "Q109944135",
-      "time": {
-        "interval": [
-          "1788-01-01",
-          "1788-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24669,18 +23603,13 @@
       },
       "properties": {
         "label": "Briefe eines reisenden Handlungsbedienten über Leipzig, Hamburg und Lübeck",
-        "publication_year": 1788
+        "publication_year": 1788,
+        "west_to_east": 0.7347719999999995
       }
     },
     {
       "type": "Feature",
       "id": "Q109944136",
-      "time": {
-        "interval": [
-          "1791-01-01",
-          "1791-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24708,18 +23637,13 @@
       },
       "properties": {
         "label": "Briefe über eine Reise nach Dessau, im Jahr 1780",
-        "publication_year": 1791
+        "publication_year": 1791,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109944137",
-      "time": {
-        "interval": [
-          "1801-01-01",
-          "1801-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24755,18 +23679,13 @@
       },
       "properties": {
         "label": "Briefe auf einer Reise durch Thüringen und Hessen, geschrieben von einem wandernden Helvetier im Jahr 1800",
-        "publication_year": 1801
+        "publication_year": 1801,
+        "west_to_east": 1.485374556
       }
     },
     {
       "type": "Feature",
       "id": "Q109944138",
-      "time": {
-        "interval": [
-          "1778-01-01",
-          "1778-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24890,18 +23809,13 @@
       },
       "properties": {
         "label": "Briefe eines Reisenden an Herrn Drost von LB (1778)",
-        "publication_year": 1778
+        "publication_year": 1778,
+        "west_to_east": 0.7347719999999995
       }
     },
     {
       "type": "Feature",
       "id": "Q109944139",
-      "time": {
-        "interval": [
-          "1784-01-01",
-          "1784-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24981,18 +23895,13 @@
       },
       "properties": {
         "label": "Briefe eines Reisenden aus Sachsen",
-        "publication_year": 1784
+        "publication_year": 1784,
+        "west_to_east": 1.0732999999999997
       }
     },
     {
       "type": "Feature",
       "id": "Q109944140",
-      "time": {
-        "interval": [
-          "1881-01-01",
-          "1881-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -25032,18 +23941,13 @@
       },
       "properties": {
         "label": "Eine Dichterreise vor 81 Jahren",
-        "publication_year": 1881
+        "publication_year": 1881,
+        "west_to_east": -1.3634108000000005
       }
     },
     {
       "type": "Feature",
       "id": "Q109944141",
-      "time": {
-        "interval": [
-          "1816-01-01",
-          "1816-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -25167,18 +24071,13 @@
       },
       "properties": {
         "label": "Vier Erholungs-Wochen oder Reise durch die neupreussischen Markgrafthümer, Nieder- und Oberlausitz",
-        "publication_year": 1816
+        "publication_year": 1816,
+        "west_to_east": 0.44999666699999885
       }
     },
     {
       "type": "Feature",
       "id": "Q109944142",
-      "time": {
-        "interval": [
-          "1785-01-01",
-          "1785-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -25202,18 +24101,13 @@
       },
       "properties": {
         "label": "Fragment einer bergmännischen Reise nach Freiberg im Erzgebirge",
-        "publication_year": 1785
+        "publication_year": 1785,
+        "west_to_east": -0.023611222999999626
       }
     },
     {
       "type": "Feature",
       "id": "Q109944143",
-      "time": {
-        "interval": [
-          "1786-01-01",
-          "1786-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -25249,18 +24143,13 @@
       },
       "properties": {
         "label": "Fragmente aus dem Journal eines Reisenden, der Thüringen und Franken im März durchwanderte",
-        "publication_year": 1786
+        "publication_year": 1786,
+        "west_to_east": 0.14840333400000105
       }
     },
     {
       "type": "Feature",
       "id": "Q109944144",
-      "time": {
-        "interval": [
-          "1802-01-01",
-          "1802-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -25528,18 +24417,13 @@
       },
       "properties": {
         "label": "Fragmente von Reisen in Ober- und Niedersachsen von 1778 bis 1782",
-        "publication_year": 1802
+        "publication_year": 1802,
+        "west_to_east": 0.08996089999999946
       }
     },
     {
       "type": "Feature",
       "id": "Q109944147",
-      "time": {
-        "interval": [
-          "1783-01-01",
-          "1783-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -25599,18 +24483,13 @@
       },
       "properties": {
         "label": "Herrn G. E. von R. Reise von Wien nach Böhmen und Sachsen, im May 1783",
-        "publication_year": 1783
+        "publication_year": 1783,
+        "west_to_east": 0.587521112000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109944148",
-      "time": {
-        "interval": [
-          "1785-01-01",
-          "1785-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -25646,18 +24525,13 @@
       },
       "properties": {
         "label": "Journal einer Reise nach Barby im Jahre 178–",
-        "publication_year": 1785
+        "publication_year": 1785,
+        "west_to_east": 0.23284216600000107
       }
     },
     {
       "type": "Feature",
       "id": "Q109944149",
-      "time": {
-        "interval": [
-          "1781-01-01",
-          "1781-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -25669,18 +24543,13 @@
       },
       "properties": {
         "label": "Nachrichten eines reisenden Passagiers von den wahren Begebenheiten, die sich auf seiner Reise […] ereignet",
-        "publication_year": 1781
+        "publication_year": 1781,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109944150",
-      "time": {
-        "interval": [
-          "1786-01-01",
-          "1786-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -25700,18 +24569,13 @@
       },
       "properties": {
         "label": "Nachrichten von Weimar in einem Schreiben an Herrn Professor Klein zu Mannheim",
-        "publication_year": 1786
+        "publication_year": 1786,
+        "west_to_east": -0.6111111109999996
       }
     },
     {
       "type": "Feature",
       "id": "Q109944151",
-      "time": {
-        "interval": [
-          "1783-01-01",
-          "1783-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -25999,18 +24863,13 @@
       },
       "properties": {
         "label": "Der durch Preußen und Sachsen reisende Weltbürger",
-        "publication_year": 1783
+        "publication_year": 1783,
+        "west_to_east": 1.3359000000000005
       }
     },
     {
       "type": "Feature",
       "id": "Q109944152",
-      "time": {
-        "interval": [
-          "1999-01-01",
-          "1999-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -26050,18 +24909,13 @@
       },
       "properties": {
         "label": "Eine deutsche Reise anno 1708 [sog. Anonimo Veneziano]",
-        "publication_year": 1999
+        "publication_year": 1999,
+        "west_to_east": -3.8854166669999994
       }
     },
     {
       "type": "Feature",
       "id": "Q109944153",
-      "time": {
-        "interval": [
-          "1781-01-01",
-          "1781-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -26129,18 +24983,13 @@
       },
       "properties": {
         "label": "Reise von Berlin nach Strasburg (1778)",
-        "publication_year": 1781
+        "publication_year": 1781,
+        "west_to_east": 2.5980555560000003
       }
     },
     {
       "type": "Feature",
       "id": "Q109944154",
-      "time": {
-        "interval": [
-          "1804-01-01",
-          "1804-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -26180,18 +25029,13 @@
       },
       "properties": {
         "label": "Reise von Dresden nach Prag und zurück. Nebst einer Beschreibung der Stadt Prag",
-        "publication_year": 1804
+        "publication_year": 1804,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109944155",
-      "time": {
-        "interval": [
-          "1786-01-01",
-          "1786-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -26207,18 +25051,13 @@
       },
       "properties": {
         "label": "Reise von Dresden nach Teplitz in Böhmen. Im Jahr 1782",
-        "publication_year": 1786
+        "publication_year": 1786,
+        "west_to_east": 0.01752222300000028
       }
     },
     {
       "type": "Feature",
       "id": "Q109944156",
-      "time": {
-        "interval": [
-          "1887-01-01",
-          "1887-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -26266,18 +25105,13 @@
       },
       "properties": {
         "label": "Eine Reise von Dresden nach Warschau vor 80 Jahren",
-        "publication_year": 1887
+        "publication_year": 1887,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109944157",
-      "time": {
-        "interval": [
-          "1786-01-01",
-          "1786-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -26297,18 +25131,13 @@
       },
       "properties": {
         "label": "Reise nach dem Rostrap und seinen Felsenbrüdern in der Grafschaft Regenstein oder Reinstein am Unterharz",
-        "publication_year": 1786
+        "publication_year": 1786,
+        "west_to_east": -0.06861111099999917
       }
     },
     {
       "type": "Feature",
       "id": "Q109944158",
-      "time": {
-        "interval": [
-          "1898-01-01",
-          "1898-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -26456,18 +25285,13 @@
       },
       "properties": {
         "label": "Reise eines Jenenser Studenten nach Dresden und die Sächsische Schweiz im Jahre 1802",
-        "publication_year": 1898
+        "publication_year": 1898,
+        "west_to_east": 0.0
       }
     },
     {
       "type": "Feature",
       "id": "Q109944159",
-      "time": {
-        "interval": [
-          "1783-01-01",
-          "1783-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -26687,18 +25511,13 @@
       },
       "properties": {
         "label": "Kleine Reise ins Thüringische, 1782",
-        "publication_year": 1783
+        "publication_year": 1783,
+        "west_to_east": 0.2805555559999995
       }
     },
     {
       "type": "Feature",
       "id": "Q109944160",
-      "time": {
-        "interval": [
-          "1802-01-01",
-          "1802-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -26730,18 +25549,13 @@
       },
       "properties": {
         "label": "Reise eines Ungenannten durch Deutschland und die Schweitz in den Jahren 1799, 1800, 1801, Breslau/Leipzig 1802.",
-        "publication_year": 1802
+        "publication_year": 1802,
+        "west_to_east": 0.558066234
       }
     },
     {
       "type": "Feature",
       "id": "Q109944161",
-      "time": {
-        "interval": [
-          "1797-01-01",
-          "1797-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -26785,18 +25599,13 @@
       },
       "properties": {
         "label": "Reisen und merkwürdige Nachrichten zweier Neufranken durch Deutschland, Rußland, Polen und die Oesterreichischen Staaten während des jetzigen wichtigen Krieges",
-        "publication_year": 1797
+        "publication_year": 1797,
+        "west_to_east": 0.7104888879999987
       }
     },
     {
       "type": "Feature",
       "id": "Q109944162",
-      "time": {
-        "interval": [
-          "1805-01-01",
-          "1805-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -26944,18 +25753,13 @@
       },
       "properties": {
         "label": "Reisen durch einen Theil Deutschlands vorzüglich durch Sachsen, Thüringen, Franken etc.",
-        "publication_year": 1805
+        "publication_year": 1805,
+        "west_to_east": -2.9527333340000013
       }
     },
     {
       "type": "Feature",
       "id": "Q109944163",
-      "time": {
-        "interval": [
-          "1801-01-01",
-          "1801-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -27351,18 +26155,13 @@
       },
       "properties": {
         "label": "Schönheiten der Natur und Kunst dargestellt auf einer Reise durch einen Theil der Sächsischen Staaten",
-        "publication_year": 1801
+        "publication_year": 1801,
+        "west_to_east": -1.4497222220000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109944164",
-      "time": {
-        "interval": [
-          "1781-01-01",
-          "1781-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -27446,18 +26245,13 @@
       },
       "properties": {
         "label": "Sendschreiben an den Herausgeber dieser Sammlung von einer über Quedlinburg und Blankenburg in die Graffschaft Mannsfeld gethanen Reise, 1781",
-        "publication_year": 1781
+        "publication_year": 1781,
+        "west_to_east": -0.0182500000000001
       }
     },
     {
       "type": "Feature",
       "id": "Q109944165",
-      "time": {
-        "interval": [
-          "1785-01-01",
-          "1785-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -27521,18 +26315,13 @@
       },
       "properties": {
         "label": "Abgekürztes Tagebuch einer Reise von Aachen über Frankfurt am Mayn, und viele deutsche Höfe, nach Thüringen",
-        "publication_year": 1785
+        "publication_year": 1785,
+        "west_to_east": -1.728621789
       }
     },
     {
       "type": "Feature",
       "id": "Q109944166",
-      "time": {
-        "interval": [
-          "1786-01-01",
-          "1786-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -27580,18 +26369,13 @@
       },
       "properties": {
         "label": "Aus dem Tagebuch einer Reise im Sommer 1785",
-        "publication_year": 1786
+        "publication_year": 1786,
+        "west_to_east": 0.36972222200000004
       }
     },
     {
       "type": "Feature",
       "id": "Q109944167",
-      "time": {
-        "interval": [
-          "1826-01-01",
-          "1826-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -27691,18 +26475,13 @@
       },
       "properties": {
         "label": "Wanderbilder. Gesammelt auf einer Reise von Wien über Dresden, Leipzig, Cassel nach Hamburg",
-        "publication_year": 1826
+        "publication_year": 1826,
+        "west_to_east": 6.0480555559999996
       }
     },
     {
       "type": "Feature",
       "id": "Q109944168",
-      "time": {
-        "interval": [
-          "1788-01-01",
-          "1788-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -27738,18 +26517,13 @@
       },
       "properties": {
         "label": "Eine Wanderung die Elbe entlang",
-        "publication_year": 1788
+        "publication_year": 1788,
+        "west_to_east": 0.5069444449999985
       }
     },
     {
       "type": "Feature",
       "id": "Q109944169",
-      "time": {
-        "interval": [
-          "1802-01-01",
-          "1802-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -27981,18 +26755,13 @@
       },
       "properties": {
         "label": "Wanderung durch einen großen Theil des Harzes und einem Theil der Grafschaften Hohenstein und Mansfeld, Magdeburg 1802.",
-        "publication_year": 1802
+        "publication_year": 1802,
+        "west_to_east": 0.13996090000000017
       }
     },
     {
       "type": "Feature",
       "id": "Q109944170",
-      "time": {
-        "interval": [
-          "1795-01-01",
-          "1795-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -28088,18 +26857,13 @@
       },
       "properties": {
         "label": "Kleine Wanderungen durch Sachsen und Brandenburg",
-        "publication_year": 1795
+        "publication_year": 1795,
+        "west_to_east": 0.5752670999999996
       }
     },
     {
       "type": "Feature",
       "id": "Q109944171",
-      "time": {
-        "interval": [
-          "1786-01-01",
-          "1786-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -28135,18 +26899,13 @@
       },
       "properties": {
         "label": "Ueber Weimar. Bruchstücke aus dem Tagebuche eines Reisenden",
-        "publication_year": 1786
+        "publication_year": 1786,
+        "west_to_east": 1.0452884559999998
       }
     },
     {
       "type": "Feature",
       "id": "Q109944172",
-      "time": {
-        "interval": [
-          "1741-01-01",
-          "1741-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -28486,18 +27245,13 @@
       },
       "properties": {
         "label": "Anmerckungen derer Auf meiner Sächsischen Reysse gesehenen Merckwürdigkeiten Wie ich solche an unterschiedenen Orten meist nur kürtzlich aufgeschrieben",
-        "publication_year": 1741
+        "publication_year": 1741,
+        "west_to_east": -3.0588888890000003
       }
     },
     {
       "type": "Feature",
       "id": "Q109944173",
-      "time": {
-        "interval": [
-          "2011-01-01",
-          "2011-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -28517,18 +27271,13 @@
       },
       "properties": {
         "label": "Eberhard Heinrich Daniel Stoschs Aufzeichnungen über seinen Aufenthalt in Leipzig im Mai 1740",
-        "publication_year": 2011
+        "publication_year": 2011,
+        "west_to_east": 0.6786777780000008
       }
     },
     {
       "type": "Feature",
       "id": "Q109944174",
-      "time": {
-        "interval": [
-          "2010-01-01",
-          "2010-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -28556,18 +27305,13 @@
       },
       "properties": {
         "label": "Gesprächsprotokolle. Die Tagebuchaufzeichnungen des Schweizer Theologen Gabriel Hürner während seines Aufenthaltes in Leipzig im Mai 1738",
-        "publication_year": 2010
+        "publication_year": 2010,
+        "west_to_east": -0.3297613219999995
       }
     },
     {
       "type": "Feature",
       "id": "Q109944175",
-      "time": {
-        "interval": [
-          "2008-01-01",
-          "2008-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -28735,18 +27479,13 @@
       },
       "properties": {
         "label": "'Ein Ort zu studieren, der seines gleichen nicht hat' - Leipzig um 1730 in den Tagebüchern des Königsberger Professors Christian Gabriel Fischer",
-        "publication_year": 2008
+        "publication_year": 2008,
+        "west_to_east": 1.1027670999999994
       }
     },
     {
       "type": "Feature",
       "id": "Q109944176",
-      "time": {
-        "interval": [
-          "1798-01-01",
-          "1798-12-31"
-        ]
-      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -28934,7 +27673,8 @@
       },
       "properties": {
         "label": "Kauschs Briefe an den Einsiedler Gerund auf dem Riesengebürge, über seine Landesvweisung und gethanen Reisen nach Leipzig, Jena, weimar, Erfurt, Gotha, Göttingen, Halle, Potsdam und Berlin",
-        "publication_year": 1798
+        "publication_year": 1798,
+        "west_to_east": -0.1833333330000002
       }
     }
   ]

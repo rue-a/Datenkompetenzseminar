@@ -40,33 +40,22 @@ class Travelogue:
 
     def export_geojson(self) -> dict:
         """
-        Serialises this travelogue as a JSON-FG Feature (OGC 21-045r1, v0.3).
+        Serialises this travelogue as a GeoJSON Feature.
 
         The route is encoded as a GeoJSON LineString connecting all stops in
-        ordinal order. Temporal information is expressed via the JSON-FG 'time'
-        member as an interval spanning the full publication year. When the
-        publication year is unknown, 'time' is set to null.
+        ordinal order. The publication year is stored in the 'properties' dict
+        under both 'year' and 'publication_year'. Coordinates follow GeoJSON
+        axis order (longitude, latitude).
 
         Returns:
-            A dict that is a valid JSON-FG root object conforming to the Core
-            requirements class. Coordinates follow GeoJSON axis order
-            (longitude, latitude).
+            A dict representing a GeoJSON Feature with a LineString geometry.
         """
         coordinates = [[loc.longitude, loc.latitude] for loc in self.locations]
         # coordinates = [coordinates[0], coordinates[-1]]
 
-        time = None
-        if self.publication_year is not None:
-            time = {
-                "interval": [
-                    f"{self.publication_year}-01-01",
-                    f"{self.publication_year}-12-31",
-                ]
-            }
         return {
             "type": "Feature",
             "id": self.qid,
-            "time": time,
             "geometry": {
                 "type": "LineString",
                 "coordinates": coordinates,
@@ -74,35 +63,65 @@ class Travelogue:
             "properties": {
                 "label": self.label,
                 "publication_year": self.publication_year,
+                "west_to_east": self.locations[0].longitude
+                - self.locations[-1].longitude,
             },
         }
 
+    def export_source_target(self) -> dict:
+        """
+        Serialises the first and last stop of this travelogue as a flat dict.
 
-# ---------------------------------------------------------------------------
-# GeoJSON-FG export
-# ---------------------------------------------------------------------------
+        'west_to_east' is the difference in longitude between the first and
+        last stop (source_lon − target_lon). A positive value means the journey
+        ends further west than it begins; negative means it ends further east.
+
+        Returns:
+            A dict with id, label, publication_year, source/target coordinates,
+            and the west_to_east longitude delta.
+        """
+        return {
+            "id": self.qid,
+            "label": self.label,
+            "publication_year": self.publication_year,
+            "source_lat": self.locations[0].latitude,
+            "source_lon": self.locations[0].longitude,
+            "target_lat": self.locations[-1].latitude,
+            "target_lon": self.locations[-1].longitude,
+            "west_to_east": self.locations[0].longitude - self.locations[-1].longitude,
+        }
 
 
 def write_feature_collection(travelogues: list[Travelogue], output_path: Path) -> None:
     """
-    Writes all travelogues to a JSON-FG FeatureCollection file.
-
-    The FeatureCollection is the JSON-FG root object and therefore carries the
-    'conformsTo' declaration (OGC 21-045r1, §8.2.1). Individual features must
-    not repeat it. 'geometryDimension' is set to 1 because all routes are
-    LineStrings.
+    Writes all travelogues to a GeoJSON FeatureCollection file.
 
     Args:
         travelogues:  List of Travelogue objects to serialise.
         output_path:  Destination file path; created or overwritten.
     """
-    collection = {
+    geojson_feature_collection = {
         "type": "FeatureCollection",
         "conformsTo": ["http://www.opengis.net/spec/json-fg-1/0.3/conf/core"],
         "featureType": "Travelogue",
         "features": [t.export_geojson() for t in travelogues],
     }
-    output_path.write_text(json.dumps(collection, indent=2, ensure_ascii=False))
+    output_path.write_text(
+        json.dumps(geojson_feature_collection, indent=2, ensure_ascii=False)
+    )
+    print(f"Wrote {len(travelogues)} features to {output_path}.")
+
+
+def write_source_target_json(travelogues: list[Travelogue], output_path: Path) -> None:
+    """
+    Writes a JSON array of source/target records to a file, one per travelogue.
+
+    Args:
+        travelogues:  List of Travelogue objects to serialise.
+        output_path:  Destination file path; created or overwritten.
+    """
+    source_target = [t.export_source_target() for t in travelogues]
+    output_path.write_text(json.dumps(source_target, indent=2, ensure_ascii=False))
     print(f"Wrote {len(travelogues)} features to {output_path}.")
 
 
@@ -209,8 +228,8 @@ def main() -> None:
     travelogues = load_travelogues(DATA_FILE)
     print(f"Loaded {len(travelogues)} travelogues from {DATA_FILE}.")
 
-    output_path = DATA_FILE.parent / "travelogues.geojson"
-    write_feature_collection(travelogues, output_path)
+    write_feature_collection(travelogues, Path("data/travelogues.geojson"))
+    write_source_target_json(travelogues, Path("data/travelogues_source_target.json"))
 
     # Quick preview: first travelogue with at least one stop.
     for t in travelogues:
