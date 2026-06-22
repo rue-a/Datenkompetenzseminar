@@ -8,6 +8,6 @@ Data, Code and Slides for _Seminar Datenkompetenz für Digital Humanities_.
 
 ## Required Software
 
-- Python
-- uv
-- 
+- [Python](https://www.python.org/)
+- [uv](https://docs.astral.sh/uv/)
+- Editor, e.g. [VSCodium](https://vscodium.com/)
