@@ -2,7 +2,7 @@
 
 Data, Code and Slides for _Seminar Datenkompetenz für Digital Humanities_.
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://raw.githubusercontent.com/rue-a/geospatial_data_codespace/refs/heads/master/2026/slides-lia/course.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://raw.githubusercontent.com/rue-a/geospatial_data_codespace/refs/heads/master/slides-lia/course.md)
 
 
 
