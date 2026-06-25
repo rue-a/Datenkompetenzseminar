@@ -81,29 +81,35 @@ draw()
 @xlarge(**Spatial Humanities** beantworten geisteswissenschaftliche Fragen mit Geodaten und räumlichen Analysemethoden.)
 
 
-## Beispielfragestellungen
+## Aufgabenstellung
 
 @large(```
 **Datensatz:** *Die Digitalen Reiseberichte der Frühen Neuzeit in Sachsen* 
 - https://reise.isgv.de/
 - https://www.wikidata.org/wiki/Q105102869
 
-1. Wie beliebt waren die verschiedenen Reiseziele?
-2. In welche Richtung wurde hauptsächlich gereist?
 ```)
 
 @xlarge(**Aufgaben**)
 
 @large(```
-1. Machen Sie sich mit dem Reiseberichteprojekt vertraut. Wie ist ein Reisebericht-Datenobjet in Wikidata aufgebaut? Schreiben Sie ein SPARQL-Query, das alle Reiseberichte des Projekts erfasst. Wie viele Reiseberichte gibt es?
-2. Datenanalyse. Konvertieren Sie die Wikidata-Daten in ein geeignetes Visualisierungsformat und stellen Sie die Daten in einer geeigneten Visualisierung dar.
+1. Machen Sie sich mit dem Reiseberichteprojekt vertraut. Wie ist ein Reisebericht-Datenobjet in Wikidata aufgebaut? Schreiben Sie ein SPARQL-Query, das alle Reiseberichte des Projekts, zusammen mit ihrem Label und Erscheinungsjahr erfasst. Wie viele Reiseberichte gibt es?
+2. Stellen Sie die Häufigkeit mit der die verschiedenen Orte bereist wurden als [Bubble-Map](https://www.data-to-viz.com/graph/bubblemap.html) dar. 
 ```)
-
 
 1. Daten holen (→ [SPARQL](https://query.wikidata.org/#SELECT%20%3Ftravelogue%20%3FtravelogueLabel%20%28YEAR%28%3FpubDate%29%20AS%20%3FpublicationYear%29%20%3Fsubject%20%3FsubjectLabel%20%3Fordinal%20%3Fcoords%20WHERE%20%7B%0A%20%20%20%20%3Ftravelogue%20wdt%3AP1343%20wd%3AQ105102869.%0A%20%20%20%20%3Ftravelogue%20wdt%3AP577%20%3FpubDate.%0A%20%20%20%20%3Ftravelogue%20p%3AP921%20%3Fstmt.%0A%20%20%20%20%3Fstmt%20ps%3AP921%20%3Fsubject%3B%0A%20%20%20%20%20%20%20%20%20%20prov%3AwasDerivedFrom%20%3Fref.%0A%20%20%20%20%3Fref%20pr%3AP1545%20%3Fordinal.%0A%20%20%20%20%3Fsubject%20wdt%3AP625%20%3Fcoords.%0A%20%20%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cde%22.%20%7D%0A%7D%0AORDER%20BY%20%3Ftravelogue%20xsd%3Ainteger%28%3FpublicationYear%29%20xsd%3Ainteger%28%3Fordinal%29%0A))
 2. In geeignetes Format konvertieren (→ Python)
-3. Visualisieren (→ kepler.gl)
+3. Visualisieren (→ [kepler.gl](https://kepler.gl/demo))
+@large(```
+3. Integrieren Sie die bereitgestellten Daten der Reiserouten in Ihre Visualisierung.
+```)
 
+
+<figure style="float: left; width: 70%; margin-left: 0px; margin-bottom: 10px; text-align: center;">
+  <img src="fig/bubblemap.png" alt="Bubblemap" style="width: 100%;">
+  <figcaption style="font-size: 90%; font-style: italic;">*Abbildung: Bubble Map, Where surfers live, Yan Holtz and Conor Healy, [from Data to Viz](https://www.data-to-viz.com/graph/bubblemap.html)*
+</figcaption>
+</figure>
 
 
 # Geodatenstrukturen: Raster und Vektor

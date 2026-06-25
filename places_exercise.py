@@ -30,7 +30,6 @@ class TravelLocation:
     link: str
     latitude: float
     longitude: float
-    nb_of_visits: int
 
     def export_geojson(self) -> dict:
         """
